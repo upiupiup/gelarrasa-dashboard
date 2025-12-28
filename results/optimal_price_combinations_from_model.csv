@@ -1,0 +1,648 @@
+location,property_type,room_type,accommodates,bedrooms,has_wifi,has_ac,optimal_price_median,optimal_price_75
+New York,Barn,Entire place,5,1.0,1,1,197.41261633916778,197.41261633916778
+New York,Boat,Entire place,4,1.0,1,1,126.8687738613271,126.8687738613271
+New York,Camper/RV,Entire place,2,1.0,0,0,75.87876721306283,75.87876721306283
+New York,Camper/RV,Entire place,2,1.0,1,1,77.95291105695057,79.031250969925
+New York,Camper/RV,Entire place,3,1.0,0,0,73.33777565345278,73.44579378568235
+New York,Camper/RV,Entire place,3,1.0,1,0,71.43400291398758,72.36566290413536
+New York,Camper/RV,Entire place,7,2.0,1,1,114.44228412235074,114.44228412235074
+New York,Entire apartment,Entire place,1,1.0,0,1,45.13477989188318,45.13477989188318
+New York,Entire apartment,Entire place,1,1.0,1,0,98.73141996913321,101.52581686008804
+New York,Entire apartment,Entire place,1,1.0,1,1,99.30083171499412,123.94184614014472
+New York,Entire apartment,Entire place,1,2.0,1,1,125.51582190114382,125.94354881045055
+New York,Entire apartment,Entire place,2,1.0,0,0,98.76818181974781,102.90903969366224
+New York,Entire apartment,Entire place,2,1.0,0,1,119.26667729551994,157.29201297004641
+New York,Entire apartment,Entire place,2,1.0,1,0,94.55809097072488,116.84233037263795
+New York,Entire apartment,Entire place,2,1.0,1,1,109.34782539570902,149.04940438926275
+New York,Entire apartment,Entire place,2,2.0,0,1,147.13501755627024,147.13501755627024
+New York,Entire apartment,Entire place,2,2.0,1,0,93.16975024681983,123.53016485067451
+New York,Entire apartment,Entire place,2,2.0,1,1,140.26665565117557,176.33554464100746
+New York,Entire apartment,Entire place,2,3.0,1,1,29.857194597440333,29.857194597440333
+New York,Entire apartment,Entire place,2,5.0,1,1,80.89327461185606,80.89327461185606
+New York,Entire apartment,Entire place,2,21.0,1,1,198.61672912446463,198.61672912446463
+New York,Entire apartment,Entire place,3,1.0,0,1,91.18482353258895,95.45212803537034
+New York,Entire apartment,Entire place,3,1.0,1,0,108.39034507806798,136.83542772392883
+New York,Entire apartment,Entire place,3,1.0,1,1,116.302124924029,151.16016913107504
+New York,Entire apartment,Entire place,3,2.0,0,0,83.77089321506121,83.77089321506121
+New York,Entire apartment,Entire place,3,2.0,0,1,95.47941884074841,95.47941884074841
+New York,Entire apartment,Entire place,3,2.0,1,0,68.39102962541823,68.62546161457546
+New York,Entire apartment,Entire place,3,2.0,1,1,123.5048512789229,157.71829568158066
+New York,Entire apartment,Entire place,3,3.0,1,1,144.23627610695522,265.7473251210808
+New York,Entire apartment,Entire place,4,1.0,0,0,107.35773346687269,107.35773346687269
+New York,Entire apartment,Entire place,4,1.0,0,1,98.58256173070498,153.01459378414512
+New York,Entire apartment,Entire place,4,1.0,1,0,90.30137104559658,152.19415734920284
+New York,Entire apartment,Entire place,4,1.0,1,1,117.91947820835234,152.20824041343195
+New York,Entire apartment,Entire place,4,2.0,0,0,221.54587606160197,287.9206313590385
+New York,Entire apartment,Entire place,4,2.0,0,1,163.9689578068462,228.5457770317788
+New York,Entire apartment,Entire place,4,2.0,1,0,116.1956430918622,145.9269668110297
+New York,Entire apartment,Entire place,4,2.0,1,1,142.98389323665367,198.0618466595895
+New York,Entire apartment,Entire place,4,3.0,1,0,233.76565264618088,233.76565264618088
+New York,Entire apartment,Entire place,4,3.0,1,1,160.41576010544568,206.48697875722732
+New York,Entire apartment,Entire place,4,4.0,1,0,106.1769125195924,106.1769125195924
+New York,Entire apartment,Entire place,4,4.0,1,1,228.65621312938413,296.70507269217035
+New York,Entire apartment,Entire place,5,1.0,0,1,326.31995196783254,326.31995196783254
+New York,Entire apartment,Entire place,5,1.0,1,0,98.14159533999718,173.30445950015053
+New York,Entire apartment,Entire place,5,1.0,1,1,120.35745157978576,154.39358915039614
+New York,Entire apartment,Entire place,5,2.0,0,0,106.42897734188885,106.47489781843227
+New York,Entire apartment,Entire place,5,2.0,1,0,135.91439358172303,150.84155606117537
+New York,Entire apartment,Entire place,5,2.0,1,1,135.91273395068626,195.10042357366495
+New York,Entire apartment,Entire place,5,3.0,1,0,133.8323706634257,150.68532405981307
+New York,Entire apartment,Entire place,5,3.0,1,1,179.67135432704777,279.8534680204394
+New York,Entire apartment,Entire place,5,6.0,1,1,57.25985192924577,57.25985192924577
+New York,Entire apartment,Entire place,6,1.0,1,0,115.17186622921201,115.17186622921201
+New York,Entire apartment,Entire place,6,1.0,1,1,110.44970715139564,140.56500341218126
+New York,Entire apartment,Entire place,6,2.0,0,1,96.38993470203346,446.91988621922724
+New York,Entire apartment,Entire place,6,2.0,1,0,121.70697937538807,150.06816944968006
+New York,Entire apartment,Entire place,6,2.0,1,1,160.71393600490097,212.77538418172705
+New York,Entire apartment,Entire place,6,3.0,0,0,194.19095830827064,194.19095830827064
+New York,Entire apartment,Entire place,6,3.0,1,0,189.96059824831275,257.54637489944685
+New York,Entire apartment,Entire place,6,3.0,1,1,183.4439151218412,263.13064458198596
+New York,Entire apartment,Entire place,6,4.0,1,1,190.00181020004754,299.9544882162861
+New York,Entire apartment,Entire place,7,1.0,0,1,195.32135851145065,195.32135851145065
+New York,Entire apartment,Entire place,7,1.0,1,1,241.12398603621602,249.00513533631562
+New York,Entire apartment,Entire place,7,2.0,1,0,220.86695102945683,220.86695102945683
+New York,Entire apartment,Entire place,7,2.0,1,1,142.0463618362383,218.35555977352624
+New York,Entire apartment,Entire place,7,3.0,1,1,188.74052283903757,241.8358690669712
+New York,Entire apartment,Entire place,7,4.0,1,0,252.37953825611345,279.0301202021788
+New York,Entire apartment,Entire place,7,4.0,1,1,198.6163271588638,215.6617746667177
+New York,Entire apartment,Entire place,7,5.0,1,1,1515.7375925166511,1515.7375925166511
+New York,Entire apartment,Entire place,8,1.0,1,1,127.01857433827504,140.2404502962873
+New York,Entire apartment,Entire place,8,2.0,1,0,228.0871323439755,228.0871323439755
+New York,Entire apartment,Entire place,8,2.0,1,1,162.00052522598577,216.39157721153978
+New York,Entire apartment,Entire place,8,3.0,1,0,84.95823275417385,84.95823275417385
+New York,Entire apartment,Entire place,8,3.0,1,1,181.51823818605786,243.1724156072829
+New York,Entire apartment,Entire place,8,4.0,1,0,409.9039746026122,409.9039746026122
+New York,Entire apartment,Entire place,8,4.0,1,1,264.62548128050497,421.4232132446368
+New York,Entire apartment,Entire place,8,8.0,1,1,198.49235878788983,203.55967340594435
+New York,Entire apartment,Entire place,9,1.0,1,1,244.96330436274917,244.96330436274917
+New York,Entire apartment,Entire place,9,2.0,1,1,228.5861863619117,334.18348233008857
+New York,Entire apartment,Entire place,9,3.0,1,0,156.61290753507762,156.61290753507762
+New York,Entire apartment,Entire place,9,3.0,1,1,168.0733681277964,212.79591287397798
+New York,Entire apartment,Entire place,9,4.0,1,1,276.80787300880917,355.1618331046168
+New York,Entire apartment,Entire place,10,1.0,1,1,143.83601003372746,210.54814494588447
+New York,Entire apartment,Entire place,10,2.0,1,1,192.0998906447876,346.0893993074205
+New York,Entire apartment,Entire place,10,3.0,1,0,156.82974830504887,156.82974830504887
+New York,Entire apartment,Entire place,10,3.0,1,1,242.13197244878538,261.31760884670047
+New York,Entire apartment,Entire place,10,4.0,1,1,318.2114854684635,528.2568259753976
+New York,Entire apartment,Entire place,10,5.0,1,0,305.21165490599344,305.21165490599344
+New York,Entire apartment,Entire place,10,5.0,1,1,623.4199040910872,627.0054210079365
+New York,Entire apartment,Entire place,11,3.0,1,1,132.1828622988358,134.44774642167368
+New York,Entire apartment,Entire place,11,4.0,1,1,230.92226588746155,272.3147282077287
+New York,Entire apartment,Entire place,11,5.0,1,1,521.5339691287713,538.651048336287
+New York,Entire apartment,Entire place,12,2.0,1,1,215.8217605974246,279.29884942596493
+New York,Entire apartment,Entire place,12,3.0,1,1,325.70835654259747,557.6088631087707
+New York,Entire apartment,Entire place,12,4.0,1,1,337.71678143720976,350.96450272657376
+New York,Entire apartment,Entire place,12,5.0,1,1,332.51799797214557,332.51799797214557
+New York,Entire apartment,Entire place,12,6.0,1,1,1110.0877802330485,1110.0877802330485
+New York,Entire apartment,Entire place,13,4.0,1,1,282.2608150294094,327.92737389428487
+New York,Entire apartment,Entire place,13,5.0,1,1,390.44243184605006,473.4705525042599
+New York,Entire apartment,Entire place,14,3.0,1,1,83.08726561535562,83.08726561535562
+New York,Entire apartment,Entire place,14,4.0,1,1,372.1178960398512,377.58424676887495
+New York,Entire apartment,Entire place,14,5.0,1,1,643.1754863168147,643.1754863168147
+New York,Entire apartment,Entire place,15,2.0,0,1,300.80301242649597,300.80301242649597
+New York,Entire apartment,Entire place,15,2.0,1,1,210.34307825395996,240.06832618780865
+New York,Entire apartment,Entire place,15,5.0,1,1,1090.5193168192004,1090.5193168192004
+New York,Entire apartment,Entire place,16,1.0,1,1,513.6822232888356,547.6718162283396
+New York,Entire apartment,Entire place,16,2.0,1,1,138.606499969922,138.606499969922
+New York,Entire apartment,Entire place,16,3.0,1,0,414.51384621419083,414.51384621419083
+New York,Entire apartment,Entire place,16,4.0,1,1,512.5604648626663,649.2340635055093
+New York,Entire apartment,Entire place,16,7.0,1,1,530.8922602012796,677.966254700324
+New York,Entire apartment,Entire place,16,9.0,1,1,721.9453395713041,721.9453395713041
+New York,Entire bungalow,Entire place,2,2.0,1,1,119.41862800399306,119.41862800399306
+New York,Entire bungalow,Entire place,3,1.0,1,1,124.74220422832954,124.74220422832954
+New York,Entire bungalow,Entire place,4,1.0,1,1,125.40919294886797,139.0050298520022
+New York,Entire bungalow,Entire place,6,2.0,1,1,160.68408608710175,160.68408608710175
+New York,Entire bungalow,Entire place,6,3.0,1,1,190.92248990435678,190.92248990435678
+New York,Entire bungalow,Entire place,8,2.0,1,1,98.95743355256899,98.95743355256899
+New York,Entire bungalow,Entire place,8,3.0,1,1,314.6509459461891,314.6509459461891
+New York,Entire condominium,Entire place,1,1.0,1,1,67.51565091206992,67.51565091206992
+New York,Entire condominium,Entire place,2,1.0,0,1,140.01770521511938,140.01770521511938
+New York,Entire condominium,Entire place,2,1.0,1,0,52.167194635695424,52.167194635695424
+New York,Entire condominium,Entire place,2,1.0,1,1,139.41372309256295,179.57979491067778
+New York,Entire condominium,Entire place,2,2.0,1,1,218.58193229034146,228.56385688682022
+New York,Entire condominium,Entire place,3,1.0,1,1,151.18914503386267,220.10572517190963
+New York,Entire condominium,Entire place,3,2.0,1,1,131.6319000759214,148.76607097617304
+New York,Entire condominium,Entire place,4,1.0,1,0,152.59228968372435,152.59228968372435
+New York,Entire condominium,Entire place,4,1.0,1,1,135.37766684698948,198.15764013056264
+New York,Entire condominium,Entire place,4,2.0,1,1,185.37850846160273,266.6826758713435
+New York,Entire condominium,Entire place,4,3.0,1,1,173.2344800447533,173.2344800447533
+New York,Entire condominium,Entire place,5,1.0,1,1,111.26036783195804,210.36473993719832
+New York,Entire condominium,Entire place,5,2.0,1,1,200.50790244136726,305.5017744421087
+New York,Entire condominium,Entire place,5,3.0,1,1,205.59214113878826,228.11622411717855
+New York,Entire condominium,Entire place,6,1.0,1,1,203.40973552060998,227.89896635864253
+New York,Entire condominium,Entire place,6,2.0,1,1,314.1169784728199,355.73295759244655
+New York,Entire condominium,Entire place,6,3.0,1,1,292.8386199765372,417.0775618128749
+New York,Entire condominium,Entire place,6,4.0,1,1,1920.696328427882,1920.696328427882
+New York,Entire condominium,Entire place,7,2.0,1,1,217.87696078102448,518.226431474085
+New York,Entire condominium,Entire place,7,3.0,1,1,367.6516476059027,859.731850063039
+New York,Entire condominium,Entire place,8,2.0,1,1,1516.2040932421007,2147.756063878147
+New York,Entire condominium,Entire place,8,3.0,1,1,280.18760083960285,425.5797913344436
+New York,Entire condominium,Entire place,8,4.0,1,1,198.66799219392936,198.66799219392936
+New York,Entire condominium,Entire place,9,2.0,1,1,2545.49378469403,2703.208959856722
+New York,Entire condominium,Entire place,10,4.0,1,1,307.1902566870491,307.1902566870491
+New York,Entire condominium,Entire place,11,4.0,1,1,782.9480354350815,782.9480354350815
+New York,Entire condominium,Entire place,12,2.0,1,1,120.15044741721789,120.15044741721789
+New York,Entire cottage,Entire place,4,2.0,1,1,97.86311551950514,97.86311551950514
+New York,Entire cottage,Entire place,5,2.0,1,1,239.60992695480928,239.60992695480928
+New York,Entire cottage,Entire place,5,3.0,1,1,123.78406359272714,123.78406359272714
+New York,Entire cottage,Entire place,7,1.0,1,1,203.65780677930215,203.65780677930215
+New York,Entire floor,Entire place,3,1.0,1,1,102.87688165783254,112.77395152294146
+New York,Entire floor,Entire place,4,3.0,1,1,173.06831510186987,173.06831510186987
+New York,Entire guest suite,Entire place,1,1.0,0,0,42.14204262192455,42.14204262192455
+New York,Entire guest suite,Entire place,1,1.0,1,1,101.37473213061904,115.8712770213255
+New York,Entire guest suite,Entire place,2,1.0,0,0,85.27824709130887,85.27824709130887
+New York,Entire guest suite,Entire place,2,1.0,1,0,70.54655637631282,84.32840833718028
+New York,Entire guest suite,Entire place,2,1.0,1,1,98.23813706284835,122.41514013096545
+New York,Entire guest suite,Entire place,2,2.0,1,1,99.07627948161972,102.08886293897832
+New York,Entire guest suite,Entire place,3,1.0,1,0,70.1735068707469,77.86597474304449
+New York,Entire guest suite,Entire place,3,1.0,1,1,93.75602861906629,121.87797132710293
+New York,Entire guest suite,Entire place,3,2.0,1,0,150.01279130469405,150.01279130469405
+New York,Entire guest suite,Entire place,3,2.0,1,1,140.53282111892378,166.44369108792878
+New York,Entire guest suite,Entire place,4,1.0,1,0,99.08150826894438,114.17471242682234
+New York,Entire guest suite,Entire place,4,1.0,1,1,105.26269795578952,127.02767060954258
+New York,Entire guest suite,Entire place,4,2.0,1,0,114.20191351813983,114.20191351813983
+New York,Entire guest suite,Entire place,4,2.0,1,1,125.9525009783267,165.79183752267963
+New York,Entire guest suite,Entire place,5,1.0,1,1,88.70460919537445,93.53026824142653
+New York,Entire guest suite,Entire place,5,2.0,1,1,134.98443244211575,187.3432481812667
+New York,Entire guest suite,Entire place,5,3.0,1,1,159.66565228808363,159.66565228808363
+New York,Entire guest suite,Entire place,6,2.0,0,1,272.42653657004166,272.42653657004166
+New York,Entire guest suite,Entire place,6,2.0,1,0,92.07377223878066,92.07377223878066
+New York,Entire guest suite,Entire place,6,2.0,1,1,158.96490882505384,211.02228320208368
+New York,Entire guest suite,Entire place,6,3.0,1,1,192.89742745515892,194.5720148178114
+New York,Entire guest suite,Entire place,8,2.0,1,1,86.22063307704587,86.22063307704587
+New York,Entire guest suite,Entire place,8,3.0,1,1,182.47211262748579,182.47211262748579
+New York,Entire guest suite,Entire place,10,4.0,1,1,185.63010446407958,185.63010446407958
+New York,Entire guesthouse,Entire place,2,1.0,1,1,85.4466572376109,96.15068433787333
+New York,Entire guesthouse,Entire place,2,2.0,1,1,81.11218238326593,81.11218238326593
+New York,Entire guesthouse,Entire place,3,1.0,1,1,118.98210334514533,140.45035194305183
+New York,Entire guesthouse,Entire place,3,2.0,1,1,139.78044414690424,139.78044414690424
+New York,Entire guesthouse,Entire place,4,1.0,0,1,108.69817921073802,108.69817921073802
+New York,Entire guesthouse,Entire place,4,1.0,1,0,71.59807100892039,71.59807100892039
+New York,Entire guesthouse,Entire place,4,1.0,1,1,98.25195336182801,107.4678717272059
+New York,Entire guesthouse,Entire place,5,2.0,1,1,170.5030707628448,180.2968195016095
+New York,Entire guesthouse,Entire place,5,3.0,1,0,159.88194577510913,159.88194577510913
+New York,Entire guesthouse,Entire place,6,2.0,1,1,108.87102580974683,108.87102580974683
+New York,Entire guesthouse,Entire place,6,3.0,1,1,171.73406629208372,183.64285813067124
+New York,Entire home/apt,Entire place,4,1.0,1,0,253.3764042695989,253.3764042695989
+New York,Entire house,Entire place,1,1.0,1,1,165.82880555216832,165.82880555216832
+New York,Entire house,Entire place,1,2.0,1,1,328.161474581873,328.161474581873
+New York,Entire house,Entire place,2,1.0,0,1,94.63063381696564,107.05590166751608
+New York,Entire house,Entire place,2,1.0,1,0,82.94276667467535,88.97057802325179
+New York,Entire house,Entire place,2,1.0,1,1,94.93352488485094,102.96927514720774
+New York,Entire house,Entire place,2,2.0,1,1,99.40696834532213,108.8863065693463
+New York,Entire house,Entire place,3,1.0,1,0,73.34032064519732,79.46451533605006
+New York,Entire house,Entire place,3,1.0,1,1,101.15182564654393,156.76988507492294
+New York,Entire house,Entire place,3,2.0,1,0,192.51448135475457,192.51448135475457
+New York,Entire house,Entire place,3,2.0,1,1,114.23628630938813,133.87981925158994
+New York,Entire house,Entire place,3,3.0,1,1,178.4356699957219,178.4356699957219
+New York,Entire house,Entire place,4,1.0,1,0,88.56352300782765,99.48737139375059
+New York,Entire house,Entire place,4,1.0,1,1,98.15672712088795,131.78170462532967
+New York,Entire house,Entire place,4,2.0,1,0,92.41294791346188,129.07950466063676
+New York,Entire house,Entire place,4,2.0,1,1,145.16456041260528,177.09526216112667
+New York,Entire house,Entire place,4,3.0,1,1,160.27611133282926,358.11399055706596
+New York,Entire house,Entire place,5,1.0,1,0,94.63298469415265,94.63298469415265
+New York,Entire house,Entire place,5,1.0,1,1,82.42812117913623,133.46712123209338
+New York,Entire house,Entire place,5,2.0,1,0,58.097433642899574,67.59160770068755
+New York,Entire house,Entire place,5,2.0,1,1,123.54684849055957,201.20765672897306
+New York,Entire house,Entire place,5,3.0,1,0,238.89834019430543,238.89834019430543
+New York,Entire house,Entire place,5,3.0,1,1,213.25150817010737,422.8928118592699
+New York,Entire house,Entire place,5,4.0,1,1,126.23770036489556,126.23770036489556
+New York,Entire house,Entire place,6,1.0,1,0,117.9210287552244,117.9210287552244
+New York,Entire house,Entire place,6,1.0,1,1,141.36357791747466,216.87881731573816
+New York,Entire house,Entire place,6,2.0,0,0,139.49559267536276,139.49559267536276
+New York,Entire house,Entire place,6,2.0,1,0,226.98208442931062,272.29202845017363
+New York,Entire house,Entire place,6,2.0,1,1,146.0299896478279,194.81052217967255
+New York,Entire house,Entire place,6,3.0,1,1,193.3039548953655,363.49112616235914
+New York,Entire house,Entire place,6,4.0,1,1,233.93421347015067,413.63959974672224
+New York,Entire house,Entire place,7,2.0,1,1,146.75622131487705,182.20249119570775
+New York,Entire house,Entire place,7,3.0,1,1,153.85978435530876,197.15509435346826
+New York,Entire house,Entire place,7,4.0,1,1,232.30635749124934,243.42870686401156
+New York,Entire house,Entire place,8,1.0,1,1,85.73733343332185,85.73733343332185
+New York,Entire house,Entire place,8,2.0,1,0,163.87955171631808,163.87955171631808
+New York,Entire house,Entire place,8,2.0,1,1,146.0901893864032,249.87229017966757
+New York,Entire house,Entire place,8,3.0,1,0,109.45277251013931,109.45277251013931
+New York,Entire house,Entire place,8,3.0,1,1,182.11970641510524,236.30334213164733
+New York,Entire house,Entire place,8,4.0,1,1,282.74971684468187,426.6031546836594
+New York,Entire house,Entire place,8,5.0,1,1,386.25445158376976,401.3893142455568
+New York,Entire house,Entire place,8,6.0,1,1,486.885273799511,486.885273799511
+New York,Entire house,Entire place,9,2.0,1,1,68.12968396720946,68.12968396720946
+New York,Entire house,Entire place,9,3.0,1,1,300.35762597014474,319.4242693616605
+New York,Entire house,Entire place,9,4.0,1,1,479.09200863158424,855.5398531125988
+New York,Entire house,Entire place,10,3.0,1,1,216.43082273708188,283.8306118910001
+New York,Entire house,Entire place,10,4.0,0,1,374.1743374275082,374.1743374275082
+New York,Entire house,Entire place,10,4.0,1,0,709.0238418092828,709.0238418092828
+New York,Entire house,Entire place,10,4.0,1,1,275.4361485741208,302.77109614306414
+New York,Entire house,Entire place,10,5.0,1,1,385.5551099572995,725.5555917184979
+New York,Entire house,Entire place,11,2.0,1,1,145.80076855575476,159.38031143892334
+New York,Entire house,Entire place,11,3.0,0,0,223.00597867736465,223.00597867736465
+New York,Entire house,Entire place,11,3.0,1,1,241.50735877341475,252.55430237833448
+New York,Entire house,Entire place,11,4.0,1,1,263.58202385627806,305.8968235748906
+New York,Entire house,Entire place,11,5.0,1,1,283.1294305250618,451.67350908138076
+New York,Entire house,Entire place,12,2.0,0,1,248.48259471458672,248.48259471458672
+New York,Entire house,Entire place,12,2.0,1,1,199.31185600735822,199.31185600735822
+New York,Entire house,Entire place,12,3.0,1,1,203.37808810929715,286.9204383726853
+New York,Entire house,Entire place,12,4.0,1,1,232.7292082613979,335.69124219468074
+New York,Entire house,Entire place,12,5.0,1,1,437.84075158169884,720.7018482398704
+New York,Entire house,Entire place,12,6.0,1,1,621.9409150647568,744.0823188969619
+New York,Entire house,Entire place,13,3.0,1,1,447.4511606290358,484.24389194922793
+New York,Entire house,Entire place,13,4.0,1,1,374.76305513929765,375.4210567623992
+New York,Entire house,Entire place,13,7.0,1,1,4539.17354539203,4539.17354539203
+New York,Entire house,Entire place,13,8.0,1,1,688.5763980019614,688.5763980019614
+New York,Entire house,Entire place,14,3.0,1,0,369.0364773611998,369.0364773611998
+New York,Entire house,Entire place,14,4.0,1,1,263.219386367985,274.03148003163614
+New York,Entire house,Entire place,14,5.0,1,1,852.27594621837,852.27594621837
+New York,Entire house,Entire place,14,6.0,1,1,328.94700149020355,372.50919455726535
+New York,Entire house,Entire place,15,4.0,1,1,900.9810210734231,900.9810210734231
+New York,Entire house,Entire place,16,2.0,1,1,1159.7783356962316,1159.7783356962316
+New York,Entire house,Entire place,16,3.0,1,1,650.2673774650757,1641.5522635994673
+New York,Entire house,Entire place,16,4.0,1,1,449.2722114165582,449.2722114165582
+New York,Entire house,Entire place,16,5.0,1,0,532.3914329743575,532.3914329743575
+New York,Entire house,Entire place,16,5.0,1,1,791.8263500131882,1278.6554836556413
+New York,Entire house,Entire place,16,6.0,1,1,621.1832067793154,708.3852190352334
+New York,Entire house,Entire place,16,7.0,1,1,1051.4010157896498,1051.4010157896498
+New York,Entire house,Entire place,16,8.0,1,1,512.8669112466291,512.8669112466291
+New York,Entire house,Entire place,16,14.0,1,1,1533.7706992355045,1533.7706992355045
+New York,Entire loft,Entire place,2,1.0,1,0,262.1166531469748,262.1166531469748
+New York,Entire loft,Entire place,2,1.0,1,1,149.19560162767638,215.38548020783446
+New York,Entire loft,Entire place,2,2.0,1,0,156.0672723028485,156.0672723028485
+New York,Entire loft,Entire place,2,2.0,1,1,147.11631902851485,211.3756481287256
+New York,Entire loft,Entire place,2,3.0,1,1,595.2247993022563,595.2247993022563
+New York,Entire loft,Entire place,3,1.0,1,0,235.02902750028093,235.02902750028093
+New York,Entire loft,Entire place,3,1.0,1,1,174.7263978270208,195.39064792965658
+New York,Entire loft,Entire place,3,2.0,1,0,184.52032571387429,184.52032571387429
+New York,Entire loft,Entire place,3,2.0,1,1,247.64687276634064,476.36002356264703
+New York,Entire loft,Entire place,4,1.0,1,1,152.57147917230853,173.5445825231909
+New York,Entire loft,Entire place,4,2.0,1,1,201.86685497739825,363.33676370764647
+New York,Entire loft,Entire place,4,3.0,1,1,412.4160694389105,668.9391314773715
+New York,Entire loft,Entire place,5,1.0,1,1,160.66859871597808,201.13165412688636
+New York,Entire loft,Entire place,5,2.0,1,1,242.8861876084395,421.84508677182066
+New York,Entire loft,Entire place,5,3.0,1,1,218.86082757056738,326.4382057868035
+New York,Entire loft,Entire place,6,1.0,1,1,244.25747520199153,486.1598535833169
+New York,Entire loft,Entire place,6,2.0,1,0,101.27703243850868,101.27703243850868
+New York,Entire loft,Entire place,6,2.0,1,1,309.296290291828,662.9231856502041
+New York,Entire loft,Entire place,6,3.0,1,0,497.2281264465058,497.2281264465058
+New York,Entire loft,Entire place,6,3.0,1,1,529.0924805936137,601.8229244554893
+New York,Entire loft,Entire place,6,4.0,1,1,503.8358366950358,650.2770260253677
+New York,Entire loft,Entire place,7,2.0,1,1,200.474797037899,220.50101451945258
+New York,Entire loft,Entire place,7,3.0,1,1,451.6805974968869,451.6805974968869
+New York,Entire loft,Entire place,7,5.0,1,1,239.78290356835436,239.78290356835436
+New York,Entire loft,Entire place,8,2.0,1,1,235.03382612143145,277.5091118783194
+New York,Entire loft,Entire place,8,4.0,1,1,652.4912541134833,654.7747257017704
+New York,Entire loft,Entire place,10,3.0,1,1,626.2553912952537,626.2553912952537
+New York,Entire loft,Entire place,12,2.0,1,1,369.9514116639931,369.9514116639931
+New York,Entire loft,Entire place,12,4.0,1,1,703.5620166690181,703.5620166690181
+New York,Entire loft,Entire place,15,6.0,1,1,1358.4915774353221,1701.1160849697203
+New York,Entire loft,Entire place,16,1.0,1,1,410.3738787958597,410.3738787958597
+New York,Entire loft,Entire place,16,4.0,1,1,1103.176279655656,1103.176279655656
+New York,Entire place,Entire place,2,1.0,1,1,73.78189743270742,82.21301344959349
+New York,Entire place,Entire place,3,1.0,1,1,94.36725874755682,103.3299777150645
+New York,Entire place,Entire place,4,1.0,1,1,79.61850021098569,79.61850021098569
+New York,Entire place,Entire place,5,2.0,1,1,229.53984257107513,229.53984257107513
+New York,Entire place,Entire place,6,2.0,1,1,92.06132004554712,92.06132004554712
+New York,Entire resort,Entire place,2,1.0,1,1,637.2572384769712,637.2572384769712
+New York,Entire resort,Entire place,4,1.0,1,1,811.0017109879025,811.0017109879025
+New York,Entire serviced apartment,Entire place,2,1.0,1,0,135.80129189123437,135.80129189123437
+New York,Entire serviced apartment,Entire place,2,1.0,1,1,137.46457495346795,163.14097722866063
+New York,Entire serviced apartment,Entire place,3,1.0,1,1,165.29547540030268,171.17598036653195
+New York,Entire serviced apartment,Entire place,4,1.0,1,1,144.9967284647875,160.1953705023646
+New York,Entire serviced apartment,Entire place,4,2.0,1,1,166.8892913167264,167.844926273407
+New York,Entire serviced apartment,Entire place,5,1.0,1,1,175.66682350278077,203.34600956885353
+New York,Entire serviced apartment,Entire place,5,2.0,1,1,146.2298921649251,233.15189035607287
+New York,Entire serviced apartment,Entire place,6,1.0,1,1,397.11305113293923,397.11305113293923
+New York,Entire serviced apartment,Entire place,6,2.0,1,1,161.06189754362322,418.11856305847147
+New York,Entire townhouse,Entire place,1,1.0,1,1,99.52440354133863,99.52440354133863
+New York,Entire townhouse,Entire place,2,1.0,1,0,128.78971655030946,136.42655317777246
+New York,Entire townhouse,Entire place,2,1.0,1,1,98.07989554671953,145.3748712397365
+New York,Entire townhouse,Entire place,2,2.0,1,1,101.70343034807972,102.67505998109249
+New York,Entire townhouse,Entire place,2,4.0,1,1,98.8536146489557,98.8536146489557
+New York,Entire townhouse,Entire place,3,1.0,1,0,121.83270326482659,124.84293819848887
+New York,Entire townhouse,Entire place,3,1.0,1,1,148.79838176331558,223.69417677751176
+New York,Entire townhouse,Entire place,3,2.0,1,1,131.48675203537155,227.60230949438122
+New York,Entire townhouse,Entire place,3,4.0,1,1,420.2618317300318,420.2618317300318
+New York,Entire townhouse,Entire place,4,1.0,1,0,84.82950755731713,113.31152008921579
+New York,Entire townhouse,Entire place,4,1.0,1,1,118.25227949246828,152.32735351316225
+New York,Entire townhouse,Entire place,4,2.0,1,0,92.30441195313693,119.81027777913766
+New York,Entire townhouse,Entire place,4,2.0,1,1,153.61794236121392,200.25623633960126
+New York,Entire townhouse,Entire place,4,3.0,1,1,127.64990491685377,184.47146391664904
+New York,Entire townhouse,Entire place,4,4.0,1,1,117.33772322447601,117.33772322447601
+New York,Entire townhouse,Entire place,5,1.0,1,1,79.13133881620695,81.26179776599842
+New York,Entire townhouse,Entire place,5,2.0,1,1,131.77993166225212,161.79094508735736
+New York,Entire townhouse,Entire place,5,3.0,1,0,143.46945867846026,147.4023362539785
+New York,Entire townhouse,Entire place,5,3.0,1,1,220.17574798328172,342.5965612632429
+New York,Entire townhouse,Entire place,5,4.0,1,1,348.0535235954448,348.4765406206294
+New York,Entire townhouse,Entire place,5,5.0,1,1,213.3507518120113,213.3507518120113
+New York,Entire townhouse,Entire place,6,1.0,1,1,151.302077440941,375.6641514656178
+New York,Entire townhouse,Entire place,6,2.0,1,0,101.8761058340631,111.38451279613085
+New York,Entire townhouse,Entire place,6,2.0,1,1,182.64537165079744,257.26091949718983
+New York,Entire townhouse,Entire place,6,3.0,1,0,437.34947136397767,437.34947136397767
+New York,Entire townhouse,Entire place,6,3.0,1,1,256.04121539836257,361.18217180185275
+New York,Entire townhouse,Entire place,6,4.0,1,1,484.95535543601954,697.6924791587783
+New York,Entire townhouse,Entire place,6,5.0,1,0,403.7945242600921,403.7945242600921
+New York,Entire townhouse,Entire place,6,5.0,1,1,455.3057117236541,480.487125060878
+New York,Entire townhouse,Entire place,7,2.0,1,1,152.74397603322956,152.74397603322956
+New York,Entire townhouse,Entire place,7,3.0,1,1,367.84981873821766,584.8757565901136
+New York,Entire townhouse,Entire place,7,4.0,1,1,2748.6293523535405,3385.841753436596
+New York,Entire townhouse,Entire place,8,1.0,1,1,75.83148618645258,75.83148618645258
+New York,Entire townhouse,Entire place,8,3.0,1,0,171.08332477700685,171.08332477700685
+New York,Entire townhouse,Entire place,8,3.0,1,1,275.94073196314025,383.5818810292066
+New York,Entire townhouse,Entire place,8,4.0,1,1,481.73988655038727,589.897876181293
+New York,Entire townhouse,Entire place,8,5.0,1,1,407.52788887650615,407.52788887650615
+New York,Entire townhouse,Entire place,9,2.0,1,1,221.15597369283003,221.15597369283003
+New York,Entire townhouse,Entire place,9,3.0,1,1,108.06295010482694,108.06295010482694
+New York,Entire townhouse,Entire place,9,4.0,1,1,534.4680161288277,534.4680161288277
+New York,Entire townhouse,Entire place,9,5.0,1,1,331.8068032463155,331.8068032463155
+New York,Entire townhouse,Entire place,10,2.0,1,1,270.4640357202128,270.4640357202128
+New York,Entire townhouse,Entire place,10,3.0,1,1,334.6846268583884,465.33444731244896
+New York,Entire townhouse,Entire place,10,4.0,1,1,749.8722063200603,1104.3341999158515
+New York,Entire townhouse,Entire place,10,5.0,1,1,396.6416724222578,723.9553958840957
+New York,Entire townhouse,Entire place,10,6.0,1,1,2581.5160741845266,2581.5160741845266
+New York,Entire townhouse,Entire place,11,4.0,1,1,340.8604321835946,340.8604321835946
+New York,Entire townhouse,Entire place,12,2.0,1,1,201.12190307251103,201.12190307251103
+New York,Entire townhouse,Entire place,12,3.0,1,1,286.49813739719514,334.6155933710197
+New York,Entire townhouse,Entire place,12,4.0,1,1,383.99059050985113,425.030420615383
+New York,Entire townhouse,Entire place,12,5.0,1,1,435.42697795372743,435.42697795372743
+New York,Entire townhouse,Entire place,13,3.0,1,1,84.32489539532394,84.32489539532394
+New York,Entire townhouse,Entire place,13,4.0,1,1,519.4975260230249,519.4975260230249
+New York,Entire townhouse,Entire place,13,5.0,1,1,506.84297958119095,561.7417820029657
+New York,Entire townhouse,Entire place,13,6.0,1,1,1612.2987672321026,1612.2987672321026
+New York,Entire townhouse,Entire place,14,5.0,1,1,1006.1286746413164,1006.1286746413164
+New York,Entire townhouse,Entire place,16,1.0,1,1,774.4610712244693,774.4610712244693
+New York,Entire townhouse,Entire place,16,3.0,1,1,851.1639163241099,851.1639163241099
+New York,Entire townhouse,Entire place,16,4.0,1,1,811.851856689437,2381.286922283572
+New York,Entire townhouse,Entire place,16,5.0,1,1,345.53914290699606,370.37921161613644
+New York,Entire townhouse,Entire place,16,6.0,1,1,1257.4128629834759,1257.4128629834759
+New York,Entire townhouse,Entire place,16,7.0,1,1,892.974076373275,1168.9206650303113
+New York,Entire villa,Entire place,2,1.0,1,1,67.99112238046065,67.99112238046065
+New York,Entire villa,Entire place,4,1.0,1,1,86.28822464985048,86.28822464985048
+New York,Entire villa,Entire place,10,2.0,1,1,368.36764642157306,368.36764642157306
+New York,Entire villa,Entire place,16,5.0,1,1,2286.103117774209,2286.103117774209
+New York,Houseboat,Entire place,2,1.0,1,1,239.74677713577074,239.74677713577074
+New York,Houseboat,Entire place,12,4.0,1,1,1465.8237683496761,1465.8237683496761
+New York,Private room,Private room,1,1.0,1,1,39.074847133890444,39.074847133890444
+New York,Private room,Private room,2,1.0,0,1,101.13105948922254,101.13105948922254
+New York,Private room,Private room,3,1.0,1,0,97.91722077934173,97.91722077934173
+New York,Private room in apartment,Private room,1,1.0,0,0,64.0226282512754,75.81758790509824
+New York,Private room in apartment,Private room,1,1.0,0,1,32.34383964499875,32.75164403475091
+New York,Private room in apartment,Private room,1,1.0,1,0,44.796103279999734,59.08965853999106
+New York,Private room in apartment,Private room,1,1.0,1,1,48.483463864200374,60.65111249396764
+New York,Private room in apartment,Private room,1,2.0,1,0,59.12975586465681,84.52683153822672
+New York,Private room in apartment,Private room,1,2.0,1,1,65.53384688374634,89.95335549277938
+New York,Private room in apartment,Private room,1,3.0,1,1,35.290571407911784,37.67742097636115
+New York,Private room in apartment,Private room,1,4.0,1,1,41.397586911695896,51.2692955303789
+New York,Private room in apartment,Private room,2,1.0,0,0,48.46221267487148,56.214261776029616
+New York,Private room in apartment,Private room,2,1.0,0,1,53.778382251138204,85.49839832499924
+New York,Private room in apartment,Private room,2,1.0,1,0,50.08072156535626,71.88104808223216
+New York,Private room in apartment,Private room,2,1.0,1,1,55.02038629954314,73.79122061566046
+New York,Private room in apartment,Private room,2,2.0,0,1,62.23584922701008,62.23584922701008
+New York,Private room in apartment,Private room,2,2.0,1,0,70.20198153764542,71.03064131577881
+New York,Private room in apartment,Private room,2,2.0,1,1,59.624642529732945,83.39086930023522
+New York,Private room in apartment,Private room,2,3.0,1,0,76.21869711951099,76.21869711951099
+New York,Private room in apartment,Private room,2,3.0,1,1,69.94898733154945,132.46897800556246
+New York,Private room in apartment,Private room,2,4.0,1,1,116.57509285372642,136.5167583470712
+New York,Private room in apartment,Private room,3,1.0,0,1,36.97748582357329,45.83614947287617
+New York,Private room in apartment,Private room,3,1.0,1,0,58.50239610048446,71.18350793905398
+New York,Private room in apartment,Private room,3,1.0,1,1,59.50847396074257,77.79483497939287
+New York,Private room in apartment,Private room,3,2.0,1,1,108.42696256169151,128.8780789285531
+New York,Private room in apartment,Private room,3,3.0,1,0,34.438467635243036,34.438467635243036
+New York,Private room in apartment,Private room,4,1.0,0,0,55.06882187404788,55.06882187404788
+New York,Private room in apartment,Private room,4,1.0,0,1,34.44573320005464,36.13502153980784
+New York,Private room in apartment,Private room,4,1.0,1,0,90.434922294472,106.81830174774235
+New York,Private room in apartment,Private room,4,1.0,1,1,63.42215471349579,94.0995999263276
+New York,Private room in apartment,Private room,4,2.0,1,0,111.71391142951607,119.9911598242835
+New York,Private room in apartment,Private room,4,2.0,1,1,116.08949532317324,187.2163313970362
+New York,Private room in apartment,Private room,4,3.0,1,1,271.2387483610143,271.2387483610143
+New York,Private room in apartment,Private room,5,1.0,0,1,63.23470766166649,65.84861018407406
+New York,Private room in apartment,Private room,5,1.0,1,0,33.359161117802316,33.359161117802316
+New York,Private room in apartment,Private room,5,1.0,1,1,100.7152069850284,155.37161252331038
+New York,Private room in apartment,Private room,5,2.0,1,1,126.68335687190195,223.03170970541834
+New York,Private room in apartment,Private room,5,3.0,1,1,254.39637525734193,302.57051379080184
+New York,Private room in apartment,Private room,6,1.0,0,0,63.03112988157899,63.03112988157899
+New York,Private room in apartment,Private room,6,1.0,0,1,64.24748741145491,64.29395270407716
+New York,Private room in apartment,Private room,6,1.0,1,0,30.85324347893399,30.85324347893399
+New York,Private room in apartment,Private room,6,1.0,1,1,80.39578241881551,113.88199502856034
+New York,Private room in apartment,Private room,6,2.0,1,1,168.7776543749632,181.03092071766778
+New York,Private room in apartment,Private room,6,3.0,1,1,258.1096192085901,341.38470500266686
+New York,Private room in apartment,Private room,6,4.0,1,1,686.5280612662408,686.5280612662408
+New York,Private room in apartment,Private room,7,1.0,0,1,38.956853310176676,38.956853310176676
+New York,Private room in apartment,Private room,7,1.0,1,1,70.4261830121215,73.75098157240973
+New York,Private room in apartment,Private room,7,2.0,1,1,137.78708907713525,158.2613225713735
+New York,Private room in apartment,Private room,7,3.0,1,1,186.17741159926345,190.9131798954233
+New York,Private room in apartment,Private room,8,1.0,0,1,152.55120801736075,152.55120801736075
+New York,Private room in apartment,Private room,8,1.0,1,1,106.58664619963471,106.58664619963471
+New York,Private room in apartment,Private room,8,2.0,1,1,101.65350512414794,101.65350512414794
+New York,Private room in apartment,Private room,8,3.0,1,1,235.97991463591813,529.9808535572162
+New York,Private room in apartment,Private room,9,2.0,1,1,146.892075574967,172.93245669221503
+New York,Private room in apartment,Private room,10,1.0,1,1,722.6212606812276,722.6212606812276
+New York,Private room in apartment,Private room,10,2.0,1,1,174.01428095422014,188.89820916096738
+New York,Private room in apartment,Private room,12,4.0,1,1,53.48294753197568,53.48294753197568
+New York,Private room in barn,Private room,4,1.0,1,1,87.95500287483199,87.95500287483199
+New York,Private room in bed and breakfast,Private room,1,1.0,1,0,61.47632954024041,61.47632954024041
+New York,Private room in bed and breakfast,Private room,1,1.0,1,1,40.08952975356305,40.08952975356305
+New York,Private room in bed and breakfast,Private room,2,1.0,0,0,111.17322541196548,111.17322541196548
+New York,Private room in bed and breakfast,Private room,2,1.0,1,1,39.842629778312755,73.61646547808452
+New York,Private room in bed and breakfast,Private room,3,1.0,1,1,117.27741598228462,142.53819743041169
+New York,Private room in bed and breakfast,Private room,4,1.0,1,1,171.25306775426364,171.25306775426364
+New York,Private room in bungalow,Private room,1,1.0,1,1,58.695317581216315,63.051555313813566
+New York,Private room in bungalow,Private room,2,1.0,1,1,38.7992537611745,38.7992537611745
+New York,Private room in camper/rv,Private room,8,2.0,1,1,126.14612291242221,126.14612291242221
+New York,Private room in condominium,Private room,1,1.0,0,1,67.4015817378695,67.4015817378695
+New York,Private room in condominium,Private room,1,1.0,1,0,55.89174689118846,79.67667406188124
+New York,Private room in condominium,Private room,1,1.0,1,1,45.66151930816448,60.91651653624591
+New York,Private room in condominium,Private room,1,2.0,1,1,110.56085543366896,127.55071037443457
+New York,Private room in condominium,Private room,1,3.0,1,1,85.45858001703546,85.45858001703546
+New York,Private room in condominium,Private room,2,1.0,0,1,50.00507421825371,50.00507421825371
+New York,Private room in condominium,Private room,2,1.0,1,0,52.49245300736777,55.25101157422219
+New York,Private room in condominium,Private room,2,1.0,1,1,60.26666489824142,81.10352566969233
+New York,Private room in condominium,Private room,3,1.0,1,1,48.85713419625682,75.75402844804623
+New York,Private room in condominium,Private room,3,2.0,1,1,44.837869544363926,44.837869544363926
+New York,Private room in condominium,Private room,4,1.0,1,1,41.88522056123906,55.195126087784075
+New York,Private room in condominium,Private room,5,1.0,1,1,172.90910155961808,179.29422856867848
+New York,Private room in condominium,Private room,7,1.0,1,1,250.36388992938618,326.08600663626976
+New York,Private room in condominium,Private room,8,1.0,1,1,42.32119970799316,42.32119970799316
+New York,Private room in condominium,Private room,10,4.0,1,1,39.83706352592092,43.32610124818288
+New York,Private room in earth house,Private room,1,1.0,1,1,58.23425763807878,58.23425763807878
+New York,Private room in guest suite,Private room,1,1.0,1,1,40.62012945519624,43.44280806025887
+New York,Private room in guest suite,Private room,2,1.0,1,0,53.83667155960146,53.83667155960146
+New York,Private room in guest suite,Private room,2,1.0,1,1,64.83775642193591,76.18648613066395
+New York,Private room in guest suite,Private room,2,2.0,1,1,122.6070282062841,151.3945735292678
+New York,Private room in guest suite,Private room,3,1.0,0,0,264.6040470182126,264.6040470182126
+New York,Private room in guest suite,Private room,3,1.0,1,1,68.81200122303441,74.17799449888554
+New York,Private room in guest suite,Private room,4,1.0,1,0,39.085916111069004,39.085916111069004
+New York,Private room in guest suite,Private room,4,1.0,1,1,43.08412440037769,43.08412440037769
+New York,Private room in guest suite,Private room,4,2.0,1,1,133.6057139451651,158.19113607354905
+New York,Private room in guesthouse,Private room,1,1.0,1,1,59.462006753422244,59.462006753422244
+New York,Private room in guesthouse,Private room,2,1.0,1,0,128.75845191972027,128.75845191972027
+New York,Private room in guesthouse,Private room,2,1.0,1,1,77.10519247110909,89.03115292539447
+New York,Private room in guesthouse,Private room,2,2.0,1,1,90.79256217672346,121.88834375890143
+New York,Private room in guesthouse,Private room,5,2.0,1,1,104.3140383986881,104.3140383986881
+New York,Private room in guesthouse,Private room,8,4.0,1,1,185.33780339007356,185.33780339007356
+New York,Private room in hostel,Private room,1,1.0,1,1,52.91646483494119,52.91646483494119
+New York,Private room in hostel,Private room,2,1.0,1,1,55.05941429283964,62.69160340410628
+New York,Private room in hostel,Private room,3,1.0,1,1,85.6030904754919,85.6030904754919
+New York,Private room in house,Private room,1,1.0,0,1,54.14447925586317,54.14447925586317
+New York,Private room in house,Private room,1,1.0,1,0,39.14734492367526,48.15011947148358
+New York,Private room in house,Private room,1,1.0,1,1,44.739961807137064,50.121740906288665
+New York,Private room in house,Private room,1,2.0,1,0,72.00331677618712,75.12450677300001
+New York,Private room in house,Private room,2,1.0,0,0,68.8677195951389,78.41898490643739
+New York,Private room in house,Private room,2,1.0,1,0,44.78483882270889,57.96782130240242
+New York,Private room in house,Private room,2,1.0,1,1,50.09594030454552,65.15271339759497
+New York,Private room in house,Private room,2,2.0,1,1,63.33410651308475,86.7523465031219
+New York,Private room in house,Private room,2,3.0,1,1,457.9918524219662,457.9918524219662
+New York,Private room in house,Private room,2,7.0,1,1,45.966133820218495,45.966133820218495
+New York,Private room in house,Private room,3,1.0,1,0,64.24262551674333,68.50214268405752
+New York,Private room in house,Private room,3,1.0,1,1,55.560109296509204,71.62378265845834
+New York,Private room in house,Private room,3,2.0,1,1,74.33064215280706,76.60115885809422
+New York,Private room in house,Private room,3,3.0,1,1,79.31061107978293,79.31061107978293
+New York,Private room in house,Private room,4,1.0,1,0,49.681856186656105,51.161633670397975
+New York,Private room in house,Private room,4,1.0,1,1,75.2726242606969,81.48647174923795
+New York,Private room in house,Private room,4,2.0,1,0,116.32180560558659,162.7807194893446
+New York,Private room in house,Private room,4,2.0,1,1,95.33417601878791,111.42539009590544
+New York,Private room in house,Private room,5,1.0,1,1,82.32547778086993,129.66081656234232
+New York,Private room in house,Private room,5,2.0,1,1,124.10946835279934,158.42369679692004
+New York,Private room in house,Private room,6,2.0,1,0,62.009571890753186,62.009571890753186
+New York,Private room in house,Private room,6,2.0,1,1,96.0604093995178,96.0604093995178
+New York,Private room in house,Private room,6,3.0,1,1,87.00256085519226,87.00256085519226
+New York,Private room in house,Private room,6,4.0,1,1,115.43599668937543,115.43599668937543
+New York,Private room in house,Private room,7,1.0,1,1,191.7496679086252,250.03550771126845
+New York,Private room in house,Private room,7,2.0,1,1,109.7265007898401,109.7265007898401
+New York,Private room in house,Private room,8,3.0,1,1,298.17185745542423,352.71973443974485
+New York,Private room in house,Private room,8,4.0,1,1,451.15423144974187,451.15423144974187
+New York,Private room in house,Private room,8,5.0,1,0,44.71825584330215,44.71825584330215
+New York,Private room in house,Private room,9,3.0,1,1,553.2909027848394,553.2909027848394
+New York,Private room in house,Private room,12,2.0,1,1,517.5931459744564,517.5931459744564
+New York,Private room in house,Private room,12,3.0,1,1,406.4916551520173,434.52247403420347
+New York,Private room in house,Private room,16,5.0,1,1,371.3472432778069,371.3472432778069
+New York,Private room in house,Private room,16,8.0,1,1,625.2673160915393,625.2673160915393
+New York,Private room in loft,Private room,1,1.0,0,0,37.536156419354555,37.536156419354555
+New York,Private room in loft,Private room,1,1.0,1,0,52.87609999198277,61.74755588009003
+New York,Private room in loft,Private room,1,1.0,1,1,54.7584548779366,68.30770965626891
+New York,Private room in loft,Private room,1,2.0,1,1,67.94700919642831,67.94700919642831
+New York,Private room in loft,Private room,2,1.0,1,0,76.8436625882986,103.58847462608227
+New York,Private room in loft,Private room,2,1.0,1,1,74.85278221867311,108.61329452484124
+New York,Private room in loft,Private room,2,2.0,1,1,81.65093292606173,87.66779661933134
+New York,Private room in loft,Private room,3,1.0,1,1,93.60038475827093,123.4576879727754
+New York,Private room in loft,Private room,3,2.0,1,1,163.45378307215518,163.45378307215518
+New York,Private room in loft,Private room,4,1.0,1,1,55.760520898251386,67.16132745983971
+New York,Private room in loft,Private room,4,2.0,1,1,226.9793131773099,238.43734056335697
+New York,Private room in resort,Private room,4,1.0,1,1,809.6681298582881,809.8988859281118
+New York,Private room in resort,Private room,6,2.0,1,1,1000.3557791039597,1000.3557791039597
+New York,Private room in serviced apartment,Private room,1,1.0,1,1,27.47735458494315,27.47735458494315
+New York,Private room in serviced apartment,Private room,2,1.0,1,0,39.71855092484115,39.71855092484115
+New York,Private room in serviced apartment,Private room,2,1.0,1,1,99.82844531053982,136.4494037351274
+New York,Private room in serviced apartment,Private room,15,2.0,1,1,329.3827191816051,338.15839904031725
+New York,Private room in tent,Private room,2,1.0,1,0,514.4054391591227,514.4054391591227
+New York,Private room in tiny house,Private room,2,1.0,1,1,51.07689078739315,51.77909522023785
+New York,Private room in tiny house,Private room,6,1.0,1,1,92.69628217306716,92.69628217306716
+New York,Private room in townhouse,Private room,1,1.0,0,1,29.85007510663832,29.85007510663832
+New York,Private room in townhouse,Private room,1,1.0,1,0,27.52080471361282,31.46731002670372
+New York,Private room in townhouse,Private room,1,1.0,1,1,36.23440720823998,44.77908217726647
+New York,Private room in townhouse,Private room,1,3.0,1,1,32.24624879161216,32.24624879161216
+New York,Private room in townhouse,Private room,2,1.0,1,0,32.07238179667273,42.61539776871355
+New York,Private room in townhouse,Private room,2,1.0,1,1,55.01767373781658,74.14914684222191
+New York,Private room in townhouse,Private room,2,2.0,1,1,170.97059213328365,226.33597141550672
+New York,Private room in townhouse,Private room,3,1.0,1,0,98.09174773621355,106.12831260494323
+New York,Private room in townhouse,Private room,3,1.0,1,1,96.82609517789581,99.51909103381091
+New York,Private room in townhouse,Private room,4,1.0,1,0,59.1040244763961,59.1040244763961
+New York,Private room in townhouse,Private room,4,1.0,1,1,80.10415563137782,91.5953274883349
+New York,Private room in townhouse,Private room,4,2.0,1,1,125.21803932046788,142.82587108083
+New York,Private room in townhouse,Private room,4,3.0,1,1,59.01772315294992,59.01772315294992
+New York,Private room in townhouse,Private room,5,1.0,1,1,36.43094727278709,36.43094727278709
+New York,Private room in townhouse,Private room,5,3.0,1,1,281.4726159563145,281.4726159563145
+New York,Private room in townhouse,Private room,6,1.0,1,1,59.80871901721447,74.12140337150755
+New York,Private room in townhouse,Private room,6,3.0,1,0,303.87029144790677,303.87029144790677
+New York,Private room in townhouse,Private room,11,3.0,1,1,333.65185188266,349.72041857376155
+New York,Private room in townhouse,Private room,13,3.0,1,1,387.0117478284258,387.0117478284258
+New York,Private room in townhouse,Private room,16,4.0,1,1,1158.2383890372828,1158.2383890372828
+New York,Private room in villa,Private room,2,1.0,1,1,58.35722308831828,59.57157007703969
+New York,Private room in villa,Private room,3,1.0,1,1,63.71155560831912,63.71155560831912
+New York,Private room in villa,Private room,4,1.0,1,1,49.9555427469862,50.02280409276167
+New York,Room in aparthotel,Entire place,2,1.0,1,1,109.33949817313754,117.41564707851113
+New York,Room in aparthotel,Entire place,2,2.0,1,1,67.27665038792406,67.38154578762594
+New York,Room in aparthotel,Hotel room,2,1.0,0,0,158.7862000412813,158.7862000412813
+New York,Room in aparthotel,Hotel room,4,1.0,1,1,295.37642621618136,295.37642621618136
+New York,Room in aparthotel,Private room,2,1.0,1,0,64.93124415532158,64.93124415532158
+New York,Room in aparthotel,Private room,2,1.0,1,1,78.32212382004165,81.87169633342837
+New York,Room in aparthotel,Private room,5,1.0,1,1,521.9615778553003,521.9615778553003
+New York,Room in boutique hotel,Hotel room,1,1.0,1,1,89.1378856777509,89.1378856777509
+New York,Room in boutique hotel,Hotel room,2,1.0,0,0,145.66027726445586,145.66027726445586
+New York,Room in boutique hotel,Hotel room,2,1.0,1,0,130.45328660524603,130.45328660524603
+New York,Room in boutique hotel,Hotel room,2,1.0,1,1,107.70205999432397,130.27904106624493
+New York,Room in boutique hotel,Hotel room,3,1.0,1,1,114.04378240968246,114.7536144551137
+New York,Room in boutique hotel,Hotel room,4,1.0,1,1,129.13278372555243,178.57615408860167
+New York,Room in boutique hotel,Private room,1,1.0,1,1,50.21287168764151,50.21434114533079
+New York,Room in boutique hotel,Private room,2,1.0,1,0,172.4729794323128,345.2559341043699
+New York,Room in boutique hotel,Private room,2,1.0,1,1,100.35730664358765,130.29311829312616
+New York,Room in boutique hotel,Private room,3,1.0,1,1,165.7217980260628,193.87347006720174
+New York,Room in boutique hotel,Private room,4,1.0,1,1,110.49443631929094,226.54345738532692
+New York,Room in boutique hotel,Private room,4,2.0,1,1,207.33301162799182,243.5757569582158
+New York,Room in boutique hotel,Private room,5,1.0,1,1,155.59157587968252,155.59157587968252
+New York,Room in boutique hotel,Private room,6,1.0,1,1,142.56109037372403,193.6654457538677
+New York,Room in boutique hotel,Private room,6,2.0,1,1,503.35012049613715,614.5251096992595
+New York,Room in boutique hotel,Private room,8,2.0,1,1,434.9295619008174,434.9295619008174
+New York,Room in boutique hotel,Private room,8,3.0,1,1,148.0444675048035,148.0444675048035
+New York,Room in boutique hotel,Private room,14,7.0,1,1,2020.9095976143092,2534.9402674987364
+New York,Room in hotel,Hotel room,1,1.0,1,1,128.30065794279034,128.30065794279034
+New York,Room in hotel,Hotel room,2,1.0,0,0,150.67898964816402,150.67898964816402
+New York,Room in hotel,Hotel room,2,1.0,1,1,153.4675552438895,272.3703302788041
+New York,Room in hotel,Hotel room,3,1.0,1,1,127.75643175302554,201.12941814803156
+New York,Room in hotel,Hotel room,4,1.0,0,0,163.46308277348408,163.46308277348408
+New York,Room in hotel,Hotel room,4,1.0,1,1,140.05421393026037,241.92970105764618
+New York,Room in hotel,Hotel room,6,1.0,0,0,336.00426621204707,336.00426621204707
+New York,Room in hotel,Hotel room,6,1.0,1,1,230.03827726070554,230.03827726070554
+New York,Room in hotel,Hotel room,6,2.0,1,1,165.1391124679167,165.1391124679167
+New York,Room in hotel,Private room,2,1.0,0,0,101.76513568599637,101.76513568599637
+New York,Room in hotel,Private room,2,1.0,1,0,147.0760728815805,262.92240343610484
+New York,Room in hotel,Private room,2,1.0,1,1,97.47427208580473,114.62272197995375
+New York,Room in hotel,Private room,3,1.0,1,1,248.04180151003266,248.04180151003266
+New York,Room in hotel,Private room,4,1.0,1,0,95.75279659143136,95.75279659143136
+New York,Room in hotel,Private room,4,1.0,1,1,83.06780077890392,90.85242874578742
+New York,Room in hotel,Private room,5,1.0,1,0,192.87792703466735,192.87792703466735
+New York,Room in hotel,Private room,5,2.0,1,1,1605.085607372396,1605.085607372396
+New York,Room in serviced apartment,Hotel room,2,1.0,0,0,167.44677346671588,167.44677346671588
+New York,Room in serviced apartment,Hotel room,3,1.0,1,1,110.88747210247706,111.01457128363262
+New York,Room in serviced apartment,Hotel room,4,1.0,0,0,219.12471198860078,238.27224410659048
+New York,Room in serviced apartment,Hotel room,4,1.0,1,1,112.18667945860096,237.8269032446152
+New York,Room in serviced apartment,Hotel room,4,2.0,1,1,356.24772739412765,356.24772739412765
+New York,Room in serviced apartment,Hotel room,6,1.0,0,0,271.85911263354416,271.85911263354416
+New York,Room in serviced apartment,Hotel room,6,2.0,0,0,373.90706118911146,398.31636952583136
+New York,Room in serviced apartment,Hotel room,6,2.0,1,1,340.61103062060715,373.20910731324466
+New York,Room in serviced apartment,Hotel room,6,3.0,1,1,469.7535188288114,469.7535188288114
+New York,Room in serviced apartment,Hotel room,8,4.0,1,1,600.4059544519763,938.7032172941845
+New York,Shared room in apartment,Shared room,1,1.0,1,0,35.061057207274814,40.69039691945141
+New York,Shared room in apartment,Shared room,1,1.0,1,1,35.01760473923616,44.40498765077181
+New York,Shared room in apartment,Shared room,2,1.0,0,1,18.261380046198262,18.261380046198262
+New York,Shared room in apartment,Shared room,2,1.0,1,0,34.219448118509604,38.94980588454341
+New York,Shared room in apartment,Shared room,2,1.0,1,1,44.261937535099,82.22250131830376
+New York,Shared room in apartment,Shared room,3,1.0,1,0,33.90763240086727,33.90763240086727
+New York,Shared room in apartment,Shared room,3,1.0,1,1,28.915918536097863,49.607629612438316
+New York,Shared room in apartment,Shared room,4,1.0,1,1,80.03152560301434,209.00064052089968
+New York,Shared room in apartment,Shared room,5,1.0,1,1,237.01371776739356,237.01371776739356
+New York,Shared room in apartment,Shared room,6,1.0,1,1,32.06764758791942,32.06764758791942
+New York,Shared room in bed and breakfast,Shared room,2,1.0,1,1,53.208485393542524,53.208485393542524
+New York,Shared room in condominium,Shared room,1,1.0,1,1,71.05968487177628,313.4957107919646
+New York,Shared room in condominium,Shared room,3,1.0,1,1,53.4547994770514,53.4547994770514
+New York,Shared room in condominium,Shared room,13,1.0,1,1,587.6013270306274,587.6013270306274
+New York,Shared room in earth house,Shared room,1,1.0,1,1,88.6121128537848,88.6121128537848
+New York,Shared room in guest suite,Shared room,1,1.0,0,0,73.86454308780807,73.86454308780807
+New York,Shared room in guest suite,Shared room,1,1.0,1,0,160.06321358678446,160.06321358678446
+New York,Shared room in hostel,Shared room,1,1.0,0,0,41.03604925592567,41.03604925592567
+New York,Shared room in hostel,Shared room,1,1.0,0,1,20.125886747458697,20.125886747458697
+New York,Shared room in hostel,Shared room,1,1.0,1,1,44.35095578670897,44.36038348854342
+New York,Shared room in hostel,Shared room,2,1.0,1,1,39.51613786774802,39.51613786774802
+New York,Shared room in house,Shared room,1,1.0,1,0,40.157826171179856,48.975917199002225
+New York,Shared room in house,Shared room,1,1.0,1,1,42.68401765630413,49.153362568239615
+New York,Shared room in house,Shared room,2,1.0,1,1,36.294217172228045,46.73894289723593
+New York,Shared room in house,Shared room,3,1.0,1,1,29.110203124772966,31.53958935796244
+New York,Shared room in house,Shared room,10,1.0,1,1,143.19671224457673,143.19671224457673
+New York,Shared room in house,Shared room,12,1.0,1,1,678.0669339819076,678.0669339819076
+New York,Shared room in island,Shared room,16,1.0,1,0,1230.9547621224897,1230.9547621224897
+New York,Shared room in loft,Shared room,1,1.0,1,1,24.750930043070543,25.41613205892243
+New York,Shared room in loft,Shared room,2,1.0,1,1,38.55518815392478,38.55518815392478
+New York,Shared room in serviced apartment,Shared room,3,1.0,1,1,45.519366544000874,56.3200617067884
+New York,Shared room in townhouse,Shared room,1,1.0,1,0,20.14875044222707,20.14875044222707
+New York,Shared room in townhouse,Shared room,2,1.0,1,0,58.81996805765116,58.81996805765116
+New York,Shared room in townhouse,Shared room,2,1.0,1,1,144.00264523050066,186.58408652133238
+New York,Tiny house,Entire place,2,1.0,1,1,91.55713694475574,91.55713694475574
+New York,Tiny house,Entire place,2,2.0,1,1,115.2547232551086,115.2547232551086
+New York,Tiny house,Entire place,3,1.0,1,1,77.2963387147541,109.92156508058187
+New York,Tiny house,Entire place,4,2.0,1,1,130.74428664267313,130.74428664267313

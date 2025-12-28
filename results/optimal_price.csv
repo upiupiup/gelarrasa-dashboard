@@ -1,0 +1,1204 @@
+location,property_type,room_type,accommodates,bedrooms,has_wifi,has_ac,optimal_price_median,optimal_price_75
+Bronx,Entire apartment,Entire place,1,1.0,Yes,No,61.68343602445478,61.68343602445478
+Bronx,Entire apartment,Entire place,1,1.0,Yes,Yes,100.25531611365776,100.25531611365776
+Bronx,Entire apartment,Entire place,2,1.0,No,No,84.90670429794575,84.90670429794575
+Bronx,Entire apartment,Entire place,2,1.0,Yes,No,94.85785807970792,94.85785807970792
+Bronx,Entire apartment,Entire place,2,1.0,Yes,Yes,88.64793337561812,101.68798500097134
+Bronx,Entire apartment,Entire place,3,1.0,Yes,Yes,107.44841866551656,131.65722368092938
+Bronx,Entire apartment,Entire place,3,2.0,Yes,Yes,156.0653360665176,156.0653360665176
+Bronx,Entire apartment,Entire place,4,1.0,Yes,Yes,107.27927155217172,121.15850030842284
+Bronx,Entire apartment,Entire place,4,2.0,No,Yes,112.24542231516126,137.67397366611146
+Bronx,Entire apartment,Entire place,4,2.0,Yes,Yes,141.22903036676206,165.44531850695068
+Bronx,Entire apartment,Entire place,5,1.0,Yes,Yes,93.32607038923751,95.57319168843848
+Bronx,Entire apartment,Entire place,5,2.0,Yes,Yes,123.2121994834778,137.00209835923926
+Bronx,Entire apartment,Entire place,5,3.0,Yes,Yes,266.13419513909065,279.5163237298254
+Bronx,Entire apartment,Entire place,6,1.0,Yes,Yes,123.21777075851578,126.23881978083917
+Bronx,Entire apartment,Entire place,6,2.0,Yes,Yes,123.8558901756694,145.79480147346345
+Bronx,Entire apartment,Entire place,6,3.0,Yes,Yes,157.00999725689277,157.03919170119673
+Bronx,Entire apartment,Entire place,7,3.0,Yes,Yes,194.824137854462,197.37719159209365
+Bronx,Entire apartment,Entire place,7,4.0,Yes,Yes,172.8190910908651,172.8190910908651
+Bronx,Entire apartment,Entire place,8,1.0,Yes,Yes,150.98516000808183,150.98516000808183
+Bronx,Entire apartment,Entire place,8,3.0,Yes,No,85.47602904768104,85.47602904768104
+Bronx,Entire apartment,Entire place,8,3.0,Yes,Yes,118.44794295662282,118.44794295662282
+Bronx,Entire apartment,Entire place,9,4.0,Yes,Yes,291.24710497324315,291.24710497324315
+Bronx,Entire apartment,Entire place,10,2.0,Yes,Yes,245.0436852810976,245.0436852810976
+Bronx,Entire apartment,Entire place,11,3.0,Yes,Yes,127.22588600610892,127.22588600610892
+Bronx,Entire apartment,Entire place,14,3.0,Yes,Yes,83.06555018628634,83.06555018628634
+Bronx,Entire apartment,Entire place,15,2.0,No,Yes,299.2209342532986,299.2209342532986
+Bronx,Entire condominium,Entire place,2,1.0,Yes,Yes,69.92941123766488,69.92941123766488
+Bronx,Entire condominium,Entire place,3,1.0,Yes,Yes,95.25075674099172,95.25075674099172
+Bronx,Entire condominium,Entire place,4,1.0,Yes,Yes,71.67170095950954,71.67170095950954
+Bronx,Entire condominium,Entire place,4,2.0,Yes,Yes,160.77828719732946,160.77828719732946
+Bronx,Entire condominium,Entire place,5,1.0,Yes,Yes,89.0764405861877,89.0764405861877
+Bronx,Entire condominium,Entire place,6,3.0,Yes,Yes,272.2440189978721,272.2440189978721
+Bronx,Entire cottage,Entire place,4,2.0,Yes,Yes,98.6739472445106,98.6739472445106
+Bronx,Entire guest suite,Entire place,2,1.0,Yes,No,46.1370711720259,46.1370711720259
+Bronx,Entire guest suite,Entire place,2,1.0,Yes,Yes,51.41982753142603,86.00652170277836
+Bronx,Entire guest suite,Entire place,3,1.0,Yes,Yes,76.8932932932546,76.8932932932546
+Bronx,Entire guest suite,Entire place,3,2.0,Yes,Yes,88.26516735519101,88.26516735519101
+Bronx,Entire guest suite,Entire place,4,1.0,Yes,Yes,50.98337358897155,69.87816909008045
+Bronx,Entire guest suite,Entire place,4,2.0,Yes,No,114.33085139097103,114.33085139097103
+Bronx,Entire guest suite,Entire place,4,2.0,Yes,Yes,168.2320899808669,208.91444178400883
+Bronx,Entire guest suite,Entire place,5,2.0,Yes,Yes,99.91285930518296,99.91285930518296
+Bronx,Entire guesthouse,Entire place,2,1.0,Yes,Yes,80.18736467651316,80.18736467651316
+Bronx,Entire guesthouse,Entire place,4,1.0,No,Yes,108.72307964572326,108.72307964572326
+Bronx,Entire guesthouse,Entire place,4,1.0,Yes,Yes,97.00705003135148,105.72896210733543
+Bronx,Entire home/apt,Entire place,4,1.0,Yes,No,254.34596605392625,254.34596605392625
+Bronx,Entire house,Entire place,2,1.0,Yes,Yes,99.42317170171896,114.8747028585486
+Bronx,Entire house,Entire place,3,1.0,Yes,No,60.59253843680902,60.59253843680902
+Bronx,Entire house,Entire place,3,1.0,Yes,Yes,86.97094904622274,86.97094904622274
+Bronx,Entire house,Entire place,4,1.0,Yes,Yes,98.67113260538297,112.49337751427052
+Bronx,Entire house,Entire place,4,2.0,Yes,Yes,121.6446444584902,148.25895710982877
+Bronx,Entire house,Entire place,5,2.0,Yes,Yes,113.86897274001431,134.3574184358739
+Bronx,Entire house,Entire place,6,2.0,Yes,Yes,108.84892016657564,108.84892016657564
+Bronx,Entire house,Entire place,6,3.0,Yes,Yes,236.411062722929,300.2348246091821
+Bronx,Entire house,Entire place,6,4.0,Yes,Yes,252.8882700178188,252.8882700178188
+Bronx,Entire house,Entire place,7,2.0,Yes,Yes,143.27342776723393,165.03599468366622
+Bronx,Entire house,Entire place,7,3.0,Yes,Yes,437.0966633194559,437.0966633194559
+Bronx,Entire house,Entire place,8,3.0,Yes,Yes,190.0799477733072,198.77108254663773
+Bronx,Entire house,Entire place,12,2.0,No,Yes,246.47866119223377,246.47866119223377
+Bronx,Entire house,Entire place,12,2.0,Yes,Yes,196.07492091819597,196.07492091819597
+Bronx,Entire house,Entire place,12,3.0,Yes,Yes,202.64749644381396,202.64749644381396
+Bronx,Entire house,Entire place,13,3.0,Yes,Yes,518.0821582283228,518.0821582283228
+Bronx,Entire house,Entire place,13,8.0,Yes,Yes,685.3268426269912,685.3268426269912
+Bronx,Entire house,Entire place,14,4.0,Yes,Yes,238.7750392271506,238.7750392271506
+Bronx,Entire house,Entire place,15,4.0,Yes,Yes,911.7735479696116,911.7735479696116
+Bronx,Entire loft,Entire place,4,2.0,Yes,Yes,129.1989131072608,129.1989131072608
+Bronx,Entire townhouse,Entire place,2,1.0,Yes,Yes,73.0024100216847,73.0024100216847
+Bronx,Entire townhouse,Entire place,4,1.0,Yes,Yes,148.10363667716825,148.10363667716825
+Bronx,Entire townhouse,Entire place,4,2.0,Yes,Yes,91.10837110427408,91.10837110427408
+Bronx,Entire townhouse,Entire place,8,1.0,Yes,Yes,75.8360608466487,75.8360608466487
+Bronx,Entire townhouse,Entire place,16,4.0,Yes,Yes,178.69153626466928,178.69153626466928
+Bronx,Entire villa,Entire place,10,2.0,Yes,Yes,366.1361038630351,366.1361038630351
+Bronx,Private room in apartment,Private room,1,1.0,No,No,64.45015087683718,64.45015087683718
+Bronx,Private room in apartment,Private room,1,1.0,Yes,No,37.03748430281414,37.18032793830135
+Bronx,Private room in apartment,Private room,1,1.0,Yes,Yes,49.97335657824654,60.18125588927249
+Bronx,Private room in apartment,Private room,1,2.0,Yes,No,45.37895774914662,45.37895774914662
+Bronx,Private room in apartment,Private room,1,4.0,Yes,Yes,48.22969250374853,57.08578504078311
+Bronx,Private room in apartment,Private room,2,1.0,No,No,30.098238193357787,33.52534512992433
+Bronx,Private room in apartment,Private room,2,1.0,Yes,No,39.87938390151231,46.89119734114367
+Bronx,Private room in apartment,Private room,2,1.0,Yes,Yes,53.473097488075965,66.64383107492841
+Bronx,Private room in apartment,Private room,2,2.0,Yes,Yes,154.40000400576295,154.40000400576295
+Bronx,Private room in apartment,Private room,2,3.0,Yes,No,75.78593445981977,75.78593445981977
+Bronx,Private room in apartment,Private room,2,4.0,Yes,Yes,77.00443834839938,77.00443834839938
+Bronx,Private room in apartment,Private room,3,1.0,No,Yes,533.8072512773374,533.8072512773374
+Bronx,Private room in apartment,Private room,3,1.0,Yes,No,68.85447347938965,78.05660366812046
+Bronx,Private room in apartment,Private room,3,1.0,Yes,Yes,55.78363598941072,64.31774521113616
+Bronx,Private room in apartment,Private room,4,1.0,No,Yes,34.95173832806041,34.95173832806041
+Bronx,Private room in apartment,Private room,4,1.0,Yes,No,93.98278109489736,93.98278109489736
+Bronx,Private room in apartment,Private room,4,1.0,Yes,Yes,55.73864959695213,58.73362371279308
+Bronx,Private room in apartment,Private room,4,2.0,Yes,Yes,183.6176117462757,215.43752181539384
+Bronx,Private room in apartment,Private room,4,3.0,Yes,Yes,272.9597325275731,272.9597325275731
+Bronx,Private room in apartment,Private room,5,1.0,Yes,Yes,101.0783016726082,101.0783016726082
+Bronx,Private room in bed and breakfast,Private room,2,1.0,No,No,111.6943745671204,111.6943745671204
+Bronx,Private room in bed and breakfast,Private room,2,1.0,Yes,Yes,36.16401111648863,49.6246846373493
+Bronx,Private room in condominium,Private room,1,1.0,Yes,No,64.14912654451162,64.14912654451162
+Bronx,Private room in condominium,Private room,1,1.0,Yes,Yes,44.79999433618904,44.79999433618904
+Bronx,Private room in condominium,Private room,2,1.0,Yes,Yes,47.39236434739361,50.64332214298564
+Bronx,Private room in condominium,Private room,4,1.0,Yes,Yes,42.29285858482364,42.29285858482364
+Bronx,Private room in guest suite,Private room,2,1.0,Yes,Yes,64.99776974720514,67.54958507323788
+Bronx,Private room in house,Private room,1,1.0,Yes,No,39.19338424954478,40.7424492295133
+Bronx,Private room in house,Private room,1,1.0,Yes,Yes,40.52849478910012,44.77908367978127
+Bronx,Private room in house,Private room,2,1.0,Yes,No,51.75274676270215,54.4648665205945
+Bronx,Private room in house,Private room,2,1.0,Yes,Yes,53.79346487982791,68.07396321270997
+Bronx,Private room in house,Private room,3,1.0,Yes,No,29.087587798880104,29.087587798880104
+Bronx,Private room in house,Private room,3,1.0,Yes,Yes,50.49872913656558,67.20085644408383
+Bronx,Private room in house,Private room,4,1.0,Yes,No,55.099737623947846,55.099737623947846
+Bronx,Private room in house,Private room,4,1.0,Yes,Yes,54.070886744288586,56.1778657926216
+Bronx,Private room in house,Private room,4,2.0,Yes,Yes,111.13112745757564,111.13112745757564
+Bronx,Private room in house,Private room,7,1.0,Yes,Yes,74.50539498223262,74.50539498223262
+Bronx,Private room in house,Private room,8,5.0,Yes,No,44.2180840321174,44.2180840321174
+Bronx,Private room in house,Private room,9,3.0,Yes,Yes,545.9727319826998,545.9727319826998
+Bronx,Private room in house,Private room,12,2.0,Yes,Yes,510.68713546494,510.68713546494
+Bronx,Private room in loft,Private room,2,1.0,Yes,Yes,66.70404899419387,72.29657211714367
+Bronx,Private room in townhouse,Private room,1,1.0,Yes,No,42.69959309217828,44.081067170856784
+Bronx,Private room in townhouse,Private room,1,1.0,Yes,Yes,40.695309694547845,40.71361350318534
+Bronx,Private room in townhouse,Private room,2,1.0,Yes,No,51.58311175794897,51.58311175794897
+Bronx,Private room in townhouse,Private room,2,1.0,Yes,Yes,43.05588579466084,59.80439277106161
+Bronx,Private room in townhouse,Private room,4,1.0,Yes,Yes,79.9368018260414,80.76054657993545
+Bronx,Private room in townhouse,Private room,4,2.0,Yes,Yes,55.77654148269065,55.77654148269065
+Bronx,Private room in townhouse,Private room,4,3.0,Yes,Yes,59.382490431302806,59.382490431302806
+Bronx,Shared room in apartment,Shared room,1,1.0,Yes,No,24.74337292507329,24.74337292507329
+Bronx,Shared room in apartment,Shared room,1,1.0,Yes,Yes,35.019933393651755,35.019933393651755
+Bronx,Shared room in apartment,Shared room,2,1.0,Yes,Yes,110.13402382937056,110.13402382937056
+Bronx,Shared room in loft,Shared room,1,1.0,Yes,Yes,23.228615213511468,24.773066858158582
+Bronx,Tiny house,Entire place,2,1.0,Yes,Yes,90.20218831797368,90.20218831797368
+Brooklyn,Barn,Entire place,5,1.0,Yes,Yes,199.12652490783375,199.12652490783375
+Brooklyn,Entire apartment,Entire place,1,1.0,No,Yes,45.19167158866792,45.19167158866792
+Brooklyn,Entire apartment,Entire place,1,1.0,Yes,No,98.85849213275787,108.7835249458241
+Brooklyn,Entire apartment,Entire place,1,1.0,Yes,Yes,90.5215807145185,107.43103017210088
+Brooklyn,Entire apartment,Entire place,1,2.0,Yes,Yes,128.2574496567109,128.2574496567109
+Brooklyn,Entire apartment,Entire place,2,1.0,No,Yes,120.59471524617088,135.21159985404518
+Brooklyn,Entire apartment,Entire place,2,1.0,Yes,No,92.74488564103136,110.93052346379794
+Brooklyn,Entire apartment,Entire place,2,1.0,Yes,Yes,105.528461661918,139.51904840179782
+Brooklyn,Entire apartment,Entire place,2,2.0,No,Yes,147.12750132595042,147.12750132595042
+Brooklyn,Entire apartment,Entire place,2,2.0,Yes,No,94.97104044917845,127.31942317907242
+Brooklyn,Entire apartment,Entire place,2,2.0,Yes,Yes,125.21856726834903,149.9918391041837
+Brooklyn,Entire apartment,Entire place,2,3.0,Yes,Yes,29.065616551359824,29.065616551359824
+Brooklyn,Entire apartment,Entire place,3,1.0,No,Yes,83.25779447339784,83.25779447339784
+Brooklyn,Entire apartment,Entire place,3,1.0,Yes,No,98.72314838205943,111.84304206569226
+Brooklyn,Entire apartment,Entire place,3,1.0,Yes,Yes,121.22741849111937,150.5655190680391
+Brooklyn,Entire apartment,Entire place,3,2.0,Yes,No,68.3768327562251,68.3768327562251
+Brooklyn,Entire apartment,Entire place,3,2.0,Yes,Yes,123.19856355903563,158.61349334516544
+Brooklyn,Entire apartment,Entire place,3,3.0,Yes,Yes,144.25612514133346,272.1258507417865
+Brooklyn,Entire apartment,Entire place,4,1.0,No,No,106.601234660336,106.601234660336
+Brooklyn,Entire apartment,Entire place,4,1.0,No,Yes,98.54426424125325,98.54426424125325
+Brooklyn,Entire apartment,Entire place,4,1.0,Yes,No,99.57921265422316,136.3290821730211
+Brooklyn,Entire apartment,Entire place,4,1.0,Yes,Yes,117.55115583292368,152.45918319331787
+Brooklyn,Entire apartment,Entire place,4,2.0,No,No,89.04702598592667,89.04702598592667
+Brooklyn,Entire apartment,Entire place,4,2.0,No,Yes,295.5289854366606,295.5289854366606
+Brooklyn,Entire apartment,Entire place,4,2.0,Yes,No,114.96789848909155,134.21619647906977
+Brooklyn,Entire apartment,Entire place,4,2.0,Yes,Yes,141.94068241882553,175.2778079465824
+Brooklyn,Entire apartment,Entire place,4,3.0,Yes,No,235.94221312194492,235.94221312194492
+Brooklyn,Entire apartment,Entire place,4,3.0,Yes,Yes,159.46442011820886,188.2934610431888
+Brooklyn,Entire apartment,Entire place,4,4.0,Yes,No,105.2525573582003,105.2525573582003
+Brooklyn,Entire apartment,Entire place,4,4.0,Yes,Yes,160.20090063913352,160.22745623138948
+Brooklyn,Entire apartment,Entire place,5,1.0,No,Yes,325.483845376701,325.483845376701
+Brooklyn,Entire apartment,Entire place,5,1.0,Yes,No,170.9689399494557,209.29239044027395
+Brooklyn,Entire apartment,Entire place,5,1.0,Yes,Yes,136.24852520840395,154.16003522002038
+Brooklyn,Entire apartment,Entire place,5,2.0,No,No,106.11798394098209,106.12096377915164
+Brooklyn,Entire apartment,Entire place,5,2.0,Yes,No,96.34343869169504,97.31405627781452
+Brooklyn,Entire apartment,Entire place,5,2.0,Yes,Yes,135.02031106532957,179.59248045601728
+Brooklyn,Entire apartment,Entire place,5,3.0,Yes,No,133.39433805306098,150.34615329024797
+Brooklyn,Entire apartment,Entire place,5,3.0,Yes,Yes,179.54388193458774,231.12434256448952
+Brooklyn,Entire apartment,Entire place,6,1.0,Yes,No,115.58414154936952,115.58414154936952
+Brooklyn,Entire apartment,Entire place,6,1.0,Yes,Yes,121.67129659817115,138.47691626288392
+Brooklyn,Entire apartment,Entire place,6,2.0,Yes,No,143.12280550186858,150.52456726097992
+Brooklyn,Entire apartment,Entire place,6,2.0,Yes,Yes,156.90081616669426,191.39573547863543
+Brooklyn,Entire apartment,Entire place,6,3.0,Yes,No,223.5978710504852,261.9892882390715
+Brooklyn,Entire apartment,Entire place,6,3.0,Yes,Yes,179.66137575131563,256.73857182903816
+Brooklyn,Entire apartment,Entire place,6,4.0,Yes,Yes,190.13181001240625,300.8254681422182
+Brooklyn,Entire apartment,Entire place,7,1.0,No,Yes,195.68334661929407,195.68334661929407
+Brooklyn,Entire apartment,Entire place,7,2.0,Yes,Yes,116.48698561820088,153.23219145772032
+Brooklyn,Entire apartment,Entire place,7,3.0,Yes,Yes,152.5595070124319,215.8588893039499
+Brooklyn,Entire apartment,Entire place,7,4.0,Yes,No,306.3583444310027,306.3583444310027
+Brooklyn,Entire apartment,Entire place,7,4.0,Yes,Yes,215.2866326851706,279.1456374015463
+Brooklyn,Entire apartment,Entire place,8,1.0,Yes,Yes,108.59214110369646,132.83580291912824
+Brooklyn,Entire apartment,Entire place,8,2.0,Yes,Yes,166.5422763471603,212.19582765522787
+Brooklyn,Entire apartment,Entire place,8,3.0,Yes,Yes,167.37153582804447,196.93865562101283
+Brooklyn,Entire apartment,Entire place,8,4.0,Yes,No,408.32001423319855,408.32001423319855
+Brooklyn,Entire apartment,Entire place,8,4.0,Yes,Yes,219.60180369914548,279.7459024761404
+Brooklyn,Entire apartment,Entire place,8,8.0,Yes,Yes,199.6491078124141,205.2685496469
+Brooklyn,Entire apartment,Entire place,9,2.0,Yes,Yes,126.09830959986016,126.09830959986016
+Brooklyn,Entire apartment,Entire place,9,3.0,Yes,No,155.54937062561166,155.54937062561166
+Brooklyn,Entire apartment,Entire place,9,3.0,Yes,Yes,126.31546650430778,179.8655505826068
+Brooklyn,Entire apartment,Entire place,9,4.0,Yes,Yes,399.049121999024,410.5982498803856
+Brooklyn,Entire apartment,Entire place,10,1.0,Yes,Yes,211.16340873638683,244.75973976644903
+Brooklyn,Entire apartment,Entire place,10,2.0,Yes,Yes,139.69227507121997,302.3528165557369
+Brooklyn,Entire apartment,Entire place,10,3.0,Yes,Yes,157.08903510873796,238.541167147112
+Brooklyn,Entire apartment,Entire place,10,4.0,Yes,Yes,264.9989296703711,410.6798433517008
+Brooklyn,Entire apartment,Entire place,10,5.0,Yes,Yes,506.2203742400464,563.7983997790626
+Brooklyn,Entire apartment,Entire place,12,2.0,Yes,Yes,213.866038876596,277.4294046255247
+Brooklyn,Entire apartment,Entire place,12,3.0,Yes,Yes,372.263259924347,558.0380509890497
+Brooklyn,Entire apartment,Entire place,12,4.0,Yes,Yes,307.26170514671446,307.26170514671446
+Brooklyn,Entire apartment,Entire place,12,5.0,Yes,Yes,335.7216151541067,335.7216151541067
+Brooklyn,Entire apartment,Entire place,13,4.0,Yes,Yes,192.58527118993413,192.58527118993413
+Brooklyn,Entire apartment,Entire place,13,5.0,Yes,Yes,225.1164341622269,225.1164341622269
+Brooklyn,Entire apartment,Entire place,15,2.0,Yes,Yes,151.7788918925955,151.7788918925955
+Brooklyn,Entire apartment,Entire place,16,1.0,Yes,Yes,548.1412820195385,569.4022623816256
+Brooklyn,Entire apartment,Entire place,16,3.0,Yes,No,421.1365330289287,421.1365330289287
+Brooklyn,Entire apartment,Entire place,16,4.0,Yes,Yes,792.3460326094387,792.3460326094387
+Brooklyn,Entire apartment,Entire place,16,7.0,Yes,Yes,515.183035158604,667.7235156020743
+Brooklyn,Entire apartment,Entire place,16,9.0,Yes,Yes,719.8615249679957,719.8615249679957
+Brooklyn,Entire condominium,Entire place,2,1.0,Yes,No,52.61164461100882,52.61164461100882
+Brooklyn,Entire condominium,Entire place,2,1.0,Yes,Yes,125.69985047489388,152.06390739257685
+Brooklyn,Entire condominium,Entire place,2,2.0,Yes,Yes,242.01390112319567,242.01390112319567
+Brooklyn,Entire condominium,Entire place,3,1.0,Yes,Yes,150.8554220784144,225.59660852200244
+Brooklyn,Entire condominium,Entire place,3,2.0,Yes,Yes,119.94755989588036,145.30903702268674
+Brooklyn,Entire condominium,Entire place,4,1.0,Yes,Yes,118.08214474047718,146.70599268212504
+Brooklyn,Entire condominium,Entire place,4,2.0,Yes,Yes,166.68108309608826,254.07105060585093
+Brooklyn,Entire condominium,Entire place,4,3.0,Yes,Yes,171.80767872006177,171.80767872006177
+Brooklyn,Entire condominium,Entire place,5,2.0,Yes,Yes,131.47215378075248,198.34742077010625
+Brooklyn,Entire condominium,Entire place,6,1.0,Yes,Yes,202.96818656771975,215.1846800005259
+Brooklyn,Entire condominium,Entire place,6,2.0,Yes,Yes,227.98936598056756,353.7783517417063
+Brooklyn,Entire condominium,Entire place,6,3.0,Yes,Yes,245.1246640618556,303.579521386382
+Brooklyn,Entire condominium,Entire place,7,2.0,Yes,Yes,116.1410762636878,116.1410762636878
+Brooklyn,Entire condominium,Entire place,7,3.0,Yes,Yes,249.2820839839832,249.2820839839832
+Brooklyn,Entire condominium,Entire place,8,2.0,Yes,Yes,1022.1524608373122,1022.1524608373122
+Brooklyn,Entire condominium,Entire place,8,4.0,Yes,Yes,195.04044426690533,195.04044426690533
+Brooklyn,Entire condominium,Entire place,12,2.0,Yes,Yes,119.13922037763857,119.13922037763857
+Brooklyn,Entire cottage,Entire place,5,3.0,Yes,Yes,124.63352571037308,124.63352571037308
+Brooklyn,Entire cottage,Entire place,7,1.0,Yes,Yes,203.55465388493695,203.55465388493695
+Brooklyn,Entire floor,Entire place,3,1.0,Yes,Yes,122.80082602679492,122.80082602679492
+Brooklyn,Entire floor,Entire place,4,3.0,Yes,Yes,172.6628896738082,172.6628896738082
+Brooklyn,Entire guest suite,Entire place,1,1.0,No,No,42.03629341675516,42.03629341675516
+Brooklyn,Entire guest suite,Entire place,1,1.0,Yes,Yes,72.74028340949799,72.74028340949799
+Brooklyn,Entire guest suite,Entire place,2,1.0,No,No,85.10958147539925,85.10958147539925
+Brooklyn,Entire guest suite,Entire place,2,1.0,Yes,No,87.85861330478906,91.06785276230111
+Brooklyn,Entire guest suite,Entire place,2,1.0,Yes,Yes,107.9168155754408,134.50115621412286
+Brooklyn,Entire guest suite,Entire place,2,2.0,Yes,Yes,101.9158310341658,103.56627334364164
+Brooklyn,Entire guest suite,Entire place,3,1.0,Yes,No,77.55650662012971,81.54549325836031
+Brooklyn,Entire guest suite,Entire place,3,1.0,Yes,Yes,106.39582854426727,121.8070171473518
+Brooklyn,Entire guest suite,Entire place,3,2.0,Yes,No,150.18260854355236,150.18260854355236
+Brooklyn,Entire guest suite,Entire place,4,1.0,Yes,No,89.32044282118744,89.32044282118744
+Brooklyn,Entire guest suite,Entire place,4,1.0,Yes,Yes,111.42037674932888,129.7007584268872
+Brooklyn,Entire guest suite,Entire place,4,2.0,Yes,Yes,109.17025317653902,114.43014995336232
+Brooklyn,Entire guest suite,Entire place,5,1.0,Yes,Yes,79.277563694063,79.277563694063
+Brooklyn,Entire guest suite,Entire place,5,2.0,Yes,Yes,137.67854463809917,180.39844658932088
+Brooklyn,Entire guest suite,Entire place,5,3.0,Yes,Yes,160.12884042950222,160.12884042950222
+Brooklyn,Entire guest suite,Entire place,6,2.0,Yes,Yes,194.65452563640903,226.5005725355988
+Brooklyn,Entire guest suite,Entire place,6,3.0,Yes,Yes,195.10475566379293,195.10475566379293
+Brooklyn,Entire guest suite,Entire place,8,2.0,Yes,Yes,86.02429194131952,86.02429194131952
+Brooklyn,Entire guest suite,Entire place,8,3.0,Yes,Yes,182.0247572053307,182.0247572053307
+Brooklyn,Entire guest suite,Entire place,10,4.0,Yes,Yes,184.88733358536155,184.88733358536155
+Brooklyn,Entire guesthouse,Entire place,2,1.0,Yes,Yes,95.81531430054152,95.81531430054152
+Brooklyn,Entire guesthouse,Entire place,3,1.0,Yes,Yes,161.34319551673846,161.34319551673846
+Brooklyn,Entire guesthouse,Entire place,3,2.0,Yes,Yes,139.3308653153194,139.3308653153194
+Brooklyn,Entire guesthouse,Entire place,4,1.0,Yes,No,71.67521683152057,71.67521683152057
+Brooklyn,Entire guesthouse,Entire place,4,1.0,Yes,Yes,98.37267494350482,98.37267494350482
+Brooklyn,Entire guesthouse,Entire place,5,2.0,Yes,Yes,170.25708015721688,179.99947514538582
+Brooklyn,Entire guesthouse,Entire place,6,2.0,Yes,Yes,109.27365516130205,109.27365516130205
+Brooklyn,Entire guesthouse,Entire place,6,3.0,Yes,Yes,116.63133233295989,116.63133233295989
+Brooklyn,Entire house,Entire place,1,1.0,Yes,Yes,165.05700187921812,165.05700187921812
+Brooklyn,Entire house,Entire place,1,2.0,Yes,Yes,330.4738307346193,330.4738307346193
+Brooklyn,Entire house,Entire place,2,1.0,No,Yes,95.27127978114716,107.9871070601373
+Brooklyn,Entire house,Entire place,2,1.0,Yes,No,85.3497445934467,85.3497445934467
+Brooklyn,Entire house,Entire place,2,1.0,Yes,Yes,96.20995559323234,102.3911616898994
+Brooklyn,Entire house,Entire place,2,2.0,Yes,Yes,99.53333093548623,109.24931881194706
+Brooklyn,Entire house,Entire place,3,1.0,Yes,No,85.29788035303346,85.29788035303346
+Brooklyn,Entire house,Entire place,3,1.0,Yes,Yes,134.906547774163,159.9512191760138
+Brooklyn,Entire house,Entire place,3,2.0,Yes,No,193.86189319004205,193.86189319004205
+Brooklyn,Entire house,Entire place,3,2.0,Yes,Yes,121.25099720438632,146.3398458363385
+Brooklyn,Entire house,Entire place,3,3.0,Yes,Yes,180.1539353438038,180.1539353438038
+Brooklyn,Entire house,Entire place,4,1.0,Yes,No,94.53419977518904,104.55085705052596
+Brooklyn,Entire house,Entire place,4,1.0,Yes,Yes,113.67425001566156,149.00826063737824
+Brooklyn,Entire house,Entire place,4,2.0,Yes,No,172.31245202115852,220.08824874369583
+Brooklyn,Entire house,Entire place,4,2.0,Yes,Yes,154.1599326795764,223.2501621906893
+Brooklyn,Entire house,Entire place,4,3.0,Yes,Yes,1205.014704650716,1205.014704650716
+Brooklyn,Entire house,Entire place,5,1.0,Yes,Yes,116.81408215498271,151.64577270988852
+Brooklyn,Entire house,Entire place,5,2.0,Yes,No,57.868631979097024,67.47898322704698
+Brooklyn,Entire house,Entire place,5,2.0,Yes,Yes,151.23035246509926,200.89089065795383
+Brooklyn,Entire house,Entire place,5,3.0,Yes,No,238.44765750639667,238.44765750639667
+Brooklyn,Entire house,Entire place,5,3.0,Yes,Yes,239.97694957193093,438.3361187865336
+Brooklyn,Entire house,Entire place,5,4.0,Yes,Yes,125.48518028320268,125.48518028320268
+Brooklyn,Entire house,Entire place,6,1.0,Yes,Yes,242.11261208121493,333.5742275689206
+Brooklyn,Entire house,Entire place,6,2.0,No,No,139.77558228828136,139.77558228828136
+Brooklyn,Entire house,Entire place,6,2.0,Yes,No,136.71655280025217,136.71655280025217
+Brooklyn,Entire house,Entire place,6,2.0,Yes,Yes,189.51475607400693,225.88068050965376
+Brooklyn,Entire house,Entire place,6,3.0,Yes,Yes,269.484234016639,438.01457841986667
+Brooklyn,Entire house,Entire place,6,4.0,Yes,Yes,331.7263777768585,473.2142185013431
+Brooklyn,Entire house,Entire place,7,2.0,Yes,Yes,174.81819146119267,332.58381853971144
+Brooklyn,Entire house,Entire place,7,3.0,Yes,Yes,138.83876794605658,192.12817525748451
+Brooklyn,Entire house,Entire place,7,4.0,Yes,Yes,232.32671636747767,292.34483737586606
+Brooklyn,Entire house,Entire place,8,1.0,Yes,Yes,85.51533371773512,85.51533371773512
+Brooklyn,Entire house,Entire place,8,2.0,Yes,Yes,130.61124443608637,145.734865594874
+Brooklyn,Entire house,Entire place,8,3.0,Yes,Yes,172.31658563757503,261.7873187208369
+Brooklyn,Entire house,Entire place,8,4.0,Yes,Yes,395.5316991305804,468.6571834481283
+Brooklyn,Entire house,Entire place,8,5.0,Yes,Yes,358.14900606402847,358.14900606402847
+Brooklyn,Entire house,Entire place,8,6.0,Yes,Yes,488.8189768726421,488.8189768726421
+Brooklyn,Entire house,Entire place,9,4.0,Yes,Yes,401.2666973296058,439.275529987054
+Brooklyn,Entire house,Entire place,10,3.0,Yes,Yes,246.72681703772895,284.99999757062216
+Brooklyn,Entire house,Entire place,10,4.0,Yes,Yes,266.5469290407719,276.6903169669332
+Brooklyn,Entire house,Entire place,10,5.0,Yes,Yes,390.2699984350954,726.2731095108711
+Brooklyn,Entire house,Entire place,11,3.0,No,No,221.14895742235245,221.14895742235245
+Brooklyn,Entire house,Entire place,11,4.0,Yes,Yes,221.4759559080439,266.32033469446293
+Brooklyn,Entire house,Entire place,11,5.0,Yes,Yes,237.01571249346128,237.01571249346128
+Brooklyn,Entire house,Entire place,12,3.0,Yes,Yes,132.22632477412634,133.52388779096333
+Brooklyn,Entire house,Entire place,12,4.0,Yes,Yes,200.9609779061397,200.9609779061397
+Brooklyn,Entire house,Entire place,12,5.0,Yes,Yes,342.05383395944,342.05383395944
+Brooklyn,Entire house,Entire place,13,7.0,Yes,Yes,4603.56672404383,4603.56672404383
+Brooklyn,Entire house,Entire place,14,4.0,Yes,Yes,286.19074974474205,286.19074974474205
+Brooklyn,Entire house,Entire place,14,5.0,Yes,Yes,867.9497220240822,867.9497220240822
+Brooklyn,Entire house,Entire place,14,6.0,Yes,Yes,241.1878692658113,241.1878692658113
+Brooklyn,Entire house,Entire place,16,3.0,Yes,Yes,671.8458994006103,1649.5480899392935
+Brooklyn,Entire house,Entire place,16,5.0,Yes,Yes,1026.4023721839328,1251.5793631577503
+Brooklyn,Entire house,Entire place,16,6.0,Yes,Yes,451.4132189752976,451.4132189752976
+Brooklyn,Entire house,Entire place,16,7.0,Yes,Yes,1057.6541979510002,1057.6541979510002
+Brooklyn,Entire house,Entire place,16,14.0,Yes,Yes,1520.455077960122,1520.455077960122
+Brooklyn,Entire loft,Entire place,2,1.0,Yes,Yes,139.7754179423014,198.3593890320508
+Brooklyn,Entire loft,Entire place,2,2.0,Yes,No,154.2335573105695,154.2335573105695
+Brooklyn,Entire loft,Entire place,2,2.0,Yes,Yes,146.99886772705503,212.340296461946
+Brooklyn,Entire loft,Entire place,3,1.0,Yes,No,234.11430028893312,234.11430028893312
+Brooklyn,Entire loft,Entire place,3,1.0,Yes,Yes,130.90963603271365,173.05873840234577
+Brooklyn,Entire loft,Entire place,4,1.0,Yes,Yes,123.533811576683,171.65081304321234
+Brooklyn,Entire loft,Entire place,4,2.0,Yes,Yes,175.32578710840542,217.65574288953468
+Brooklyn,Entire loft,Entire place,4,3.0,Yes,Yes,164.4998837650393,164.4998837650393
+Brooklyn,Entire loft,Entire place,5,1.0,Yes,Yes,134.1113433890976,198.34393009610332
+Brooklyn,Entire loft,Entire place,5,2.0,Yes,Yes,192.1011755281144,209.6881657129045
+Brooklyn,Entire loft,Entire place,5,3.0,Yes,Yes,125.56600498306378,246.115763294684
+Brooklyn,Entire loft,Entire place,6,1.0,Yes,Yes,137.07381667957682,137.07381667957682
+Brooklyn,Entire loft,Entire place,6,2.0,Yes,No,101.26122950024764,101.26122950024764
+Brooklyn,Entire loft,Entire place,6,2.0,Yes,Yes,212.0298952128083,259.3964003599543
+Brooklyn,Entire loft,Entire place,6,3.0,Yes,Yes,439.3880336073288,453.6965378392295
+Brooklyn,Entire loft,Entire place,6,4.0,Yes,Yes,208.8894814870911,208.8894814870911
+Brooklyn,Entire loft,Entire place,7,2.0,Yes,Yes,137.88817380732837,189.0685858002012
+Brooklyn,Entire loft,Entire place,8,2.0,Yes,Yes,151.37320737596468,151.37320737596468
+Brooklyn,Entire loft,Entire place,16,1.0,Yes,Yes,414.0731052380663,414.0731052380663
+Brooklyn,Entire serviced apartment,Entire place,4,1.0,Yes,Yes,108.24936672863228,152.12219171018307
+Brooklyn,Entire serviced apartment,Entire place,4,2.0,Yes,Yes,138.9235342148151,149.20893498263217
+Brooklyn,Entire serviced apartment,Entire place,5,1.0,Yes,Yes,121.58606405744209,121.58606405744209
+Brooklyn,Entire serviced apartment,Entire place,5,2.0,Yes,Yes,122.18716922877312,122.2293142000927
+Brooklyn,Entire serviced apartment,Entire place,6,2.0,Yes,Yes,138.82658551582887,138.95891381519948
+Brooklyn,Entire townhouse,Entire place,1,1.0,Yes,Yes,99.85289448561912,99.85289448561912
+Brooklyn,Entire townhouse,Entire place,2,1.0,Yes,No,128.40141043334452,136.38456489459043
+Brooklyn,Entire townhouse,Entire place,2,1.0,Yes,Yes,97.9433729990049,142.25413770799742
+Brooklyn,Entire townhouse,Entire place,2,2.0,Yes,Yes,98.9151510047695,101.47580178967944
+Brooklyn,Entire townhouse,Entire place,2,4.0,Yes,Yes,97.78992542119072,97.78992542119072
+Brooklyn,Entire townhouse,Entire place,3,1.0,Yes,No,102.82120556137052,112.42124617084822
+Brooklyn,Entire townhouse,Entire place,3,1.0,Yes,Yes,160.6005213573985,245.89201196755727
+Brooklyn,Entire townhouse,Entire place,3,2.0,Yes,Yes,131.62749208124367,226.6552543211041
+Brooklyn,Entire townhouse,Entire place,3,4.0,Yes,Yes,435.7777569479527,435.7777569479527
+Brooklyn,Entire townhouse,Entire place,4,1.0,Yes,No,108.68263392101572,117.71869184946551
+Brooklyn,Entire townhouse,Entire place,4,1.0,Yes,Yes,117.86220865568444,179.85324403751355
+Brooklyn,Entire townhouse,Entire place,4,2.0,Yes,Yes,160.72659977685953,203.0843103779804
+Brooklyn,Entire townhouse,Entire place,4,3.0,Yes,Yes,107.81832040115312,107.81832040115312
+Brooklyn,Entire townhouse,Entire place,4,4.0,Yes,Yes,116.553195132301,116.553195132301
+Brooklyn,Entire townhouse,Entire place,5,1.0,Yes,Yes,78.94362567532824,79.15184367680473
+Brooklyn,Entire townhouse,Entire place,5,2.0,Yes,Yes,131.20077318992804,160.5853156137512
+Brooklyn,Entire townhouse,Entire place,5,3.0,Yes,No,137.87118805324724,144.4690126416872
+Brooklyn,Entire townhouse,Entire place,5,3.0,Yes,Yes,213.7705818083989,283.49760734299906
+Brooklyn,Entire townhouse,Entire place,5,4.0,Yes,Yes,349.10459093196846,349.10459093196846
+Brooklyn,Entire townhouse,Entire place,5,5.0,Yes,Yes,213.1516725672249,213.1516725672249
+Brooklyn,Entire townhouse,Entire place,6,1.0,Yes,Yes,324.49763661236096,456.3441648127426
+Brooklyn,Entire townhouse,Entire place,6,2.0,Yes,No,102.27625375858024,111.7875976808034
+Brooklyn,Entire townhouse,Entire place,6,2.0,Yes,Yes,161.1190726072636,180.90918230227047
+Brooklyn,Entire townhouse,Entire place,6,3.0,Yes,No,446.6953436372989,446.6953436372989
+Brooklyn,Entire townhouse,Entire place,6,3.0,Yes,Yes,256.6973637864497,313.91536019438945
+Brooklyn,Entire townhouse,Entire place,6,4.0,Yes,Yes,485.4929586151399,654.5223730498184
+Brooklyn,Entire townhouse,Entire place,6,5.0,Yes,No,403.728330212699,403.728330212699
+Brooklyn,Entire townhouse,Entire place,6,5.0,Yes,Yes,456.335853477892,481.44876372990166
+Brooklyn,Entire townhouse,Entire place,7,3.0,Yes,Yes,413.5854827179263,562.2078859881112
+Brooklyn,Entire townhouse,Entire place,8,3.0,Yes,No,171.54976496272755,171.54976496272755
+Brooklyn,Entire townhouse,Entire place,8,3.0,Yes,Yes,309.7683959295552,401.13704847557045
+Brooklyn,Entire townhouse,Entire place,8,4.0,Yes,Yes,483.72296368762727,484.79938416013925
+Brooklyn,Entire townhouse,Entire place,8,5.0,Yes,Yes,405.8196273384582,405.8196273384582
+Brooklyn,Entire townhouse,Entire place,9,3.0,Yes,Yes,108.98219084743592,108.98219084743592
+Brooklyn,Entire townhouse,Entire place,9,5.0,Yes,Yes,333.5504164737139,333.5504164737139
+Brooklyn,Entire townhouse,Entire place,10,3.0,Yes,Yes,335.2095823453348,465.9310078211928
+Brooklyn,Entire townhouse,Entire place,10,4.0,Yes,Yes,573.4492161537247,639.4358461839986
+Brooklyn,Entire townhouse,Entire place,10,5.0,Yes,Yes,397.785286634398,568.5891942358776
+Brooklyn,Entire townhouse,Entire place,12,2.0,Yes,Yes,200.13197190986105,200.13197190986105
+Brooklyn,Entire townhouse,Entire place,12,3.0,Yes,Yes,244.9358819233455,340.4934987785732
+Brooklyn,Entire townhouse,Entire place,12,4.0,Yes,Yes,380.0996875702933,380.0996875702933
+Brooklyn,Entire townhouse,Entire place,12,5.0,Yes,Yes,438.2939384184812,438.2939384184812
+Brooklyn,Entire townhouse,Entire place,13,3.0,Yes,Yes,84.59347286818794,84.59347286818794
+Brooklyn,Entire townhouse,Entire place,14,5.0,Yes,Yes,1016.5605127353126,1016.5605127353126
+Brooklyn,Entire townhouse,Entire place,16,1.0,Yes,Yes,771.3994938054317,771.3994938054317
+Brooklyn,Entire townhouse,Entire place,16,3.0,Yes,Yes,860.5386588531409,860.5386588531409
+Brooklyn,Entire townhouse,Entire place,16,4.0,Yes,Yes,3961.428452032803,3961.428452032803
+Brooklyn,Entire townhouse,Entire place,16,7.0,Yes,Yes,1442.8582408966984,1442.8582408966984
+Brooklyn,Private room in apartment,Private room,1,1.0,No,No,53.934067398954085,55.20099906443803
+Brooklyn,Private room in apartment,Private room,1,1.0,No,Yes,33.196876185994626,33.196876185994626
+Brooklyn,Private room in apartment,Private room,1,1.0,Yes,No,40.7008135099421,50.10102444530047
+Brooklyn,Private room in apartment,Private room,1,1.0,Yes,Yes,44.88228261312304,60.0818996783828
+Brooklyn,Private room in apartment,Private room,1,2.0,Yes,No,101.90625289199198,101.90625289199198
+Brooklyn,Private room in apartment,Private room,1,2.0,Yes,Yes,59.55517705125491,61.269201393424126
+Brooklyn,Private room in apartment,Private room,1,3.0,Yes,Yes,30.57456615297682,30.57456615297682
+Brooklyn,Private room in apartment,Private room,1,4.0,Yes,Yes,36.40482827768664,36.40482827768664
+Brooklyn,Private room in apartment,Private room,2,1.0,No,No,60.42199074154116,62.77728542035125
+Brooklyn,Private room in apartment,Private room,2,1.0,No,Yes,65.04557488101177,85.83078131397981
+Brooklyn,Private room in apartment,Private room,2,1.0,Yes,No,50.02116023823933,66.4519443095881
+Brooklyn,Private room in apartment,Private room,2,1.0,Yes,Yes,51.5631135907112,68.12279760721334
+Brooklyn,Private room in apartment,Private room,2,2.0,Yes,No,70.1221880417371,70.44757259490953
+Brooklyn,Private room in apartment,Private room,2,2.0,Yes,Yes,58.32311826148979,60.11835347854155
+Brooklyn,Private room in apartment,Private room,2,3.0,Yes,Yes,69.05278106255575,82.54218836661944
+Brooklyn,Private room in apartment,Private room,3,1.0,No,Yes,41.149506522926494,41.149506522926494
+Brooklyn,Private room in apartment,Private room,3,1.0,Yes,No,64.36559027893337,73.06762125972838
+Brooklyn,Private room in apartment,Private room,3,1.0,Yes,Yes,51.04828137557317,67.52300477991739
+Brooklyn,Private room in apartment,Private room,3,2.0,Yes,Yes,108.37463724590336,118.34758825799943
+Brooklyn,Private room in apartment,Private room,3,3.0,Yes,No,34.88118923956577,34.88118923956577
+Brooklyn,Private room in apartment,Private room,4,1.0,No,Yes,152.16282327745756,152.16282327745756
+Brooklyn,Private room in apartment,Private room,4,1.0,Yes,No,110.74216792582472,113.2966698502251
+Brooklyn,Private room in apartment,Private room,4,1.0,Yes,Yes,58.94424566604296,78.67888814053855
+Brooklyn,Private room in apartment,Private room,4,2.0,Yes,No,111.70359367641296,120.0788377051859
+Brooklyn,Private room in apartment,Private room,4,2.0,Yes,Yes,142.18768594623958,195.7636309708397
+Brooklyn,Private room in apartment,Private room,5,1.0,Yes,Yes,32.45659314132874,94.02576607692455
+Brooklyn,Private room in apartment,Private room,5,2.0,Yes,Yes,155.72384065783356,169.44640402369396
+Brooklyn,Private room in apartment,Private room,5,3.0,Yes,Yes,258.3467031366162,307.3807678392482
+Brooklyn,Private room in apartment,Private room,6,1.0,Yes,No,30.710335928892167,30.710335928892167
+Brooklyn,Private room in apartment,Private room,6,1.0,Yes,Yes,88.944180852711,96.52661354047906
+Brooklyn,Private room in apartment,Private room,6,2.0,Yes,Yes,153.95569917039307,170.84600438673263
+Brooklyn,Private room in apartment,Private room,6,3.0,Yes,Yes,188.06591586445995,252.741703472986
+Brooklyn,Private room in apartment,Private room,7,3.0,Yes,Yes,178.9367592156431,178.9367592156431
+Brooklyn,Private room in apartment,Private room,8,1.0,Yes,Yes,105.43029692059288,105.43029692059288
+Brooklyn,Private room in apartment,Private room,8,2.0,Yes,Yes,101.449729092526,101.449729092526
+Brooklyn,Private room in apartment,Private room,8,3.0,Yes,Yes,148.3280662151448,148.3280662151448
+Brooklyn,Private room in apartment,Private room,9,2.0,Yes,Yes,94.15099709019007,94.15099709019007
+Brooklyn,Private room in apartment,Private room,10,1.0,Yes,Yes,712.7812717431462,712.7812717431462
+Brooklyn,Private room in apartment,Private room,10,2.0,Yes,Yes,204.6837341795496,204.6837341795496
+Brooklyn,Private room in bed and breakfast,Private room,1,1.0,Yes,No,61.601260245887495,61.601260245887495
+Brooklyn,Private room in bed and breakfast,Private room,1,1.0,Yes,Yes,39.763463497927695,39.763463497927695
+Brooklyn,Private room in bungalow,Private room,1,1.0,Yes,Yes,58.78177844965634,63.151656763056806
+Brooklyn,Private room in condominium,Private room,1,1.0,Yes,No,126.65540680642998,126.65540680642998
+Brooklyn,Private room in condominium,Private room,1,1.0,Yes,Yes,49.88035949052386,60.252023867955046
+Brooklyn,Private room in condominium,Private room,1,2.0,Yes,Yes,75.78126490639423,75.78126490639423
+Brooklyn,Private room in condominium,Private room,1,3.0,Yes,Yes,85.29897416016391,85.29897416016391
+Brooklyn,Private room in condominium,Private room,2,1.0,Yes,No,52.45191244766703,55.21280315277529
+Brooklyn,Private room in condominium,Private room,2,1.0,Yes,Yes,62.07780774407631,84.93569858606176
+Brooklyn,Private room in condominium,Private room,3,1.0,Yes,Yes,89.28235062174248,117.2712788107392
+Brooklyn,Private room in condominium,Private room,4,1.0,Yes,Yes,95.47994384934805,95.47994384934805
+Brooklyn,Private room in condominium,Private room,5,1.0,Yes,Yes,175.37762107170118,182.08749925204344
+Brooklyn,Private room in guest suite,Private room,1,1.0,Yes,Yes,34.95969390749756,34.95969390749756
+Brooklyn,Private room in guest suite,Private room,2,1.0,Yes,No,53.49352927033165,53.49352927033165
+Brooklyn,Private room in guest suite,Private room,2,1.0,Yes,Yes,66.43262032897114,83.83672724752947
+Brooklyn,Private room in guest suite,Private room,2,2.0,Yes,Yes,151.21217674229166,152.26342576942383
+Brooklyn,Private room in guest suite,Private room,3,1.0,Yes,Yes,70.59512384601682,77.98912416790802
+Brooklyn,Private room in guest suite,Private room,4,1.0,Yes,No,39.015177656606895,39.015177656606895
+Brooklyn,Private room in guest suite,Private room,4,1.0,Yes,Yes,43.05164686397619,43.05164686397619
+Brooklyn,Private room in guest suite,Private room,4,2.0,Yes,Yes,150.02398494676362,166.33123361656544
+Brooklyn,Private room in guesthouse,Private room,2,1.0,Yes,Yes,102.47133670985896,102.47133670985896
+Brooklyn,Private room in hostel,Private room,3,1.0,Yes,Yes,85.39000543789864,85.39000543789864
+Brooklyn,Private room in house,Private room,1,1.0,Yes,No,44.727983006389465,69.98983467853428
+Brooklyn,Private room in house,Private room,1,1.0,Yes,Yes,47.68655732914065,53.75254978440492
+Brooklyn,Private room in house,Private room,1,2.0,Yes,No,71.87005098092104,74.8629563158012
+Brooklyn,Private room in house,Private room,2,1.0,No,No,88.50928779107262,88.50928779107262
+Brooklyn,Private room in house,Private room,2,1.0,Yes,No,39.843887162758975,50.050222359347245
+Brooklyn,Private room in house,Private room,2,1.0,Yes,Yes,51.79295220443862,68.15416854722125
+Brooklyn,Private room in house,Private room,2,2.0,Yes,Yes,77.19618039288412,93.22987848041564
+Brooklyn,Private room in house,Private room,2,7.0,Yes,Yes,46.27227294434156,46.27227294434156
+Brooklyn,Private room in house,Private room,3,1.0,Yes,No,64.55044095487372,68.88349720822984
+Brooklyn,Private room in house,Private room,3,1.0,Yes,Yes,64.5116788830148,67.74546831426974
+Brooklyn,Private room in house,Private room,4,1.0,Yes,No,46.43818629838419,47.93998844810828
+Brooklyn,Private room in house,Private room,4,1.0,Yes,Yes,75.1291340367701,82.40220056639447
+Brooklyn,Private room in house,Private room,4,2.0,Yes,No,209.5851983731504,209.5851983731504
+Brooklyn,Private room in house,Private room,4,2.0,Yes,Yes,95.47758960101012,120.15937566732882
+Brooklyn,Private room in house,Private room,5,1.0,Yes,Yes,97.79487008331104,158.3448870172024
+Brooklyn,Private room in house,Private room,6,4.0,Yes,Yes,115.61336295643348,115.61336295643348
+Brooklyn,Private room in house,Private room,7,1.0,Yes,Yes,305.8602964876208,305.8602964876208
+Brooklyn,Private room in house,Private room,8,3.0,Yes,Yes,396.79180120523256,396.79180120523256
+Brooklyn,Private room in house,Private room,16,5.0,Yes,Yes,396.5673436778274,396.5673436778274
+Brooklyn,Private room in house,Private room,16,8.0,Yes,Yes,643.6915614607661,643.6915614607661
+Brooklyn,Private room in loft,Private room,1,1.0,No,No,37.18556381839774,37.18556381839774
+Brooklyn,Private room in loft,Private room,1,1.0,Yes,No,52.706512303027935,61.611014577877455
+Brooklyn,Private room in loft,Private room,1,1.0,Yes,Yes,50.62563194351399,60.42289770969795
+Brooklyn,Private room in loft,Private room,1,2.0,Yes,Yes,68.14034247016626,68.14034247016626
+Brooklyn,Private room in loft,Private room,2,1.0,Yes,No,76.06149559655546,98.36452818275735
+Brooklyn,Private room in loft,Private room,2,1.0,Yes,Yes,73.16997025610986,94.22075376679838
+Brooklyn,Private room in loft,Private room,2,2.0,Yes,Yes,81.98396036842792,88.20860396249465
+Brooklyn,Private room in loft,Private room,3,1.0,Yes,Yes,80.64937380375528,110.60680468109292
+Brooklyn,Private room in loft,Private room,3,2.0,Yes,Yes,165.70837969762914,165.70837969762914
+Brooklyn,Private room in loft,Private room,4,1.0,Yes,Yes,55.73303455688558,67.2299105070246
+Brooklyn,Private room in loft,Private room,4,2.0,Yes,Yes,254.1392615993401,254.1392615993401
+Brooklyn,Private room in serviced apartment,Private room,2,1.0,Yes,Yes,125.50762193832132,136.98966096162306
+Brooklyn,Private room in serviced apartment,Private room,15,2.0,Yes,Yes,325.9971505485372,334.69524003340746
+Brooklyn,Private room in tiny house,Private room,6,1.0,Yes,Yes,91.53003076156426,91.53003076156426
+Brooklyn,Private room in townhouse,Private room,1,1.0,Yes,No,35.95363289318222,39.58243342982122
+Brooklyn,Private room in townhouse,Private room,1,1.0,Yes,Yes,40.68252596867386,61.53801276577932
+Brooklyn,Private room in townhouse,Private room,1,3.0,Yes,Yes,32.50777960926583,32.50777960926583
+Brooklyn,Private room in townhouse,Private room,2,1.0,Yes,No,37.3974615532979,53.62309228295995
+Brooklyn,Private room in townhouse,Private room,2,1.0,Yes,Yes,58.43274767816485,74.44614893077602
+Brooklyn,Private room in townhouse,Private room,2,2.0,Yes,Yes,63.5542762331055,63.5542762331055
+Brooklyn,Private room in townhouse,Private room,3,1.0,Yes,No,98.00818847153548,98.00818847153548
+Brooklyn,Private room in townhouse,Private room,3,1.0,Yes,Yes,98.06394580726328,99.87018221607158
+Brooklyn,Private room in townhouse,Private room,4,1.0,Yes,No,58.87024262308533,58.87024262308533
+Brooklyn,Private room in townhouse,Private room,4,1.0,Yes,Yes,88.77297283934827,93.17412760586387
+Brooklyn,Private room in townhouse,Private room,4,2.0,Yes,Yes,130.55327415826864,140.176542694772
+Brooklyn,Private room in townhouse,Private room,5,1.0,Yes,Yes,36.182013795914855,36.182013795914855
+Brooklyn,Private room in townhouse,Private room,6,1.0,Yes,Yes,31.64297030007812,31.64297030007812
+Brooklyn,Private room in townhouse,Private room,6,3.0,Yes,No,303.5784602824338,303.5784602824338
+Brooklyn,Private room in townhouse,Private room,16,4.0,Yes,Yes,1145.5191048717084,1145.5191048717084
+Brooklyn,Room in aparthotel,Private room,2,1.0,Yes,Yes,70.90456083712175,70.90456083712175
+Brooklyn,Room in boutique hotel,Hotel room,2,1.0,Yes,Yes,88.93373020758509,177.9116677749569
+Brooklyn,Room in boutique hotel,Hotel room,4,1.0,Yes,Yes,329.2456110082009,329.2456110082009
+Brooklyn,Room in boutique hotel,Private room,2,1.0,Yes,Yes,147.85856708072745,156.47352306231517
+Brooklyn,Room in boutique hotel,Private room,4,1.0,Yes,Yes,284.062604750593,319.45916274558726
+Brooklyn,Room in boutique hotel,Private room,6,2.0,Yes,Yes,610.6395915759822,610.6997826077875
+Brooklyn,Room in boutique hotel,Private room,8,3.0,Yes,Yes,145.0592331924269,145.0592331924269
+Brooklyn,Room in hotel,Private room,2,1.0,Yes,Yes,159.67694409896006,186.5305254587327
+Brooklyn,Shared room in apartment,Shared room,1,1.0,Yes,No,25.87248906391573,27.70676665827739
+Brooklyn,Shared room in apartment,Shared room,1,1.0,Yes,Yes,24.67565663230475,32.92712959857481
+Brooklyn,Shared room in apartment,Shared room,2,1.0,Yes,No,27.997283956920448,27.997283956920448
+Brooklyn,Shared room in apartment,Shared room,2,1.0,Yes,Yes,32.77444951132218,60.62711985375213
+Brooklyn,Shared room in apartment,Shared room,3,1.0,Yes,Yes,28.83933050430355,28.885835713359672
+Brooklyn,Shared room in apartment,Shared room,4,1.0,Yes,Yes,33.15281465040502,56.06235159691154
+Brooklyn,Shared room in apartment,Shared room,5,1.0,Yes,Yes,237.4741038480259,237.4741038480259
+Brooklyn,Shared room in apartment,Shared room,6,1.0,Yes,Yes,32.10498827864205,32.10498827864205
+Brooklyn,Shared room in condominium,Shared room,3,1.0,Yes,Yes,52.32817704630973,52.32817704630973
+Brooklyn,Shared room in guest suite,Shared room,1,1.0,No,No,74.23885234363668,74.23885234363668
+Brooklyn,Shared room in hostel,Shared room,1,1.0,No,No,40.28247955075198,40.28247955075198
+Brooklyn,Shared room in house,Shared room,1,1.0,Yes,No,29.556331130677457,29.556331130677457
+Brooklyn,Shared room in house,Shared room,1,1.0,Yes,Yes,29.646840510636064,29.646840510636064
+Brooklyn,Shared room in house,Shared room,2,1.0,Yes,Yes,35.101830787268945,37.26990561562195
+Brooklyn,Shared room in house,Shared room,3,1.0,Yes,Yes,29.178708428650936,30.045960197773503
+Brooklyn,Shared room in loft,Shared room,1,1.0,Yes,Yes,35.01739486173424,38.518486127763055
+Brooklyn,Shared room in townhouse,Shared room,1,1.0,Yes,No,20.174201181807454,20.174201181807454
+Brooklyn,Shared room in townhouse,Shared room,2,1.0,Yes,No,58.85825375183571,58.85825375183571
+Brooklyn,Shared room in townhouse,Shared room,2,1.0,Yes,Yes,58.85825375183571,58.85825375183571
+Brooklyn,Tiny house,Entire place,2,2.0,Yes,Yes,113.98488096564186,113.98488096564186
+Brooklyn,Tiny house,Entire place,3,1.0,Yes,Yes,140.2734473559486,140.2734473559486
+Brooklyn,Tiny house,Entire place,4,2.0,Yes,Yes,129.22068498661707,129.22068498661707
+Manhattan,Camper/RV,Entire place,2,1.0,No,No,76.79421807163656,76.79421807163656
+Manhattan,Camper/RV,Entire place,3,1.0,No,No,73.0257214125127,73.0257214125127
+Manhattan,Camper/RV,Entire place,3,1.0,Yes,No,71.21234553245336,72.1410983321644
+Manhattan,Entire apartment,Entire place,1,1.0,Yes,No,101.0668164455184,107.27915922006476
+Manhattan,Entire apartment,Entire place,1,1.0,Yes,Yes,96.87129586874391,123.32254361384128
+Manhattan,Entire apartment,Entire place,1,2.0,Yes,Yes,125.23081150020764,125.23081150020764
+Manhattan,Entire apartment,Entire place,2,1.0,No,No,98.94575295918006,98.94575295918006
+Manhattan,Entire apartment,Entire place,2,1.0,No,Yes,176.43371175200892,181.54351732842696
+Manhattan,Entire apartment,Entire place,2,1.0,Yes,No,99.43746631702312,163.16794320733243
+Manhattan,Entire apartment,Entire place,2,1.0,Yes,Yes,120.7109755047028,174.69749072783512
+Manhattan,Entire apartment,Entire place,2,2.0,Yes,No,80.17877633049271,80.17877633049271
+Manhattan,Entire apartment,Entire place,2,2.0,Yes,Yes,155.29245124699477,196.1395449955548
+Manhattan,Entire apartment,Entire place,2,5.0,Yes,Yes,80.41185348740123,80.41185348740123
+Manhattan,Entire apartment,Entire place,2,21.0,Yes,Yes,199.7101053890956,199.7101053890956
+Manhattan,Entire apartment,Entire place,3,1.0,No,Yes,99.74279769799476,99.74279769799476
+Manhattan,Entire apartment,Entire place,3,1.0,Yes,No,136.03582155168692,170.8644477301667
+Manhattan,Entire apartment,Entire place,3,1.0,Yes,Yes,122.36219153652334,159.9415902609658
+Manhattan,Entire apartment,Entire place,3,2.0,No,No,84.05769191152929,84.05769191152929
+Manhattan,Entire apartment,Entire place,3,2.0,No,Yes,95.29975793791424,95.29975793791424
+Manhattan,Entire apartment,Entire place,3,2.0,Yes,No,68.9719930341995,68.9719930341995
+Manhattan,Entire apartment,Entire place,3,2.0,Yes,Yes,123.415814766105,171.973885733817
+Manhattan,Entire apartment,Entire place,4,1.0,No,Yes,206.57687836580263,206.57687836580263
+Manhattan,Entire apartment,Entire place,4,1.0,Yes,No,97.7123742305637,198.0040421348941
+Manhattan,Entire apartment,Entire place,4,1.0,Yes,Yes,126.53408148853076,173.246022289711
+Manhattan,Entire apartment,Entire place,4,2.0,No,No,359.6372226335,359.6372226335
+Manhattan,Entire apartment,Entire place,4,2.0,Yes,No,116.42656488846944,144.59947009740898
+Manhattan,Entire apartment,Entire place,4,2.0,Yes,Yes,162.99719321996943,251.3769712963635
+Manhattan,Entire apartment,Entire place,4,3.0,Yes,Yes,185.29735616782745,341.1455008768362
+Manhattan,Entire apartment,Entire place,4,4.0,Yes,Yes,298.3860105004675,298.3860105004675
+Manhattan,Entire apartment,Entire place,5,1.0,Yes,No,98.51513646083173,98.51513646083173
+Manhattan,Entire apartment,Entire place,5,1.0,Yes,Yes,120.733846047097,170.64111212256904
+Manhattan,Entire apartment,Entire place,5,2.0,Yes,No,152.46515066597397,231.0364053761235
+Manhattan,Entire apartment,Entire place,5,2.0,Yes,Yes,150.12680197787466,215.53398830596905
+Manhattan,Entire apartment,Entire place,5,3.0,Yes,Yes,195.20770073437225,317.60246446789256
+Manhattan,Entire apartment,Entire place,5,6.0,Yes,Yes,57.456770353402696,57.456770353402696
+Manhattan,Entire apartment,Entire place,6,1.0,Yes,Yes,109.28957601588918,167.12203107733427
+Manhattan,Entire apartment,Entire place,6,2.0,No,Yes,96.33670415494252,447.6804122043771
+Manhattan,Entire apartment,Entire place,6,2.0,Yes,No,127.9943518697786,254.47121289342908
+Manhattan,Entire apartment,Entire place,6,2.0,Yes,Yes,189.1976379207609,277.079717213109
+Manhattan,Entire apartment,Entire place,6,3.0,No,No,194.2275306578728,194.2275306578728
+Manhattan,Entire apartment,Entire place,6,3.0,Yes,Yes,194.44756081590293,409.2360070212728
+Manhattan,Entire apartment,Entire place,7,1.0,Yes,Yes,242.56122489279025,249.09199783624123
+Manhattan,Entire apartment,Entire place,7,2.0,Yes,No,220.84232935053532,220.84232935053532
+Manhattan,Entire apartment,Entire place,7,2.0,Yes,Yes,229.9745024188468,288.9362787006178
+Manhattan,Entire apartment,Entire place,7,3.0,Yes,Yes,242.83587899243344,310.6696444896917
+Manhattan,Entire apartment,Entire place,7,5.0,Yes,Yes,1507.8340127904576,1507.8340127904576
+Manhattan,Entire apartment,Entire place,8,1.0,Yes,Yes,125.51849084889804,128.14585542335055
+Manhattan,Entire apartment,Entire place,8,2.0,Yes,No,227.2578690917757,227.2578690917757
+Manhattan,Entire apartment,Entire place,8,2.0,Yes,Yes,279.0648852291749,280.7455300025018
+Manhattan,Entire apartment,Entire place,8,3.0,Yes,Yes,243.91687344074612,350.01756224193747
+Manhattan,Entire apartment,Entire place,8,4.0,Yes,Yes,296.9920425686911,575.6851001595443
+Manhattan,Entire apartment,Entire place,9,1.0,Yes,Yes,247.00568620005615,247.00568620005615
+Manhattan,Entire apartment,Entire place,9,2.0,Yes,Yes,332.5745534316598,333.8396125932958
+Manhattan,Entire apartment,Entire place,9,4.0,Yes,Yes,237.11560759057497,250.2583018297892
+Manhattan,Entire apartment,Entire place,10,1.0,Yes,Yes,132.97686098859148,132.97686098859148
+Manhattan,Entire apartment,Entire place,10,2.0,Yes,Yes,387.6384141925615,387.6384141925615
+Manhattan,Entire apartment,Entire place,10,3.0,Yes,Yes,499.3510037270085,599.5505051197902
+Manhattan,Entire apartment,Entire place,10,4.0,Yes,Yes,609.2588929709269,835.4338605562723
+Manhattan,Entire apartment,Entire place,10,5.0,Yes,Yes,1637.539863691733,2145.7197001530303
+Manhattan,Entire apartment,Entire place,11,4.0,Yes,Yes,315.0847542809014,315.0847542809014
+Manhattan,Entire apartment,Entire place,11,5.0,Yes,Yes,524.686230495598,539.5241538329724
+Manhattan,Entire apartment,Entire place,12,3.0,Yes,Yes,605.6808921690996,743.1633741720832
+Manhattan,Entire apartment,Entire place,12,4.0,Yes,Yes,336.8139438934568,343.17322153561133
+Manhattan,Entire apartment,Entire place,12,6.0,Yes,Yes,1153.8359695730248,1153.8359695730248
+Manhattan,Entire apartment,Entire place,13,5.0,Yes,Yes,559.9024272011319,559.9024272011319
+Manhattan,Entire apartment,Entire place,14,4.0,Yes,Yes,371.8848353453993,379.1837553403526
+Manhattan,Entire apartment,Entire place,14,5.0,Yes,Yes,637.1548121116472,637.1548121116472
+Manhattan,Entire apartment,Entire place,15,2.0,Yes,Yes,271.734390814604,271.734390814604
+Manhattan,Entire apartment,Entire place,15,5.0,Yes,Yes,1095.7903900027686,1095.7903900027686
+Manhattan,Entire apartment,Entire place,16,1.0,Yes,Yes,482.3912156062498,482.3912156062498
+Manhattan,Entire apartment,Entire place,16,4.0,Yes,Yes,238.6755043295922,238.6755043295922
+Manhattan,Entire condominium,Entire place,1,1.0,Yes,Yes,66.93887669182693,66.93887669182693
+Manhattan,Entire condominium,Entire place,2,1.0,No,Yes,139.76330568818102,139.76330568818102
+Manhattan,Entire condominium,Entire place,2,1.0,Yes,Yes,148.38801696555691,198.28950343466
+Manhattan,Entire condominium,Entire place,2,2.0,Yes,Yes,158.63129887553916,190.97322162900724
+Manhattan,Entire condominium,Entire place,3,1.0,Yes,Yes,150.79053976165352,231.91966834315127
+Manhattan,Entire condominium,Entire place,3,2.0,Yes,Yes,137.76135600360655,148.63544235771465
+Manhattan,Entire condominium,Entire place,4,1.0,Yes,No,153.54404478863788,153.54404478863788
+Manhattan,Entire condominium,Entire place,4,1.0,Yes,Yes,192.55986571571495,292.999073478752
+Manhattan,Entire condominium,Entire place,4,2.0,Yes,Yes,197.92557856868575,509.17358208606737
+Manhattan,Entire condominium,Entire place,5,1.0,Yes,Yes,238.82964401746895,456.9194892805531
+Manhattan,Entire condominium,Entire place,5,2.0,Yes,Yes,293.0935581591621,357.36605726842794
+Manhattan,Entire condominium,Entire place,5,3.0,Yes,Yes,204.32178363482103,226.32789800862568
+Manhattan,Entire condominium,Entire place,6,1.0,Yes,Yes,109.6305238093306,109.6305238093306
+Manhattan,Entire condominium,Entire place,6,2.0,Yes,Yes,354.8780302259156,355.4433871868138
+Manhattan,Entire condominium,Entire place,6,3.0,Yes,Yes,395.48956956807336,507.6667567933761
+Manhattan,Entire condominium,Entire place,6,4.0,Yes,Yes,1942.6885164323205,1942.6885164323205
+Manhattan,Entire condominium,Entire place,7,2.0,Yes,Yes,2474.936537896273,2474.936537896273
+Manhattan,Entire condominium,Entire place,7,3.0,Yes,Yes,487.6584808067097,1245.8061997649995
+Manhattan,Entire condominium,Entire place,8,2.0,Yes,Yes,1973.264784564836,2269.819910105429
+Manhattan,Entire condominium,Entire place,8,3.0,Yes,Yes,407.3866396952316,443.79289930437767
+Manhattan,Entire condominium,Entire place,9,2.0,Yes,Yes,2577.2424014040207,2730.7958769423244
+Manhattan,Entire condominium,Entire place,10,4.0,Yes,Yes,301.0559382697304,301.0559382697304
+Manhattan,Entire condominium,Entire place,11,4.0,Yes,Yes,772.1876478984334,772.1876478984334
+Manhattan,Entire guest suite,Entire place,1,1.0,Yes,Yes,130.73615493898433,130.73615493898433
+Manhattan,Entire guest suite,Entire place,2,1.0,Yes,Yes,124.67143022413975,124.67143022413975
+Manhattan,Entire guest suite,Entire place,4,1.0,Yes,Yes,131.6915835904652,131.6915835904652
+Manhattan,Entire guest suite,Entire place,4,2.0,Yes,Yes,191.08801946277296,191.08801946277296
+Manhattan,Entire guest suite,Entire place,5,1.0,Yes,Yes,98.53246188413176,98.53246188413176
+Manhattan,Entire guest suite,Entire place,5,2.0,Yes,Yes,131.4921094814117,131.4921094814117
+Manhattan,Entire guest suite,Entire place,6,3.0,Yes,Yes,109.30779941004153,109.30779941004153
+Manhattan,Entire house,Entire place,2,1.0,Yes,Yes,152.78061402311243,156.74962822760898
+Manhattan,Entire house,Entire place,3,1.0,Yes,Yes,182.80969153338768,182.80969153338768
+Manhattan,Entire house,Entire place,4,1.0,Yes,Yes,98.70056196917156,126.10430135443409
+Manhattan,Entire house,Entire place,4,2.0,Yes,Yes,72.78916772544284,75.34908042741438
+Manhattan,Entire house,Entire place,5,1.0,Yes,Yes,81.53379419695973,81.53379419695973
+Manhattan,Entire house,Entire place,5,2.0,Yes,Yes,319.83553406199024,319.83553406199024
+Manhattan,Entire house,Entire place,5,3.0,Yes,Yes,366.7479944484008,425.8581764287766
+Manhattan,Entire house,Entire place,6,2.0,Yes,Yes,238.20375717219449,259.77380252063114
+Manhattan,Entire house,Entire place,6,3.0,Yes,Yes,439.5465662134526,565.1817731868376
+Manhattan,Entire house,Entire place,7,3.0,Yes,Yes,145.31732474677224,291.9834492865922
+Manhattan,Entire house,Entire place,8,2.0,Yes,No,163.59857199985285,163.59857199985285
+Manhattan,Entire house,Entire place,8,2.0,Yes,Yes,248.201975340068,248.201975340068
+Manhattan,Entire house,Entire place,8,3.0,Yes,Yes,181.38997040553693,181.38997040553693
+Manhattan,Entire house,Entire place,8,4.0,Yes,Yes,214.13081380805195,225.52287023615477
+Manhattan,Entire house,Entire place,10,3.0,Yes,Yes,245.2569120268979,245.2569120268979
+Manhattan,Entire house,Entire place,11,2.0,Yes,Yes,118.37370170210738,118.37370170210738
+Manhattan,Entire house,Entire place,11,5.0,Yes,Yes,282.1049379200425,282.1049379200425
+Manhattan,Entire house,Entire place,12,3.0,Yes,Yes,838.3907548822683,838.3907548822683
+Manhattan,Entire house,Entire place,12,5.0,Yes,Yes,1014.758263829015,1014.758263829015
+Manhattan,Entire house,Entire place,12,6.0,Yes,Yes,888.8478395623054,888.8478395623054
+Manhattan,Entire house,Entire place,16,2.0,Yes,Yes,1154.8638452371515,1154.8638452371515
+Manhattan,Entire loft,Entire place,2,1.0,Yes,No,260.6154799571653,260.6154799571653
+Manhattan,Entire loft,Entire place,2,1.0,Yes,Yes,195.81129334527176,275.0008749526312
+Manhattan,Entire loft,Entire place,2,3.0,Yes,Yes,594.7942230288274,594.7942230288274
+Manhattan,Entire loft,Entire place,3,1.0,Yes,Yes,171.77770203255426,230.147479037491
+Manhattan,Entire loft,Entire place,3,2.0,Yes,No,186.0519369280503,186.0519369280503
+Manhattan,Entire loft,Entire place,3,2.0,Yes,Yes,388.2291147490077,572.1718421503855
+Manhattan,Entire loft,Entire place,4,1.0,Yes,Yes,161.16736259919094,255.9009809508672
+Manhattan,Entire loft,Entire place,4,2.0,Yes,Yes,355.4200129968211,498.7431769000206
+Manhattan,Entire loft,Entire place,4,3.0,Yes,Yes,527.8888609506058,828.9206520107659
+Manhattan,Entire loft,Entire place,5,1.0,Yes,Yes,187.3368902584954,210.5129162480516
+Manhattan,Entire loft,Entire place,5,2.0,Yes,Yes,379.7232607974853,468.73796102182007
+Manhattan,Entire loft,Entire place,5,3.0,Yes,Yes,311.3422976186218,311.3422976186218
+Manhattan,Entire loft,Entire place,6,1.0,Yes,Yes,616.1744734727944,748.4926518642608
+Manhattan,Entire loft,Entire place,6,2.0,Yes,Yes,761.2614826797102,890.75814097517
+Manhattan,Entire loft,Entire place,6,3.0,Yes,No,501.0537427462102,501.0537427462102
+Manhattan,Entire loft,Entire place,6,3.0,Yes,Yes,583.0339388528485,608.2752218929652
+Manhattan,Entire loft,Entire place,6,4.0,Yes,Yes,799.8206818147763,799.8206818147763
+Manhattan,Entire loft,Entire place,7,2.0,Yes,Yes,200.9486611212796,200.9486611212796
+Manhattan,Entire loft,Entire place,7,3.0,Yes,Yes,450.42004900528445,450.42004900528445
+Manhattan,Entire loft,Entire place,7,5.0,Yes,Yes,239.13075020200256,239.13075020200256
+Manhattan,Entire loft,Entire place,8,2.0,Yes,Yes,314.4970544601822,314.4970544601822
+Manhattan,Entire loft,Entire place,8,4.0,Yes,Yes,647.5412870602925,651.7080252097369
+Manhattan,Entire loft,Entire place,10,3.0,Yes,Yes,622.536726072796,622.536726072796
+Manhattan,Entire loft,Entire place,12,4.0,Yes,Yes,702.7007632120211,702.7007632120211
+Manhattan,Entire loft,Entire place,15,6.0,Yes,Yes,1338.6680725150943,1677.6813875732291
+Manhattan,Entire loft,Entire place,16,4.0,Yes,Yes,1136.2843844660752,1136.2843844660752
+Manhattan,Entire place,Entire place,2,1.0,Yes,Yes,73.63927029630503,81.81577684132814
+Manhattan,Entire place,Entire place,3,1.0,Yes,Yes,94.47871740206212,103.18913663711164
+Manhattan,Entire place,Entire place,4,1.0,Yes,Yes,79.15386838766422,79.15386838766422
+Manhattan,Entire place,Entire place,5,2.0,Yes,Yes,227.0889190011165,227.0889190011165
+Manhattan,Entire place,Entire place,6,2.0,Yes,Yes,91.83274103714096,91.83274103714096
+Manhattan,Entire resort,Entire place,2,1.0,Yes,Yes,639.5622895553568,639.5622895553568
+Manhattan,Entire resort,Entire place,4,1.0,Yes,Yes,808.93320619976,808.93320619976
+Manhattan,Entire serviced apartment,Entire place,2,1.0,Yes,No,136.5879237449696,136.5879237449696
+Manhattan,Entire serviced apartment,Entire place,2,1.0,Yes,Yes,137.60758283816995,161.91775256479193
+Manhattan,Entire serviced apartment,Entire place,3,1.0,Yes,Yes,168.54873882493595,174.77108140978874
+Manhattan,Entire serviced apartment,Entire place,4,1.0,Yes,Yes,362.9865183864679,1073.9167715218705
+Manhattan,Entire serviced apartment,Entire place,4,2.0,Yes,Yes,171.50516582124993,171.60995422713302
+Manhattan,Entire serviced apartment,Entire place,5,1.0,Yes,Yes,229.12537730772536,229.12537730772536
+Manhattan,Entire serviced apartment,Entire place,5,2.0,Yes,Yes,290.9609752800603,351.2545736614163
+Manhattan,Entire serviced apartment,Entire place,6,1.0,Yes,Yes,395.1365593420606,395.1365593420606
+Manhattan,Entire serviced apartment,Entire place,6,2.0,Yes,Yes,417.6142615087894,1183.909566374331
+Manhattan,Entire townhouse,Entire place,2,1.0,Yes,Yes,106.39266332624246,150.37529902521004
+Manhattan,Entire townhouse,Entire place,2,2.0,Yes,Yes,101.29285763435928,101.29285763435928
+Manhattan,Entire townhouse,Entire place,3,1.0,Yes,No,182.74195721384768,182.74195721384768
+Manhattan,Entire townhouse,Entire place,3,1.0,Yes,Yes,135.8506211686071,135.8506211686071
+Manhattan,Entire townhouse,Entire place,4,1.0,Yes,Yes,148.6272105438145,150.41816783050243
+Manhattan,Entire townhouse,Entire place,4,2.0,Yes,Yes,238.17725126941812,309.4497679230081
+Manhattan,Entire townhouse,Entire place,4,3.0,Yes,Yes,298.96106538521167,298.96106538521167
+Manhattan,Entire townhouse,Entire place,5,1.0,Yes,Yes,85.52610971306565,87.43389312038806
+Manhattan,Entire townhouse,Entire place,5,3.0,Yes,Yes,465.9504154316701,465.9504154316701
+Manhattan,Entire townhouse,Entire place,5,4.0,Yes,Yes,346.6774086968736,346.6774086968736
+Manhattan,Entire townhouse,Entire place,6,2.0,Yes,Yes,226.4685589466571,473.2532134471189
+Manhattan,Entire townhouse,Entire place,6,3.0,Yes,Yes,691.1926434740603,1016.0972538735348
+Manhattan,Entire townhouse,Entire place,6,4.0,Yes,Yes,522.5660165978616,605.5269660741969
+Manhattan,Entire townhouse,Entire place,7,2.0,Yes,Yes,152.32012368752524,152.32012368752524
+Manhattan,Entire townhouse,Entire place,7,3.0,Yes,Yes,541.6017482110747,991.5897403704286
+Manhattan,Entire townhouse,Entire place,7,4.0,Yes,Yes,2694.236695691926,3310.3727138897148
+Manhattan,Entire townhouse,Entire place,8,3.0,Yes,Yes,207.5717895390032,207.5717895390032
+Manhattan,Entire townhouse,Entire place,8,4.0,Yes,Yes,686.203421332516,717.477929115469
+Manhattan,Entire townhouse,Entire place,9,2.0,Yes,Yes,219.78734551061208,219.78734551061208
+Manhattan,Entire townhouse,Entire place,9,4.0,Yes,Yes,531.6016959324644,531.6016959324644
+Manhattan,Entire townhouse,Entire place,10,4.0,Yes,Yes,997.9201370882964,1548.1023084714789
+Manhattan,Entire townhouse,Entire place,10,5.0,Yes,Yes,556.5112064826096,1031.1812142502183
+Manhattan,Entire townhouse,Entire place,10,6.0,Yes,Yes,2592.075032859689,2592.075032859689
+Manhattan,Entire townhouse,Entire place,11,4.0,Yes,Yes,340.39621503518345,340.39621503518345
+Manhattan,Entire townhouse,Entire place,12,3.0,Yes,Yes,285.55823147412235,285.55823147412235
+Manhattan,Entire townhouse,Entire place,12,4.0,Yes,Yes,465.06341166824944,465.06341166824944
+Manhattan,Entire townhouse,Entire place,13,4.0,Yes,Yes,518.8459311200282,518.8459311200282
+Manhattan,Entire townhouse,Entire place,13,5.0,Yes,Yes,507.4316054775635,561.0414024164614
+Manhattan,Entire townhouse,Entire place,13,6.0,Yes,Yes,1615.673787025215,1615.673787025215
+Manhattan,Entire townhouse,Entire place,16,4.0,Yes,Yes,794.712290965887,794.712290965887
+Manhattan,Entire townhouse,Entire place,16,6.0,Yes,Yes,1240.384150450191,1240.384150450191
+Manhattan,Entire townhouse,Entire place,16,7.0,Yes,Yes,333.5074696094404,333.5074696094404
+Manhattan,Private room,Private room,2,1.0,No,Yes,101.31496566863744,101.31496566863744
+Manhattan,Private room,Private room,3,1.0,Yes,No,98.62689792657444,98.62689792657444
+Manhattan,Private room in apartment,Private room,1,1.0,No,No,77.23154387477649,81.05607638010932
+Manhattan,Private room in apartment,Private room,1,1.0,Yes,No,52.79435952480422,65.7337909461888
+Manhattan,Private room in apartment,Private room,1,1.0,Yes,Yes,51.97843878450151,69.06948658656556
+Manhattan,Private room in apartment,Private room,1,2.0,Yes,No,59.40679047120409,71.48308062582436
+Manhattan,Private room in apartment,Private room,1,2.0,Yes,Yes,84.64878510206918,101.56287415833604
+Manhattan,Private room in apartment,Private room,1,3.0,Yes,Yes,40.139727619171474,40.139727619171474
+Manhattan,Private room in apartment,Private room,1,4.0,Yes,Yes,46.70203710325403,46.70203710325403
+Manhattan,Private room in apartment,Private room,2,1.0,No,No,50.09970330189205,149.22623607239728
+Manhattan,Private room in apartment,Private room,2,1.0,No,Yes,60.43961770857186,89.75890949562223
+Manhattan,Private room in apartment,Private room,2,1.0,Yes,No,51.19201092418723,76.9938407508632
+Manhattan,Private room in apartment,Private room,2,1.0,Yes,Yes,60.52912378151767,86.06173442786834
+Manhattan,Private room in apartment,Private room,2,2.0,No,Yes,61.93699772395944,61.93699772395944
+Manhattan,Private room in apartment,Private room,2,2.0,Yes,No,69.22231224640353,69.22231224640353
+Manhattan,Private room in apartment,Private room,2,2.0,Yes,Yes,63.38338871434074,74.00253208377154
+Manhattan,Private room in apartment,Private room,2,3.0,Yes,Yes,176.2810967750199,300.13637325966306
+Manhattan,Private room in apartment,Private room,2,4.0,Yes,Yes,155.91765378472897,155.91765378472897
+Manhattan,Private room in apartment,Private room,3,1.0,No,Yes,33.36924776296834,36.98526296817368
+Manhattan,Private room in apartment,Private room,3,1.0,Yes,No,55.94706884612457,69.23846800263048
+Manhattan,Private room in apartment,Private room,3,1.0,Yes,Yes,72.84971997926266,95.75200855096288
+Manhattan,Private room in apartment,Private room,3,2.0,Yes,Yes,105.37974847663892,118.43347876121852
+Manhattan,Private room in apartment,Private room,4,1.0,No,No,55.15456919475085,55.15456919475085
+Manhattan,Private room in apartment,Private room,4,1.0,No,Yes,33.8684096313998,34.939608676666964
+Manhattan,Private room in apartment,Private room,4,1.0,Yes,No,61.30731153121282,74.14428115702168
+Manhattan,Private room in apartment,Private room,4,1.0,Yes,Yes,75.0169989719287,114.83178568859428
+Manhattan,Private room in apartment,Private room,4,2.0,Yes,Yes,106.09290706671062,107.4973178526666
+Manhattan,Private room in apartment,Private room,5,1.0,No,Yes,64.35921088638885,66.69196461602989
+Manhattan,Private room in apartment,Private room,5,1.0,Yes,Yes,131.5009902155839,188.8713346954279
+Manhattan,Private room in apartment,Private room,5,2.0,Yes,Yes,108.68146983423966,150.19764456243777
+Manhattan,Private room in apartment,Private room,6,1.0,No,No,62.19599183562679,62.19599183562679
+Manhattan,Private room in apartment,Private room,6,1.0,No,Yes,63.75887049430871,63.75887049430871
+Manhattan,Private room in apartment,Private room,6,1.0,Yes,Yes,375.3958251320457,527.5736450556207
+Manhattan,Private room in apartment,Private room,6,2.0,Yes,Yes,572.7444680388372,765.8816095905258
+Manhattan,Private room in apartment,Private room,6,3.0,Yes,Yes,314.6985037219834,449.4775254593404
+Manhattan,Private room in apartment,Private room,6,4.0,Yes,Yes,695.1505490068301,695.1505490068301
+Manhattan,Private room in apartment,Private room,7,1.0,No,Yes,38.59029024694728,38.59029024694728
+Manhattan,Private room in apartment,Private room,7,1.0,Yes,Yes,66.43314045221888,68.32021275404925
+Manhattan,Private room in apartment,Private room,8,1.0,No,Yes,149.26960930586216,149.26960930586216
+Manhattan,Private room in apartment,Private room,8,3.0,Yes,Yes,647.3117859146264,896.8813190191408
+Manhattan,Private room in apartment,Private room,9,2.0,Yes,Yes,199.5950261927606,199.5950261927606
+Manhattan,Private room in apartment,Private room,10,2.0,Yes,Yes,173.87543753281426,173.87543753281426
+Manhattan,Private room in bed and breakfast,Private room,2,1.0,Yes,Yes,254.36741049608133,254.36741049608133
+Manhattan,Private room in bed and breakfast,Private room,3,1.0,Yes,Yes,117.66448103894751,143.37995462292332
+Manhattan,Private room in bed and breakfast,Private room,4,1.0,Yes,Yes,169.97440982180896,169.97440982180896
+Manhattan,Private room in condominium,Private room,1,1.0,No,Yes,67.65807878919414,67.65807878919414
+Manhattan,Private room in condominium,Private room,1,1.0,Yes,No,43.3211535013913,45.404077407614345
+Manhattan,Private room in condominium,Private room,1,1.0,Yes,Yes,44.821746318120255,61.97126968465207
+Manhattan,Private room in condominium,Private room,1,2.0,Yes,Yes,143.53117146721564,143.53117146721564
+Manhattan,Private room in condominium,Private room,2,1.0,Yes,Yes,70.06242191343517,108.71711726270472
+Manhattan,Private room in condominium,Private room,3,1.0,Yes,Yes,48.95724686795137,48.95724686795137
+Manhattan,Private room in condominium,Private room,7,1.0,Yes,Yes,249.4154058268036,324.4155903396954
+Manhattan,Private room in guest suite,Private room,2,1.0,Yes,Yes,101.58997689121044,128.6391834534291
+Manhattan,Private room in guesthouse,Private room,1,1.0,Yes,Yes,59.86510652100353,59.86510652100353
+Manhattan,Private room in guesthouse,Private room,2,1.0,Yes,No,129.67830009861964,129.67830009861964
+Manhattan,Private room in guesthouse,Private room,2,1.0,Yes,Yes,68.91211898404013,72.13855923760917
+Manhattan,Private room in guesthouse,Private room,2,2.0,Yes,Yes,153.55183045159785,153.55183045159785
+Manhattan,Private room in hostel,Private room,1,1.0,Yes,Yes,52.9240966193226,52.9240966193226
+Manhattan,Private room in hostel,Private room,2,1.0,Yes,Yes,54.80644729163814,61.85415752923101
+Manhattan,Private room in house,Private room,1,1.0,Yes,No,87.95929473095758,100.46646338772648
+Manhattan,Private room in house,Private room,1,1.0,Yes,Yes,50.06852049807576,59.7192327865986
+Manhattan,Private room in house,Private room,2,1.0,Yes,No,46.278950049309046,53.350465100682335
+Manhattan,Private room in house,Private room,2,1.0,Yes,Yes,72.39648080748506,76.49581000215443
+Manhattan,Private room in house,Private room,2,3.0,Yes,Yes,454.5098675342336,454.5098675342336
+Manhattan,Private room in house,Private room,3,1.0,Yes,No,74.91652198949481,86.83055828813403
+Manhattan,Private room in house,Private room,3,1.0,Yes,Yes,68.86122818274681,82.1596373540798
+Manhattan,Private room in house,Private room,12,3.0,Yes,Yes,455.0604130258967,455.0604130258967
+Manhattan,Private room in loft,Private room,1,1.0,Yes,Yes,70.36832689111138,85.21900523803457
+Manhattan,Private room in loft,Private room,2,1.0,Yes,No,102.10307440873169,102.10307440873169
+Manhattan,Private room in loft,Private room,2,1.0,Yes,Yes,110.13303148278877,112.15882804300112
+Manhattan,Private room in loft,Private room,3,1.0,Yes,Yes,115.28369628724694,123.3735542861173
+Manhattan,Private room in loft,Private room,4,2.0,Yes,Yes,204.60510678756464,204.60510678756464
+Manhattan,Private room in resort,Private room,4,1.0,Yes,Yes,800.7298300562123,800.7298300562123
+Manhattan,Private room in resort,Private room,6,2.0,Yes,Yes,987.7165749735065,987.7165749735065
+Manhattan,Private room in serviced apartment,Private room,2,1.0,Yes,Yes,57.67719925223709,79.23592129061103
+Manhattan,Private room in tent,Private room,2,1.0,Yes,No,513.6554478626389,513.6554478626389
+Manhattan,Private room in townhouse,Private room,1,1.0,Yes,No,27.431683279145524,27.431683279145524
+Manhattan,Private room in townhouse,Private room,1,1.0,Yes,Yes,76.42907963697586,99.79461225247589
+Manhattan,Private room in townhouse,Private room,2,1.0,Yes,No,57.65099799897376,75.96120649367299
+Manhattan,Private room in townhouse,Private room,2,1.0,Yes,Yes,152.74162224799773,195.57584221974383
+Manhattan,Private room in townhouse,Private room,2,2.0,Yes,Yes,209.4040614068096,242.1338647787905
+Manhattan,Private room in townhouse,Private room,3,1.0,Yes,No,99.46494874456192,114.94447988560437
+Manhattan,Private room in townhouse,Private room,3,1.0,Yes,Yes,232.43990642229747,248.0653324665749
+Manhattan,Private room in townhouse,Private room,4,2.0,Yes,Yes,179.41272052657266,229.8003488291208
+Manhattan,Private room in townhouse,Private room,5,3.0,Yes,Yes,281.748009266518,281.748009266518
+Manhattan,Private room in townhouse,Private room,6,1.0,Yes,Yes,87.79398408164269,87.79398408164269
+Manhattan,Room in aparthotel,Entire place,2,1.0,Yes,Yes,109.13545341748323,118.14060251416063
+Manhattan,Room in aparthotel,Hotel room,2,1.0,No,No,160.12935274952514,160.12935274952514
+Manhattan,Room in aparthotel,Hotel room,4,1.0,Yes,Yes,299.2937078151011,299.2937078151011
+Manhattan,Room in aparthotel,Private room,2,1.0,Yes,Yes,85.99422077285753,85.99422077285753
+Manhattan,Room in aparthotel,Private room,5,1.0,Yes,Yes,533.7268781795754,533.7268781795754
+Manhattan,Room in boutique hotel,Hotel room,1,1.0,Yes,Yes,87.89213189274325,87.89213189274325
+Manhattan,Room in boutique hotel,Hotel room,2,1.0,No,No,145.28578156659412,145.28578156659412
+Manhattan,Room in boutique hotel,Hotel room,2,1.0,Yes,No,126.97829445172044,126.97829445172044
+Manhattan,Room in boutique hotel,Hotel room,2,1.0,Yes,Yes,105.1692225953678,132.72820182435314
+Manhattan,Room in boutique hotel,Hotel room,3,1.0,Yes,Yes,116.09600606822453,116.09600606822453
+Manhattan,Room in boutique hotel,Hotel room,4,1.0,Yes,Yes,127.50610667163797,127.64090099122365
+Manhattan,Room in boutique hotel,Private room,1,1.0,Yes,Yes,50.18477652680371,50.18477652680371
+Manhattan,Room in boutique hotel,Private room,2,1.0,Yes,No,175.77862801444934,506.4598845986965
+Manhattan,Room in boutique hotel,Private room,2,1.0,Yes,Yes,100.2476643790549,130.07150459735655
+Manhattan,Room in boutique hotel,Private room,3,1.0,Yes,Yes,166.0996981151363,194.25868723139348
+Manhattan,Room in boutique hotel,Private room,4,1.0,Yes,Yes,106.70189879930558,166.88200579128772
+Manhattan,Room in boutique hotel,Private room,4,2.0,Yes,Yes,207.13868106509528,242.67910423274435
+Manhattan,Room in boutique hotel,Private room,5,1.0,Yes,Yes,156.98141650989152,156.98141650989152
+Manhattan,Room in boutique hotel,Private room,6,1.0,Yes,Yes,141.37751111772985,189.51079071202983
+Manhattan,Room in boutique hotel,Private room,6,2.0,Yes,Yes,348.1406086485396,372.19663362604666
+Manhattan,Room in boutique hotel,Private room,8,2.0,Yes,Yes,424.326955591737,424.326955591737
+Manhattan,Room in boutique hotel,Private room,14,7.0,Yes,Yes,1981.412080693567,2481.1515181573463
+Manhattan,Room in hotel,Hotel room,1,1.0,Yes,Yes,128.0394596836846,128.0394596836846
+Manhattan,Room in hotel,Hotel room,2,1.0,No,No,150.17597844329362,150.17597844329362
+Manhattan,Room in hotel,Hotel room,2,1.0,Yes,Yes,152.29648274358004,277.4362543504011
+Manhattan,Room in hotel,Hotel room,3,1.0,Yes,Yes,126.3328976225547,204.5481417036181
+Manhattan,Room in hotel,Hotel room,4,1.0,No,No,160.81711931903828,160.81711931903828
+Manhattan,Room in hotel,Hotel room,4,1.0,Yes,Yes,139.25754070488892,243.77001474971837
+Manhattan,Room in hotel,Hotel room,6,1.0,No,No,333.0604248225598,333.0604248225598
+Manhattan,Room in hotel,Hotel room,6,1.0,Yes,Yes,231.4621669128048,231.4621669128048
+Manhattan,Room in hotel,Hotel room,6,2.0,Yes,Yes,168.5388681954287,168.5388681954287
+Manhattan,Room in hotel,Private room,2,1.0,No,No,102.4536057365606,102.4536057365606
+Manhattan,Room in hotel,Private room,2,1.0,Yes,No,146.5691342275362,259.5467614519588
+Manhattan,Room in hotel,Private room,2,1.0,Yes,Yes,93.59490077417692,96.93514047405225
+Manhattan,Room in hotel,Private room,3,1.0,Yes,Yes,249.246448154082,249.246448154082
+Manhattan,Room in hotel,Private room,4,1.0,Yes,No,95.06609109354454,95.06609109354454
+Manhattan,Room in hotel,Private room,4,1.0,Yes,Yes,83.1883489371925,87.80051362731578
+Manhattan,Room in hotel,Private room,5,1.0,Yes,No,196.67179205047583,196.67179205047583
+Manhattan,Room in hotel,Private room,5,2.0,Yes,Yes,1607.6706318811289,1607.6706318811289
+Manhattan,Room in serviced apartment,Hotel room,2,1.0,No,No,162.97071647585906,162.97071647585906
+Manhattan,Room in serviced apartment,Hotel room,3,1.0,Yes,Yes,111.2557275632945,111.3797573249545
+Manhattan,Room in serviced apartment,Hotel room,4,1.0,No,No,219.6230852366674,239.5328417108258
+Manhattan,Room in serviced apartment,Hotel room,4,1.0,Yes,Yes,111.12979590308522,235.2721596620271
+Manhattan,Room in serviced apartment,Hotel room,4,2.0,Yes,Yes,357.08306983468714,357.08306983468714
+Manhattan,Room in serviced apartment,Hotel room,6,1.0,No,No,271.70410428241365,271.70410428241365
+Manhattan,Room in serviced apartment,Hotel room,6,2.0,No,No,376.6774553079987,401.5522945564
+Manhattan,Room in serviced apartment,Hotel room,6,2.0,Yes,Yes,342.48982649746426,374.1973788118686
+Manhattan,Room in serviced apartment,Hotel room,6,3.0,Yes,Yes,459.537966834146,459.537966834146
+Manhattan,Room in serviced apartment,Hotel room,8,4.0,Yes,Yes,594.4279900374556,936.175140660466
+Manhattan,Shared room in apartment,Shared room,1,1.0,Yes,No,36.917208071235095,40.36182209916892
+Manhattan,Shared room in apartment,Shared room,1,1.0,Yes,Yes,36.73164022679679,44.23928199983368
+Manhattan,Shared room in apartment,Shared room,2,1.0,Yes,No,34.62834236221799,34.62834236221799
+Manhattan,Shared room in apartment,Shared room,2,1.0,Yes,Yes,55.62975350884068,84.95853740991835
+Manhattan,Shared room in apartment,Shared room,3,1.0,Yes,No,33.89651647013206,33.89651647013206
+Manhattan,Shared room in apartment,Shared room,3,1.0,Yes,Yes,76.22794525024398,81.13851989017235
+Manhattan,Shared room in apartment,Shared room,4,1.0,Yes,Yes,226.37303229729645,278.20218108044685
+Manhattan,Shared room in bed and breakfast,Shared room,2,1.0,Yes,Yes,52.8458224304454,52.8458224304454
+Manhattan,Shared room in condominium,Shared room,1,1.0,Yes,Yes,70.83739040983468,311.700206415262
+Manhattan,Shared room in condominium,Shared room,13,1.0,Yes,Yes,592.7260633164951,592.7260633164951
+Manhattan,Shared room in guest suite,Shared room,1,1.0,Yes,No,159.84401443609886,159.84401443609886
+Manhattan,Shared room in hostel,Shared room,1,1.0,Yes,Yes,44.30672473930916,44.31860085480901
+Manhattan,Shared room in house,Shared room,12,1.0,Yes,Yes,675.2526806640878,675.2526806640878
+Manhattan,Shared room in island,Shared room,16,1.0,Yes,No,1231.0536544374868,1231.0536544374868
+Manhattan,Shared room in serviced apartment,Shared room,3,1.0,Yes,Yes,67.23092424779263,67.23092424779263
+Manhattan,Shared room in townhouse,Shared room,2,1.0,Yes,Yes,231.02349049677085,231.02349049677085
+Queens,Boat,Entire place,4,1.0,Yes,Yes,127.0889386906138,127.0889386906138
+Queens,Camper/RV,Entire place,2,1.0,Yes,Yes,78.70037265955537,79.7305673692997
+Queens,Camper/RV,Entire place,7,2.0,Yes,Yes,115.66224112683382,115.66224112683382
+Queens,Entire apartment,Entire place,1,1.0,Yes,No,69.5560809795852,84.9394391769782
+Queens,Entire apartment,Entire place,1,1.0,Yes,Yes,114.13037079855148,153.8549949471405
+Queens,Entire apartment,Entire place,2,1.0,No,No,106.48783058951612,106.48783058951612
+Queens,Entire apartment,Entire place,2,1.0,No,Yes,69.75653800002348,118.12991574850288
+Queens,Entire apartment,Entire place,2,1.0,Yes,No,84.90176943070573,99.9395159705406
+Queens,Entire apartment,Entire place,2,1.0,Yes,Yes,90.5942559260179,105.63671354463872
+Queens,Entire apartment,Entire place,2,2.0,Yes,Yes,79.59793884531751,79.59793884531751
+Queens,Entire apartment,Entire place,3,1.0,Yes,No,86.57754822725117,111.85858464499196
+Queens,Entire apartment,Entire place,3,1.0,Yes,Yes,99.20534816756194,116.54061741297028
+Queens,Entire apartment,Entire place,3,2.0,Yes,No,41.80232891911411,41.80232891911411
+Queens,Entire apartment,Entire place,3,2.0,Yes,Yes,85.94292786050481,120.80375959166172
+Queens,Entire apartment,Entire place,4,1.0,No,Yes,71.12985639123069,71.12985639123069
+Queens,Entire apartment,Entire place,4,1.0,Yes,No,76.31238809329021,82.59769538059665
+Queens,Entire apartment,Entire place,4,1.0,Yes,Yes,97.8270561810175,117.44430906389192
+Queens,Entire apartment,Entire place,4,2.0,Yes,No,135.54485152994712,153.81839929585198
+Queens,Entire apartment,Entire place,4,2.0,Yes,Yes,128.43072311082753,142.16855718121047
+Queens,Entire apartment,Entire place,4,3.0,Yes,Yes,146.28410629402768,146.28410629402768
+Queens,Entire apartment,Entire place,5,1.0,Yes,Yes,109.83239175172328,139.34375725455754
+Queens,Entire apartment,Entire place,5,2.0,Yes,No,150.49974216284386,150.49974216284386
+Queens,Entire apartment,Entire place,5,2.0,Yes,Yes,123.12911264870851,145.91029385061344
+Queens,Entire apartment,Entire place,5,3.0,Yes,Yes,122.71157990208444,124.86815786584552
+Queens,Entire apartment,Entire place,6,1.0,Yes,Yes,94.40035331360104,116.66471823706269
+Queens,Entire apartment,Entire place,6,2.0,Yes,No,96.43064626254356,102.34826862947094
+Queens,Entire apartment,Entire place,6,2.0,Yes,Yes,144.5932879138535,160.99816689246933
+Queens,Entire apartment,Entire place,6,3.0,Yes,No,189.2182604123158,189.2182604123158
+Queens,Entire apartment,Entire place,6,3.0,Yes,Yes,180.07580299287935,213.68780526660785
+Queens,Entire apartment,Entire place,7,2.0,Yes,Yes,116.65476900261784,137.8057363641856
+Queens,Entire apartment,Entire place,7,3.0,Yes,Yes,194.91823094176257,204.2328318113744
+Queens,Entire apartment,Entire place,7,4.0,Yes,No,197.3501708375848,197.3501708375848
+Queens,Entire apartment,Entire place,7,4.0,Yes,Yes,197.7093525001248,197.7093525001248
+Queens,Entire apartment,Entire place,8,2.0,Yes,Yes,82.44878374435054,163.94293356977508
+Queens,Entire apartment,Entire place,8,3.0,Yes,Yes,141.11470810102827,206.4139289746685
+Queens,Entire apartment,Entire place,8,4.0,Yes,Yes,442.9266749351359,442.9266749351359
+Queens,Entire apartment,Entire place,9,2.0,Yes,Yes,64.74104597532094,64.74104597532094
+Queens,Entire apartment,Entire place,9,3.0,Yes,Yes,204.73272117713708,213.21300939881817
+Queens,Entire apartment,Entire place,9,4.0,Yes,Yes,200.1670475812469,200.1670475812469
+Queens,Entire apartment,Entire place,10,2.0,Yes,Yes,115.23091933757075,115.23091933757075
+Queens,Entire apartment,Entire place,10,3.0,Yes,Yes,245.5093985795511,245.76701258498952
+Queens,Entire apartment,Entire place,10,4.0,Yes,Yes,119.92277355369164,122.68113835279809
+Queens,Entire apartment,Entire place,10,5.0,Yes,No,306.41340310438926,306.41340310438926
+Queens,Entire apartment,Entire place,11,3.0,Yes,Yes,136.95766392340556,136.95766392340556
+Queens,Entire apartment,Entire place,12,3.0,Yes,Yes,239.7899827188073,239.7899827188073
+Queens,Entire apartment,Entire place,12,4.0,Yes,Yes,362.3989772596616,362.3989772596616
+Queens,Entire apartment,Entire place,13,4.0,Yes,Yes,375.94753426688754,375.94753426688754
+Queens,Entire apartment,Entire place,16,2.0,Yes,Yes,138.7873538164832,138.7873538164832
+Queens,Entire bungalow,Entire place,2,2.0,Yes,Yes,119.87973669251603,119.87973669251603
+Queens,Entire bungalow,Entire place,4,1.0,Yes,Yes,125.6828168577461,139.31355350050953
+Queens,Entire bungalow,Entire place,6,2.0,Yes,Yes,160.89292958956528,160.89292958956528
+Queens,Entire bungalow,Entire place,6,3.0,Yes,Yes,190.93712753252476,190.93712753252476
+Queens,Entire bungalow,Entire place,8,2.0,Yes,Yes,99.73640947539953,99.73640947539953
+Queens,Entire bungalow,Entire place,8,3.0,Yes,Yes,317.8174965065471,317.8174965065471
+Queens,Entire condominium,Entire place,2,1.0,Yes,Yes,129.42977176139328,180.04164718130855
+Queens,Entire condominium,Entire place,3,1.0,Yes,Yes,108.18966909866288,129.57828856005705
+Queens,Entire condominium,Entire place,4,1.0,Yes,Yes,98.31480580267552,102.90792603150628
+Queens,Entire condominium,Entire place,4,2.0,Yes,Yes,175.25550046889765,208.62177197883827
+Queens,Entire condominium,Entire place,5,1.0,Yes,Yes,111.32707755953427,117.84043879024983
+Queens,Entire condominium,Entire place,6,1.0,Yes,Yes,226.46403756433028,226.46403756433028
+Queens,Entire condominium,Entire place,7,2.0,Yes,Yes,218.03432726435912,368.4861319073082
+Queens,Entire condominium,Entire place,8,3.0,Yes,Yes,120.78996176573249,120.78996176573249
+Queens,Entire cottage,Entire place,5,2.0,Yes,Yes,240.4623933914133,240.4623933914133
+Queens,Entire guest suite,Entire place,2,1.0,Yes,No,61.0788726301519,61.0788726301519
+Queens,Entire guest suite,Entire place,2,1.0,Yes,Yes,77.07399753199849,99.54481680245551
+Queens,Entire guest suite,Entire place,2,2.0,Yes,Yes,62.05592750207253,62.05592750207253
+Queens,Entire guest suite,Entire place,3,1.0,Yes,No,63.21265876600821,63.21265876600821
+Queens,Entire guest suite,Entire place,3,1.0,Yes,Yes,80.59527277267009,83.7820705163714
+Queens,Entire guest suite,Entire place,3,2.0,Yes,Yes,193.26722360035373,193.26722360035373
+Queens,Entire guest suite,Entire place,4,1.0,Yes,No,108.90288738235355,119.57184517097592
+Queens,Entire guest suite,Entire place,4,1.0,Yes,Yes,94.68754383872653,107.05708738922836
+Queens,Entire guest suite,Entire place,4,2.0,Yes,Yes,131.24816192679265,158.25148124034612
+Queens,Entire guest suite,Entire place,5,2.0,Yes,Yes,208.5153320309067,208.5153320309067
+Queens,Entire guest suite,Entire place,6,2.0,No,Yes,273.34667469292214,273.34667469292214
+Queens,Entire guest suite,Entire place,6,2.0,Yes,No,92.28814603451016,92.28814603451016
+Queens,Entire guest suite,Entire place,6,2.0,Yes,Yes,122.14656658250742,122.14656658250742
+Queens,Entire guest suite,Entire place,6,3.0,Yes,Yes,193.1369889232417,194.50205960233643
+Queens,Entire guesthouse,Entire place,2,1.0,Yes,Yes,73.62881123570583,79.45918817907543
+Queens,Entire guesthouse,Entire place,2,2.0,Yes,Yes,80.7870521811224,80.7870521811224
+Queens,Entire guesthouse,Entire place,3,1.0,Yes,Yes,76.93341483426266,76.93341483426266
+Queens,Entire guesthouse,Entire place,4,1.0,Yes,Yes,101.52795364603736,104.29395303574128
+Queens,Entire guesthouse,Entire place,5,3.0,Yes,No,160.1993689733119,160.1993689733119
+Queens,Entire guesthouse,Entire place,6,3.0,Yes,Yes,184.82035859532303,190.72255019372065
+Queens,Entire house,Entire place,2,1.0,Yes,No,80.77538900527014,89.92139610974472
+Queens,Entire house,Entire place,2,1.0,Yes,Yes,92.03313359426704,99.27455893860495
+Queens,Entire house,Entire place,3,1.0,Yes,Yes,83.77846497195779,85.51128045750842
+Queens,Entire house,Entire place,3,2.0,Yes,Yes,55.53792663618266,55.53792663618266
+Queens,Entire house,Entire place,4,1.0,Yes,No,82.80772671777052,82.80772671777052
+Queens,Entire house,Entire place,4,1.0,Yes,Yes,90.94005077145928,107.85497755126072
+Queens,Entire house,Entire place,4,2.0,Yes,No,90.19732450945662,91.51531039203124
+Queens,Entire house,Entire place,4,2.0,Yes,Yes,143.0947405720332,163.9887240630058
+Queens,Entire house,Entire place,4,3.0,Yes,Yes,160.74021420751322,259.8009183304408
+Queens,Entire house,Entire place,5,1.0,Yes,No,95.3091482533446,95.3091482533446
+Queens,Entire house,Entire place,5,1.0,Yes,Yes,82.95645843900837,135.3666850630261
+Queens,Entire house,Entire place,5,2.0,Yes,Yes,114.11555744575472,174.42510582391907
+Queens,Entire house,Entire place,5,3.0,Yes,Yes,99.87148295320198,103.27845499919468
+Queens,Entire house,Entire place,6,1.0,Yes,No,117.37598576373377,117.37598576373377
+Queens,Entire house,Entire place,6,1.0,Yes,Yes,118.42364967142436,137.63141181326657
+Queens,Entire house,Entire place,6,2.0,Yes,No,316.44171391332185,316.44171391332185
+Queens,Entire house,Entire place,6,2.0,Yes,Yes,116.7430194711042,122.68201814528304
+Queens,Entire house,Entire place,6,3.0,Yes,Yes,173.86243275971586,232.28087367807203
+Queens,Entire house,Entire place,6,4.0,Yes,Yes,214.1793434738465,214.1793434738465
+Queens,Entire house,Entire place,7,2.0,Yes,Yes,117.2018056202076,148.2576793507405
+Queens,Entire house,Entire place,7,3.0,Yes,Yes,153.34251279511824,185.9474072199405
+Queens,Entire house,Entire place,7,4.0,Yes,Yes,153.60645048291775,153.60645048291775
+Queens,Entire house,Entire place,8,2.0,Yes,Yes,184.36406518754185,347.97675362783207
+Queens,Entire house,Entire place,8,3.0,Yes,No,110.4437140688142,110.4437140688142
+Queens,Entire house,Entire place,8,3.0,Yes,Yes,211.1303048515705,236.18476242516024
+Queens,Entire house,Entire place,8,4.0,Yes,Yes,275.7914749514632,278.8209448702373
+Queens,Entire house,Entire place,8,5.0,Yes,Yes,417.5321838489506,417.5321838489506
+Queens,Entire house,Entire place,9,2.0,Yes,Yes,67.25487019412287,67.25487019412287
+Queens,Entire house,Entire place,9,3.0,Yes,Yes,300.60333932871094,318.7934784183772
+Queens,Entire house,Entire place,9,4.0,Yes,Yes,1220.231044832437,1220.231044832437
+Queens,Entire house,Entire place,10,3.0,Yes,Yes,153.33297311819834,315.6930481513808
+Queens,Entire house,Entire place,10,4.0,No,Yes,377.7627470157329,377.7627470157329
+Queens,Entire house,Entire place,10,4.0,Yes,No,704.408416520057,704.408416520057
+Queens,Entire house,Entire place,10,4.0,Yes,Yes,309.5089687553755,413.7748497965713
+Queens,Entire house,Entire place,11,2.0,Yes,Yes,171.21980059582438,171.21980059582438
+Queens,Entire house,Entire place,11,3.0,Yes,Yes,241.4432560171929,252.3487932649541
+Queens,Entire house,Entire place,11,5.0,Yes,Yes,621.962015053352,621.962015053352
+Queens,Entire house,Entire place,12,3.0,Yes,Yes,285.9118548568771,285.9118548568771
+Queens,Entire house,Entire place,12,4.0,Yes,Yes,232.57951129456976,232.57951129456976
+Queens,Entire house,Entire place,12,6.0,Yes,Yes,378.3035411401045,378.3035411401045
+Queens,Entire house,Entire place,13,3.0,Yes,Yes,374.5446223580761,374.5446223580761
+Queens,Entire house,Entire place,13,4.0,Yes,Yes,375.37346783152793,375.8350075804467
+Queens,Entire house,Entire place,14,3.0,Yes,No,369.1318598981781,369.1318598981781
+Queens,Entire house,Entire place,14,6.0,Yes,Yes,407.44051113437007,407.44051113437007
+Queens,Entire house,Entire place,16,4.0,Yes,Yes,452.6582374919989,452.6582374919989
+Queens,Entire house,Entire place,16,5.0,Yes,No,527.332635592692,527.332635592692
+Queens,Entire house,Entire place,16,5.0,Yes,Yes,261.426015792299,261.426015792299
+Queens,Entire house,Entire place,16,6.0,Yes,Yes,711.6089100089948,756.1351588141191
+Queens,Entire house,Entire place,16,8.0,Yes,Yes,509.76333967044445,509.76333967044445
+Queens,Entire loft,Entire place,2,1.0,Yes,Yes,166.36047493870709,166.36047493870709
+Queens,Entire loft,Entire place,3,1.0,Yes,Yes,193.4542748298955,193.4542748298955
+Queens,Entire loft,Entire place,3,2.0,Yes,Yes,101.76643532019652,101.76643532019652
+Queens,Entire loft,Entire place,4,1.0,Yes,Yes,161.67285968519678,161.67285968519678
+Queens,Entire loft,Entire place,4,2.0,Yes,Yes,390.38396961894034,390.38396961894034
+Queens,Entire loft,Entire place,5,2.0,Yes,Yes,242.3039023233658,242.48015380885624
+Queens,Entire loft,Entire place,6,1.0,Yes,Yes,72.05245984422523,72.05245984422523
+Queens,Entire loft,Entire place,12,2.0,Yes,Yes,365.87143323106056,365.87143323106056
+Queens,Entire townhouse,Entire place,2,1.0,Yes,Yes,86.08572996035393,86.08572996035393
+Queens,Entire townhouse,Entire place,3,1.0,Yes,No,111.86288250282726,118.21521528935745
+Queens,Entire townhouse,Entire place,4,1.0,Yes,No,30.681234394216798,30.681234394216798
+Queens,Entire townhouse,Entire place,4,1.0,Yes,Yes,92.10011999329694,115.12850644409596
+Queens,Entire townhouse,Entire place,4,2.0,Yes,No,91.9423862500756,119.50207822292651
+Queens,Entire townhouse,Entire place,4,2.0,Yes,Yes,121.2934144218535,131.95185591522463
+Queens,Entire townhouse,Entire place,4,3.0,Yes,Yes,125.64014764781354,135.83946756140455
+Queens,Entire townhouse,Entire place,5,3.0,Yes,No,143.5537950561584,143.5537950561584
+Queens,Entire townhouse,Entire place,5,3.0,Yes,Yes,200.5591795937301,200.5591795937301
+Queens,Entire townhouse,Entire place,6,1.0,Yes,Yes,152.5932669912189,152.5932669912189
+Queens,Entire townhouse,Entire place,6,2.0,Yes,Yes,183.6148363591086,308.86699408140566
+Queens,Entire townhouse,Entire place,7,3.0,Yes,Yes,198.54558710880568,221.7397193567793
+Queens,Entire townhouse,Entire place,8,3.0,Yes,Yes,142.06243727984997,142.06243727984997
+Queens,Entire townhouse,Entire place,8,4.0,Yes,Yes,105.62275790638417,105.62275790638417
+Queens,Entire townhouse,Entire place,10,2.0,Yes,Yes,272.8842273735921,272.8842273735921
+Queens,Entire townhouse,Entire place,12,3.0,Yes,Yes,336.5948363962616,336.5948363962616
+Queens,Entire townhouse,Entire place,12,4.0,Yes,Yes,342.8309783793539,342.8309783793539
+Queens,Entire townhouse,Entire place,16,5.0,Yes,Yes,343.8090880501542,369.53664287231175
+Queens,Entire villa,Entire place,2,1.0,Yes,Yes,68.02099887175315,68.02099887175315
+Queens,Entire villa,Entire place,4,1.0,Yes,Yes,86.45684623693668,86.45684623693668
+Queens,Entire villa,Entire place,16,5.0,Yes,Yes,2295.949958615476,2295.949958615476
+Queens,Houseboat,Entire place,2,1.0,Yes,Yes,240.98764905388828,240.98764905388828
+Queens,Houseboat,Entire place,12,4.0,Yes,Yes,1484.9960208256462,1484.9960208256462
+Queens,Private room,Private room,1,1.0,Yes,Yes,39.14305971704383,39.14305971704383
+Queens,Private room in apartment,Private room,1,1.0,No,No,61.61282021436507,74.90112318442712
+Queens,Private room in apartment,Private room,1,1.0,No,Yes,31.493854821001957,31.493854821001957
+Queens,Private room in apartment,Private room,1,1.0,Yes,No,39.95467238685179,49.58908962682877
+Queens,Private room in apartment,Private room,1,1.0,Yes,Yes,42.074569300679386,49.981025279936496
+Queens,Private room in apartment,Private room,1,2.0,Yes,Yes,35.28533298066201,37.47079036095956
+Queens,Private room in apartment,Private room,2,1.0,No,No,50.15388928025598,53.732826742319006
+Queens,Private room in apartment,Private room,2,1.0,No,Yes,44.28008665415008,56.507175313820206
+Queens,Private room in apartment,Private room,2,1.0,Yes,No,46.88265527360028,62.2835338325809
+Queens,Private room in apartment,Private room,2,1.0,Yes,Yes,50.04556473571104,62.95006034062894
+Queens,Private room in apartment,Private room,2,2.0,Yes,Yes,127.407617506472,168.5773991651291
+Queens,Private room in apartment,Private room,3,1.0,Yes,No,45.02798145952893,50.42614218479597
+Queens,Private room in apartment,Private room,3,1.0,Yes,Yes,55.81366438021821,78.42426927667583
+Queens,Private room in apartment,Private room,4,1.0,Yes,Yes,54.97305521447242,77.75201113635107
+Queens,Private room in apartment,Private room,5,1.0,Yes,No,34.331436370674844,34.331436370674844
+Queens,Private room in apartment,Private room,5,2.0,Yes,Yes,265.8551393687038,265.8551393687038
+Queens,Private room in apartment,Private room,6,1.0,Yes,Yes,48.378446532687526,48.378446532687526
+Queens,Private room in apartment,Private room,6,2.0,Yes,Yes,94.80082225743558,94.80082225743558
+Queens,Private room in apartment,Private room,7,1.0,Yes,Yes,76.53139845010269,76.53139845010269
+Queens,Private room in apartment,Private room,7,2.0,Yes,Yes,137.8315768718116,158.09976282400015
+Queens,Private room in apartment,Private room,7,3.0,Yes,Yes,195.80551910483547,195.80551910483547
+Queens,Private room in apartment,Private room,8,3.0,Yes,Yes,321.9439123719476,321.9439123719476
+Queens,Private room in apartment,Private room,10,2.0,Yes,Yes,101.6577303410791,101.6577303410791
+Queens,Private room in apartment,Private room,12,4.0,Yes,Yes,53.908929765120746,53.908929765120746
+Queens,Private room in barn,Private room,4,1.0,Yes,Yes,88.43714562205616,88.43714562205616
+Queens,Private room in bed and breakfast,Private room,2,1.0,Yes,Yes,40.87711538111177,40.87711538111177
+Queens,Private room in bungalow,Private room,2,1.0,Yes,Yes,38.7282542707587,38.7282542707587
+Queens,Private room in camper/rv,Private room,8,2.0,Yes,Yes,126.72073287198523,126.72073287198523
+Queens,Private room in condominium,Private room,1,1.0,Yes,Yes,54.85168754381476,54.85168754381476
+Queens,Private room in condominium,Private room,2,1.0,No,Yes,49.86846142925897,49.86846142925897
+Queens,Private room in condominium,Private room,2,1.0,Yes,Yes,54.82383703708349,66.59149749952337
+Queens,Private room in condominium,Private room,3,1.0,Yes,Yes,61.28566939920715,68.95031120163662
+Queens,Private room in condominium,Private room,3,2.0,Yes,Yes,45.09116725771432,45.09116725771432
+Queens,Private room in condominium,Private room,8,1.0,Yes,Yes,42.47321582720101,42.47321582720101
+Queens,Private room in condominium,Private room,10,4.0,Yes,Yes,39.60779240660891,43.16328955017915
+Queens,Private room in earth house,Private room,1,1.0,Yes,Yes,58.94550461335501,58.94550461335501
+Queens,Private room in guest suite,Private room,1,1.0,Yes,Yes,46.36920798864591,46.36920798864591
+Queens,Private room in guest suite,Private room,2,1.0,Yes,Yes,54.709719092879794,74.47551377631453
+Queens,Private room in guest suite,Private room,3,1.0,No,No,267.81473255719186,267.81473255719186
+Queens,Private room in guest suite,Private room,3,1.0,Yes,Yes,58.46844370985325,67.24652680824319
+Queens,Private room in guest suite,Private room,4,2.0,Yes,Yes,132.9839789020388,132.9839789020388
+Queens,Private room in guesthouse,Private room,2,1.0,Yes,Yes,76.99916884487203,89.60691000600204
+Queens,Private room in guesthouse,Private room,2,2.0,Yes,Yes,28.43196568228192,28.43196568228192
+Queens,Private room in guesthouse,Private room,5,2.0,Yes,Yes,104.70060523935162,104.70060523935162
+Queens,Private room in guesthouse,Private room,8,4.0,Yes,Yes,185.57163176002575,185.57163176002575
+Queens,Private room in hostel,Private room,2,1.0,Yes,Yes,68.27960892347464,68.27960892347464
+Queens,Private room in house,Private room,1,1.0,No,Yes,53.58840239357983,53.58840239357983
+Queens,Private room in house,Private room,1,1.0,Yes,No,38.499554897944016,44.848767927449046
+Queens,Private room in house,Private room,1,1.0,Yes,Yes,44.88717240545616,50.13248595080309
+Queens,Private room in house,Private room,2,1.0,No,No,49.83459812290437,49.83459812290437
+Queens,Private room in house,Private room,2,1.0,Yes,No,44.86953181826209,60.441173731515605
+Queens,Private room in house,Private room,2,1.0,Yes,Yes,49.944564885187525,60.4648089916881
+Queens,Private room in house,Private room,3,1.0,Yes,No,67.4438247311016,67.4438247311016
+Queens,Private room in house,Private room,3,1.0,Yes,Yes,55.86991853099174,73.00956364212571
+Queens,Private room in house,Private room,3,2.0,Yes,Yes,74.70593821673782,77.01119765998347
+Queens,Private room in house,Private room,3,3.0,Yes,Yes,79.73868678538085,79.73868678538085
+Queens,Private room in house,Private room,4,1.0,Yes,No,49.58003127786807,49.58003127786807
+Queens,Private room in house,Private room,4,1.0,Yes,Yes,75.50841316074577,77.36971796814811
+Queens,Private room in house,Private room,4,2.0,Yes,No,95.18590695979378,105.55988067124936
+Queens,Private room in house,Private room,4,2.0,Yes,Yes,64.14133647229968,64.14133647229968
+Queens,Private room in house,Private room,5,1.0,Yes,Yes,66.60041453340315,66.60041453340315
+Queens,Private room in house,Private room,5,2.0,Yes,Yes,124.22702430791097,157.5867988425474
+Queens,Private room in house,Private room,6,2.0,Yes,No,63.23308899168583,63.23308899168583
+Queens,Private room in house,Private room,6,2.0,Yes,Yes,94.920165998069,94.920165998069
+Queens,Private room in house,Private room,6,3.0,Yes,Yes,86.93284073326353,86.93284073326353
+Queens,Private room in house,Private room,7,2.0,Yes,Yes,109.8503331784324,109.8503331784324
+Queens,Private room in house,Private room,8,3.0,Yes,Yes,189.36897271126048,189.36897271126048
+Queens,Private room in house,Private room,8,4.0,Yes,Yes,449.90066045968905,449.90066045968905
+Queens,Private room in house,Private room,12,3.0,Yes,Yes,355.5153183428,355.5153183428
+Queens,Private room in loft,Private room,1,1.0,Yes,Yes,194.1998306289116,194.1998306289116
+Queens,Private room in serviced apartment,Private room,1,1.0,Yes,Yes,27.20212912515961,27.20212912515961
+Queens,Private room in serviced apartment,Private room,2,1.0,Yes,No,39.44084679613892,39.44084679613892
+Queens,Private room in tiny house,Private room,2,1.0,Yes,Yes,51.03735289428145,51.700336572921984
+Queens,Private room in townhouse,Private room,1,1.0,No,Yes,29.95414045756632,29.95414045756632
+Queens,Private room in townhouse,Private room,1,1.0,Yes,No,26.23412860571735,29.011357212555797
+Queens,Private room in townhouse,Private room,1,1.0,Yes,Yes,29.025524836463745,33.63424570923229
+Queens,Private room in townhouse,Private room,2,1.0,Yes,No,28.46753262277557,32.27423619330494
+Queens,Private room in townhouse,Private room,2,1.0,Yes,Yes,46.1950319471863,54.7585630573731
+Queens,Private room in townhouse,Private room,3,1.0,Yes,Yes,31.775443933035547,52.22623031164856
+Queens,Private room in townhouse,Private room,4,1.0,Yes,Yes,93.44525189326733,112.64177547234502
+Queens,Private room in townhouse,Private room,11,3.0,Yes,Yes,329.15153678753,342.8379905014218
+Queens,Private room in townhouse,Private room,13,3.0,Yes,Yes,378.8230208084288,378.8230208084288
+Queens,Private room in villa,Private room,2,1.0,Yes,Yes,58.518143982215456,59.67538261187248
+Queens,Private room in villa,Private room,3,1.0,Yes,Yes,64.2875825944809,64.2875825944809
+Queens,Private room in villa,Private room,4,1.0,Yes,Yes,49.62955623227087,49.63216398783903
+Queens,Room in aparthotel,Entire place,2,2.0,Yes,Yes,67.37086349713381,67.38472333293988
+Queens,Room in aparthotel,Private room,2,1.0,Yes,No,65.3398454541107,65.3398454541107
+Queens,Room in boutique hotel,Hotel room,2,1.0,Yes,Yes,108.76250646106304,123.98935743349053
+Queens,Room in boutique hotel,Hotel room,3,1.0,Yes,Yes,112.43467517283612,112.43467517283612
+Queens,Room in boutique hotel,Private room,2,1.0,Yes,No,137.22177147925686,137.22177147925686
+Queens,Room in boutique hotel,Private room,2,1.0,Yes,Yes,123.32992246917593,130.56742521258343
+Queens,Room in boutique hotel,Private room,4,1.0,Yes,Yes,66.76669505072792,66.78168311526815
+Queens,Room in hotel,Hotel room,2,1.0,Yes,Yes,107.49226318563538,107.49226318563538
+Queens,Room in hotel,Private room,2,1.0,Yes,Yes,87.3951225431979,111.113729161154
+Queens,Room in hotel,Private room,4,1.0,Yes,Yes,97.13177194591748,112.8058160793239
+Queens,Shared room in apartment,Shared room,1,1.0,Yes,No,41.820748963929454,56.00869208312649
+Queens,Shared room in apartment,Shared room,1,1.0,Yes,Yes,29.56153662871348,45.73430254585568
+Queens,Shared room in apartment,Shared room,2,1.0,No,Yes,18.464140188575254,18.464140188575254
+Queens,Shared room in apartment,Shared room,2,1.0,Yes,No,43.54548430655502,43.54548430655502
+Queens,Shared room in apartment,Shared room,2,1.0,Yes,Yes,28.617688194850093,68.21623983934161
+Queens,Shared room in hostel,Shared room,1,1.0,No,Yes,20.14498581964405,20.14498581964405
+Queens,Shared room in hostel,Shared room,1,1.0,Yes,Yes,20.185133120136697,34.23967177291874
+Queens,Shared room in hostel,Shared room,2,1.0,Yes,Yes,39.438361827709485,39.438361827709485
+Queens,Shared room in house,Shared room,1,1.0,Yes,No,40.3152310636598,54.214019532992594
+Queens,Shared room in house,Shared room,1,1.0,Yes,Yes,55.44558194178324,55.44558194178324
+Queens,Shared room in house,Shared room,2,1.0,Yes,Yes,85.91246846798292,85.91246846798292
+Queens,Shared room in house,Shared room,3,1.0,Yes,Yes,40.34598835425651,40.34598835425651
+Queens,Shared room in house,Shared room,10,1.0,Yes,Yes,142.03312628901244,142.03312628901244
+Queens,Shared room in loft,Shared room,2,1.0,Yes,Yes,38.4554943748697,38.4554943748697
+Queens,Shared room in serviced apartment,Shared room,3,1.0,Yes,Yes,23.993748193528923,23.993748193528923
+Queens,Tiny house,Entire place,3,1.0,Yes,Yes,66.14600367698547,71.76664387469296
+Staten Island,Entire apartment,Entire place,2,1.0,Yes,No,65.42798269560713,65.42798269560713
+Staten Island,Entire apartment,Entire place,2,1.0,Yes,Yes,84.82477664907549,119.4611042909766
+Staten Island,Entire apartment,Entire place,3,1.0,Yes,No,83.23627270527992,83.23627270527992
+Staten Island,Entire apartment,Entire place,3,1.0,Yes,Yes,98.73461438430104,98.84535468987214
+Staten Island,Entire apartment,Entire place,4,1.0,Yes,Yes,81.87713485318099,92.76812033838866
+Staten Island,Entire apartment,Entire place,4,2.0,Yes,Yes,142.51995598530962,146.08429955583938
+Staten Island,Entire apartment,Entire place,5,1.0,Yes,Yes,88.97779433064022,112.15470040254868
+Staten Island,Entire apartment,Entire place,5,2.0,Yes,Yes,123.7527284861614,125.1169208722422
+Staten Island,Entire apartment,Entire place,5,3.0,Yes,Yes,99.4748850162113,99.4748850162113
+Staten Island,Entire apartment,Entire place,6,1.0,Yes,Yes,99.9462304633158,99.9462304633158
+Staten Island,Entire apartment,Entire place,6,2.0,Yes,Yes,99.69135919447385,100.00102450821102
+Staten Island,Entire apartment,Entire place,6,3.0,Yes,No,114.96507715203188,114.96507715203188
+Staten Island,Entire apartment,Entire place,6,3.0,Yes,Yes,162.88451476456322,169.33635526264462
+Staten Island,Entire apartment,Entire place,8,2.0,Yes,Yes,149.42786425054132,149.42786425054132
+Staten Island,Entire apartment,Entire place,8,3.0,Yes,Yes,141.23357952421526,141.23357952421526
+Staten Island,Entire apartment,Entire place,8,4.0,Yes,Yes,157.2166074235838,157.2166074235838
+Staten Island,Entire apartment,Entire place,10,3.0,Yes,No,157.50298417629128,157.50298417629128
+Staten Island,Entire apartment,Entire place,11,4.0,Yes,Yes,148.06944287429127,148.06944287429127
+Staten Island,Entire bungalow,Entire place,3,1.0,Yes,Yes,124.09547249042166,124.09547249042166
+Staten Island,Entire condominium,Entire place,8,3.0,Yes,Yes,188.97834151342653,188.97834151342653
+Staten Island,Entire floor,Entire place,3,1.0,Yes,Yes,83.73360184459074,83.73360184459074
+Staten Island,Entire guest suite,Entire place,2,1.0,Yes,Yes,98.491259878763,98.491259878763
+Staten Island,Entire guest suite,Entire place,3,1.0,Yes,Yes,124.91586282083176,124.91586282083176
+Staten Island,Entire guesthouse,Entire place,2,1.0,Yes,Yes,109.20776190807156,109.20776190807156
+Staten Island,Entire house,Entire place,2,1.0,Yes,Yes,67.69657613201244,80.40764764699698
+Staten Island,Entire house,Entire place,4,1.0,Yes,Yes,176.20460418754013,176.20460418754013
+Staten Island,Entire house,Entire place,4,2.0,Yes,No,129.15779436524826,129.15779436524826
+Staten Island,Entire house,Entire place,4,2.0,Yes,Yes,159.8302771090616,159.8302771090616
+Staten Island,Entire house,Entire place,4,3.0,Yes,Yes,129.74962410822192,129.74962410822192
+Staten Island,Entire house,Entire place,5,1.0,Yes,Yes,64.39185501066255,64.39185501066255
+Staten Island,Entire house,Entire place,5,3.0,Yes,Yes,180.10912407691384,180.10912407691384
+Staten Island,Entire house,Entire place,6,2.0,Yes,Yes,67.81197282366864,73.62557443419234
+Staten Island,Entire house,Entire place,6,3.0,Yes,Yes,150.75366514960484,161.48547399862076
+Staten Island,Entire house,Entire place,7,4.0,Yes,Yes,244.13964431690025,244.13964431690025
+Staten Island,Entire house,Entire place,8,3.0,Yes,Yes,166.2144655628831,174.08501083932538
+Staten Island,Entire house,Entire place,8,4.0,Yes,Yes,282.016891157169,299.7913453595472
+Staten Island,Entire house,Entire place,10,4.0,Yes,Yes,264.5456901835076,264.5456901835076
+Staten Island,Entire house,Entire place,11,4.0,Yes,Yes,307.53810124614097,307.53810124614097
+Staten Island,Entire house,Entire place,12,4.0,Yes,Yes,434.9203626002385,434.9203626002385
+Staten Island,Entire house,Entire place,12,5.0,Yes,Yes,439.9491729905352,439.9491729905352
+Staten Island,Entire townhouse,Entire place,4,1.0,Yes,Yes,158.82794367028677,158.82794367028677
+Staten Island,Private room in apartment,Private room,1,1.0,Yes,Yes,36.94019589395794,40.537212249148446
+Staten Island,Private room in apartment,Private room,2,1.0,Yes,No,67.80716907712913,67.80716907712913
+Staten Island,Private room in apartment,Private room,2,1.0,Yes,Yes,60.27061151100573,62.30802170129602
+Staten Island,Private room in apartment,Private room,3,1.0,Yes,Yes,42.37108357762924,42.37108357762924
+Staten Island,Private room in apartment,Private room,4,1.0,Yes,Yes,107.6934741485572,107.6934741485572
+Staten Island,Private room in guest suite,Private room,2,2.0,Yes,Yes,84.03523619591499,84.03523619591499
+Staten Island,Private room in guest suite,Private room,3,1.0,Yes,Yes,69.40017719520118,69.40017719520118
+Staten Island,Private room in house,Private room,1,1.0,Yes,No,33.72161036586966,36.05420829558215
+Staten Island,Private room in house,Private room,1,1.0,Yes,Yes,33.796781316180024,41.45904213565191
+Staten Island,Private room in house,Private room,2,1.0,Yes,No,155.15466935346552,155.15466935346552
+Staten Island,Private room in house,Private room,2,1.0,Yes,Yes,51.62918705423217,60.99072913643591
+Staten Island,Private room in house,Private room,2,2.0,Yes,Yes,63.05606216052317,63.05606216052317
+Staten Island,Private room in house,Private room,3,1.0,Yes,Yes,55.61076882987447,55.61076882987447
+Staten Island,Private room in house,Private room,4,1.0,Yes,Yes,93.96832443048986,132.48904742941383
+Staten Island,Private room in house,Private room,4,2.0,Yes,Yes,95.0141407264906,103.12862778312582
+Staten Island,Private room in townhouse,Private room,1,1.0,Yes,No,23.570001819758843,23.570001819758843
+Staten Island,Private room in townhouse,Private room,1,1.0,Yes,Yes,30.007245816992004,30.007245816992004
+Staten Island,Private room in townhouse,Private room,2,1.0,Yes,Yes,54.84064588329969,54.84064588329969
+Staten Island,Private room in townhouse,Private room,3,1.0,Yes,Yes,84.54824213060544,84.54824213060544
+Staten Island,Private room in townhouse,Private room,4,1.0,Yes,Yes,49.82834091081472,49.82834091081472
+Staten Island,Shared room in apartment,Shared room,4,1.0,Yes,Yes,79.51735743803007,79.51735743803007
+Staten Island,Shared room in earth house,Shared room,1,1.0,Yes,Yes,89.03669982568263,89.03669982568263
+Staten Island,Shared room in house,Shared room,1,1.0,Yes,No,24.67412056540236,24.67412056540236

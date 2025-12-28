@@ -1,0 +1,14 @@
+deskripsi folder dan data yang telah kami tambahkan disini
+
+[folder]
+study case 		: folder yang berisi data csv yang telah diberikan sebagai study case dan panduan study case.
+
+[data]
+dfh : data yang sudah melalui Prepocessing dari data 'hosts.csv'
+dfl : data yang sudah melalui Prepocessing dari data 'listings.csv'
+dfr : data yang sudah melalui Prepocessing dari data 'reviews.csv'
+
+listing_amenities_count		: tabel csv yang berisi listing_id dan amenities_count. amenities count ini kamidapatkan dari memisahkan dan menghitung jumlah fasilitas yang ada pada kolom 'amenities' pada data 'lingtings.csv' 
+optimal_price 			: tabel csv yang berisi hasil akhir model berupa kolom yang sebelumnya digunakan sebagai parameter model, harga sebenarnya, dan harga optimal hasil prediksi dari kami.
+price_correlation_matrix 	: tabel csv yang berisi hasil he map yang telah dibuat pada kode python sebelumnya.
+table_rmse 			: tabel yang berisi beberapa mdole yangkami coba dan rmse nya

@@ -1,0 +1,49 @@
+Description
+
+Data Airbnb untuk ribuan daftar tempat penginapan di kota-kota besar, termasuk informasi mengenai tuan rumah, harga, lokasi, dan tipe kamar, serta lebih dari ratusan ribu ulasan historis.
+
+[listings.csv]
+listing_id			: ID daftar tempat penginapan
+listing_name			: Nama tempat penginapan
+host_id				: ID tuan rumah
+neighbourhood			: Dearah lingkungan tempat penginapan berada
+district			: Wilayah tempat penginapan berada
+city				: Kota tempat penginapan berada
+latitude			: Titik lokasi garis lintang tempat penginapan berada
+longitude			: Titik lokasi garis bujur tempat penginapan berada
+property_type			: Jenis properti untuk tempat penginapan
+room_type			: Jenis tipe kamar di Airbnb untuk tempat penginapan
+accommodates			: Jumlah tamu yang diakomodasi oleh tempat penginapan
+bedrooms			: Jumlah kamar tidur dalam tempat penginapan
+amenities			: Fasilitas yang termasuk dalam tempat penginapan
+price				: Harga tempat penginapan (dalam mata uang masing-masing negara)
+minimum_nights			: Syarat minimum jumlah malam per pemesanan
+maximum_nights			: Syarat maksimum jumlah malam per pemesanan
+instant_bookable		: Variabel biner untuk menentukan apakah tempat penginapan dapat dipesan secara instan [f:false,t:true]
+
+
+[reviews.csv]
+review_id			: ID review
+listing_id			: ID daftar tempat penginapan
+reviewer_id			: ID reviewer
+review_scores_rating		: Rating untuk tempat penginapan (dari 100)
+review_scores_accuracy		: Skor akurasi tempat berdasarkan apa yang dipromosikan di Airbnb (dari 10)
+review_scores_cleanliness	: Skor kebersihan tempat (dari 10)
+review_scores_checkin		: Skor pengalaman check-in tempat (dari 10)
+review_scores_communication	: Skor komunikasi dengan tuan rumah (dari 10)
+review_scores_location		: Skor lokasi tempat dalam kota (dari 10)
+review_scores_value		: Skor nilai tempat relatif terhadap harganya (dari 10)
+review_date			: Tanggal review
+
+
+[hosts.csv]
+host_id				: ID tuan rumah
+host_since			: Tanggal tuan rumah bergabung dengan Airbnb
+host_location			: Lokasi dimana tuan rumah berada
+host_response_time		: Perkiraan berapa lama waktu yang dibutuhkan tuan rumah untuk merespons
+host_response_rate		: Tingkat respons tuan rumah 
+host_acceptance_rate		: Tingkat penerimaan permohonan pemesanan oleh tuan rumah
+host_is_superhost		: Variabel biner untuk menentukan apakah tuan rumah adalah Superhost [f:false,t:true]
+host_total_listings_count	: Total daftar tempat penginapan yang dimiliki tuan rumah di Airbnb
+host_has_profile_pic		: Variabel biner untuk menentukan apakah tuan rumah memiliki gambar profil pada akun Airbnb [f:false,t:true]
+host_identity_verified		: Variabel biner untuk menentukan apakah tuan rumah memiliki identitas terverifikasi [f:false,t:true]
